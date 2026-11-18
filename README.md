@@ -193,8 +193,9 @@ Completed specialized technical coursework through the Department of Defense Cyb
 
 ## U.S. Army Service & Leadership
 
-* **Primary Specialty:** Served 8 years and 3 months (2015–2023) on Active Duty in the U.S. Army Light Infantry as an 11B3O Infantryman Non-Commissioned Officer (Staff Sergeant), concluding service at Rifle Company FC. Master Resilience Trainer (Additional Skill Identifier 8R) and Mountaineering School graduate.
+* **Primary Specialty:** Served 8 years and 3 months (2015–2023) on Active Duty in the U.S. Army Light Infantry as an 11B3O Infantryman Non-Commissioned Officer (Staff Sergeant), concluding service at Rifle Company FC. Master Resilience Trainer (Additional Skill Identifier 8R) and Military Mountaineer (Skill Qualification Identifier E).
 * **Emergency Telecommunications Leadership:** Served as the Louisiana Program Administrator for the GETS and WPS priority telecommunications programs from 2021 to 2023, overseeing enrollment and credential issuance for all military personnel.
 * **Combat Deployments:** Completed two combat deployments in Afghanistan within designated imminent danger pay areas from March to November 2016 and March to November 2018.
-* **Military Education:** Graduated from the five-week Advanced Leader Course in 2021, two-week Basic Military Mountaineering Course in 2020, four-week Basic Leader Course in 2018, and one-week Combat Lifesavers Course.
+* **Military Mountaineering:** Earned Skill Qualification Identifier "E" (Military Mountaineer) upon graduating from the two-week Basic Military Mountaineer Course at the Army Mountain Warfare School, conducted at the Northern Warfare Training Center (NWTC) in Black Rapids, Alaska in 2020, where he trained with the USARAK Denali Mountaineering Team.
+* **Military Education:** Graduated from the five-week Advanced Leader Course in 2021, four-week Basic Leader Course in 2018, and one-week Combat Lifesavers Course.
 * **Decorations & Awards:** Earned the Army Commendation Medal with C Device, second Army Commendation Medal, Army Achievement Medal, second Good Conduct Medal, Afghanistan Campaign Medal with Star, and NATO Medal.
