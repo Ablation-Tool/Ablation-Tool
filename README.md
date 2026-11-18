@@ -6,6 +6,7 @@ Specializing in enterprise network security appliances, identity management plat
 
 This profile documents zero-day vulnerability disclosures, vendor hardening defect advisories, AI red team research, priority emergency telecommunications administration, CISA ICS/OT training, ITDRC deployments, DC3 cyber coursework, FEMA certifications, and military leadership.
 
+[![Medium](https://img.shields.io/badge/Medium-@zellkernel-black?logo=medium)](https://medium.com/@zellkernel)
 [![Medium](https://img.shields.io/badge/Medium-@NicholasKloster-black?logo=medium)](https://medium.com/@NicholasKloster)
 [![Web](https://img.shields.io/badge/Web-nuclide--research.com-blue)](https://nuclide-research.com)
 
@@ -204,7 +205,18 @@ Completed specialized technical coursework through the Department of Defense Cyb
 
 ## Publications & Professional Affiliations
 
-* **[Medium Technical Publications](https://medium.com/@NicholasKloster):** Authored technical documentation on [TempleOS kernel/system commands](https://medium.com/@NicholasKloster/templeos-commands-cf5f9a03f837), military service records, and verified FEMA, DoD, and ethical hacking certification portfolios.
+**Technical writing on Medium — [@zellkernel](https://medium.com/@zellkernel):**
+
+* [Three CVEs in Cisco Secure FMC: Shared Firmware Key, Sudo Injection, and SSO Token Forgery](https://medium.com/@zellkernel/three-cves-in-cisco-secure-fmc-shared-firmware-key-sudo-injection-and-sso-token-forgery-24b1e19ff184)
+* [Cracking Fortinet's Firmware](https://medium.com/@zellkernel/cracking-fortinets-firmware-bc4553c8f540)
+* [I Couldn't Learn Reverse Engineering From Tutorials, So I Built My Own Tool](https://medium.com/@zellkernel/i-couldnt-learn-reverse-engineering-from-tutorials-so-i-built-my-own-tool-1aaf00187732)
+* [MCP: The "Standard" That Makes AI Integrations Shockingly Easy to Exploit](https://medium.com/@zellkernel/mcp-the-standard-that-makes-ai-integrations-shockingly-easy-to-exploit-d0cc136e2879)
+* [REA Exploits MCP](https://medium.com/@zellkernel/rea-exploits-mcp-492effbeaebc)
+* [WTF is MCP?](https://medium.com/@zellkernel/wtf-is-mcp-57536249d6d8)
+* [Zoe Autonomy: A Self-Governing Measurement–Action Architecture](https://medium.com/@zellkernel/zoe-autonomy-a-self-governing-measurement-action-architecture-95ae1b1b45c1)
+* [How to Delete Contributors on GitHub](https://medium.com/@zellkernel/how-to-delete-contributors-on-github-8e40d78930cb)
+
+**[@NicholasKloster](https://medium.com/@NicholasKloster):** Technical documentation on [TempleOS kernel/system commands](https://medium.com/@NicholasKloster/templeos-commands-cf5f9a03f837), military service records, and verified FEMA, DoD, and ethical hacking certification portfolios.
 * **InfraGard (FBI):** Missouri – Kansas City chapter — FBI-affiliated public-private partnership for critical infrastructure protection.
 * **FEMA Student Identification (SID):** Registered FEMA SID holder for Emergency Management Institute and Center for Domestic Preparedness training.
 * **National Fire Protection Association (NFPA):** Recognized Member in Good Standing, issued November 30, 2024.
@@ -229,6 +241,6 @@ No degree. Everything here is self-taught.
 
 ## Contact
 
-[nuclide-research.com](https://nuclide-research.com) · [Medium](https://medium.com/@NicholasKloster)
+[nuclide-research.com](https://nuclide-research.com) · [Medium @zellkernel](https://medium.com/@zellkernel) · [Medium @NicholasKloster](https://medium.com/@NicholasKloster)
 
 **Open to:** AI/LLM red team roles · offensive security research · advisory · contract tool development
