@@ -184,7 +184,6 @@ Completed specialized technical coursework through the Department of Defense Cyb
 * [Zoe Autonomy: A Self-Governing Measurement–Action Architecture](https://medium.com/@zellkernel/zoe-autonomy-a-self-governing-measurement-action-architecture-95ae1b1b45c1)
 * [How to Delete Contributors on GitHub](https://medium.com/@zellkernel/how-to-delete-contributors-on-github-8e40d78930cb)
 
-* **Medium Technical Publications — [@NicholasKloster](https://medium.com/@NicholasKloster):** Authored technical documentation on [TempleOS kernel/system commands](https://medium.com/@NicholasKloster/templeos-commands-cf5f9a03f837), military service records, and verified FEMA, DoD, and ethical hacking certification portfolios.
 * **InfraGard (FBI):** Missouri – Kansas City chapter — FBI-affiliated public-private partnership for critical infrastructure protection.
 * **FEMA Student Identification (SID):** Registered FEMA SID holder for Emergency Management Institute and Center for Domestic Preparedness training.
 * **National Fire Protection Association (NFPA):** Recognized Member in Good Standing, issued November 30, 2024.
