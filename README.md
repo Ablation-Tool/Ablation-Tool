@@ -173,7 +173,7 @@ Completed specialized technical coursework through the Department of Defense Cyb
 
 ## Professional Affiliations & Publications
 
-* **InfraGard (FBI):** Missouri – Kansas City chapter — FBI-affiliated public-private partnership for critical infrastructure protection.
+* **InfraGard (FBI), 2024:** Former member, Missouri – Kansas City chapter (approximately one year) — FBI-affiliated public-private partnership for critical infrastructure protection.
 * **FEMA Student Identification (SID):** Registered FEMA SID holder for Emergency Management Institute and Center for Domestic Preparedness training.
 * **National Fire Protection Association (NFPA):** Recognized Member in Good Standing, issued November 30, 2024.
 
