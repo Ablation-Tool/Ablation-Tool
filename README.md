@@ -2,9 +2,6 @@
 
 This portfolio documents zero-day vulnerability disclosures, vendor hardening defect advisories, priority emergency telecommunications administration, CISA ICS/OT training, ITDRC deployments, DC3 cyber coursework, FEMA certifications, and military leadership.
 
-[![Medium](https://img.shields.io/badge/Medium-@zellkernel-black?logo=medium)](https://medium.com/@zellkernel)
-[![Medium](https://img.shields.io/badge/Medium-@NicholasKloster-black?logo=medium)](https://medium.com/@NicholasKloster)
-
 ---
 
 ## Assigned CVEs & ICS Advisories
