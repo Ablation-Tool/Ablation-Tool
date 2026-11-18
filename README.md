@@ -1,6 +1,6 @@
 # Nicholas Michael Kloster
 
-**Independent Security Researcher · AI Red Teaming Specialist · CVE Author · Critical Infrastructure Operator · U.S. Army Infantry Veteran (SSG)**
+**Independent Security Researcher · CVE Author · Critical Infrastructure Operator · U.S. Army Infantry Veteran (SSG)**
 
 Specializing in enterprise network security appliances, identity management platforms, industrial control systems, and AI/LLM offensive security. I break LLMs and the infrastructure around them, write findings to vendor-grade standards, and ship the tools I use. Disclosure-first.
 
