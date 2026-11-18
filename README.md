@@ -1,4 +1,4 @@
-# Nicholas Michael Kloster — Security Research & Professional Portfolio
+# Nicholas Michael Kloster 
 
 Independent security researcher, technical author, critical infrastructure operator, and decorated U.S. Army Infantry veteran specializing in enterprise network security appliances, identity management platforms, and industrial control systems. This portfolio documents zero-day vulnerability disclosures, vendor hardening defect advisories, priority emergency telecommunications administration, CISA ICS/OT training, ITDRC deployments, DC3 cyber coursework, FEMA certifications, and military leadership.
 
