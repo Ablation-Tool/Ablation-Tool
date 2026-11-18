@@ -1,6 +1,6 @@
 # Nicholas Michael Kloster 
 
-This portfolio documents zero-day vulnerability disclosures, vendor hardening defect advisories, priority emergency telecommunications administration, CISA ICS/OT training, ITDRC deployments, DC3 cyber coursework, FEMA certifications, and military leadership.
+Building Zoe.
 
 ---
 
