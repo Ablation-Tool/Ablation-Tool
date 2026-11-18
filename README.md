@@ -4,6 +4,29 @@ This portfolio documents zero-day vulnerability disclosures, vendor hardening de
 
 ---
 
+## Repositories
+
+| Pinned Repository | Description |
+| --- | --- |
+| [zoe](https://github.com/Ablation-Tool/zoe) | Zoe |
+| [Zoe-Autonomy](https://github.com/Ablation-Tool/Zoe-Autonomy) | Zoe Autonomy: A Self-Governing Measurement–Action Architecture |
+| [zoe-visual-archive](https://github.com/Ablation-Tool/zoe-visual-archive) | Complete Zoe visual archive: artwork, diagrams, research figures, interfaces, animations, provenance, and detailed per-image explanations |
+| [next-token-predictability](https://github.com/Ablation-Tool/next-token-predictability) | The metric for measuring the shape of a language model's next-token decision before a token is selected |
+| [ablation](https://github.com/Ablation-Tool/ablation) | AI-assisted reverse engineering (AIARE) framework |
+| [research-papers](https://github.com/Ablation-Tool/research-papers) | Complete Autonomy, Accessible Volume, and Zoe research paper collection with PDFs, LaTeX sources, and reproduction archives |
+
+| More Projects | Description |
+| --- | --- |
+| [kevlar](https://github.com/Ablation-Tool/kevlar) | Proxy firewall & security layer for Model Context Protocol |
+| [cerotto](https://github.com/Ablation-Tool/cerotto) | AI-assisted digital forensics tool built on the Graphics Environment Manager |
+| [graphics-environment-manager](https://github.com/Ablation-Tool/graphics-environment-manager) | Graphics Environment Manager |
+| [pdf-signature-toolkit](https://github.com/Ablation-Tool/pdf-signature-toolkit) | Reproducible LaTeX source integrity records and PKCS #7 detached PDF signatures |
+| [brain-gem](https://github.com/Ablation-Tool/brain-gem) | Standalone Bayesian field notebook with deterministic and stochastic chambers and hash-chained memory |
+| [gem-helen](https://github.com/Ablation-Tool/gem-helen) | Optimized native geometry and forecast laboratory |
+| [Chalkboard](https://github.com/Ablation-Tool/Chalkboard) | Ideas, templates, and prompts — free for anyone to take and use |
+
+---
+
 ## Assigned CVEs & ICS Advisories
 
 | Reference | Product | Vulnerability Title | CVSS |
@@ -43,24 +66,6 @@ Beyond formal CVE assignments, the following architectural vulnerabilities were 
 * **CSCwu43439:** Discovered that the Cisco ISE SSE Connector management API bound to all network interfaces without client authentication under default configurations, resulting in service port restrictions.
 * **CSCww36036:** Uncovered an exposed SSE Connector configuration combining all-interface binding, push command execution settings, and an expired CA certificate.
 * **CSCww36081:** Reported an exposed default Apache Tomcat shutdown configuration within the Cisco ISE Certificate Authority service, driving HTTP server hardening updates.
-
----
-
-## Open Source & Research Projects
-
-| Project | Description |
-| --- | --- |
-| [ablation](https://github.com/Ablation-Tool/ablation) | AI-assisted reverse engineering (AIARE) framework |
-| [kevlar](https://github.com/Ablation-Tool/kevlar) | Proxy firewall & security layer for Model Context Protocol |
-| [cerotto](https://github.com/Ablation-Tool/cerotto) | AI-assisted digital forensics tool built on the Graphics Environment Manager |
-| [graphics-environment-manager](https://github.com/Ablation-Tool/graphics-environment-manager) | Graphics Environment Manager |
-| [next-token-predictability](https://github.com/Ablation-Tool/next-token-predictability) | Metric for measuring the shape of a language model's next-token decision before a token is selected |
-| [Zoe-Autonomy](https://github.com/Ablation-Tool/Zoe-Autonomy) | Zoe Autonomy: a self-governing measurement–action architecture |
-| [research-papers](https://github.com/Ablation-Tool/research-papers) | Complete Autonomy, Accessible Volume, and Zoe research paper collection with PDFs, LaTeX sources, and reproduction archives |
-| [pdf-signature-toolkit](https://github.com/Ablation-Tool/pdf-signature-toolkit) | Reproducible LaTeX source integrity records and PKCS #7 detached PDF signatures |
-| [brain-gem](https://github.com/Ablation-Tool/brain-gem) | Standalone Bayesian field notebook with deterministic and stochastic chambers and hash-chained memory |
-| [gem-helen](https://github.com/Ablation-Tool/gem-helen) | Optimized native geometry and forecast laboratory |
-| [Chalkboard](https://github.com/Ablation-Tool/Chalkboard) | Ideas, templates, and prompts — free for anyone to take and use |
 
 ---
 
