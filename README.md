@@ -73,7 +73,7 @@ Beyond formal CVE assignments, the following architectural vulnerabilities were 
 
 * **Louisiana GETS/WPS Program Administrator (2021–2023):** Directed Louisiana's Government Emergency Telecommunications Service (GETS) and Wireless Priority Service (WPS) program for all military users, managing priority telecommunications provisioning and issuing GETS/WPS cards.
 * **Information Technology Disaster Resource Center (ITDRC):** Volunteered from 2020 through 2024 providing mission-critical IT infrastructure, emergency communications, and disaster recovery support to affected communities.
-* **CISA Critical Infrastructure Authorization:** Authorized by the Cybersecurity and Infrastructure Security Agency (CISA) to perform secure infrastructure operations, technical recovery, and resilience hardening on critical systems.
+* **CISA Critical Infrastructure Authorization (concluded 2024):** Previously authorized by the Cybersecurity and Infrastructure Security Agency (CISA) to perform secure infrastructure operations, technical recovery, and resilience hardening on critical systems in support of ITDRC disaster response work. This authorization ended with the conclusion of ITDRC volunteer service in 2024.
 
 ---
 
