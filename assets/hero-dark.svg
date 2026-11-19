@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="hero-dark-title hero-dark-desc">
+  <title id="hero-dark-title">Nicholas Michael Kloster — Independent Researcher &amp; Architect of Zoe</title>
+  <desc id="hero-dark-desc">Building Zoe — Operational Metacognition, Self-Governing Autonomy, and Volumetric Visual Computing.</desc>
+  <defs>
+    <linearGradient id="bg-dark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0D11"/>
+      <stop offset="100%" stop-color="#11151C"/>
+    </linearGradient>
+    <pattern id="grid-dark" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#242B38" stroke-opacity="0.45" stroke-width="1"/>
+    </pattern>
+    <clipPath id="panel-clip-dark">
+      <rect x="756" y="34" width="408" height="252" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer card -->
+  <rect x="1" y="1" width="1198" height="318" rx="14" fill="url(#bg-dark)" stroke="#242B38" stroke-width="1"/>
+
+  <!-- Left vertical crimson architectural bar -->
+  <rect x="44" y="46" width="4" height="228" rx="2" fill="#E11D2E"/>
+
+  <!-- Left typographic column -->
+  <text x="68" y="74" fill="#E11D2E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">INDEPENDENT RESEARCHER · ARCHITECT OF ZOE</text>
+  <text x="66" y="132" fill="#F3F5F8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-1.0">Nicholas Michael Kloster</text>
+  <text x="68" y="168" fill="#A1ACB9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17">Building Zoe — Operational Metacognition, Self-Governing Autonomy</text>
+  <text x="68" y="192" fill="#A1ACB9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17">&amp; Volumetric Visual Computing</text>
+
+  <line x1="68" y1="214" x2="700" y2="214" stroke="#242B38" stroke-width="1"/>
+
+  <!-- Domain tags -->
+  <text x="68" y="242" fill="#F3F5F8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600" letter-spacing="0.8">ACCESSIBLE VOLUME</text>
+  <circle cx="222" cy="238" r="2.5" fill="#E11D2E"/>
+  <text x="236" y="242" fill="#F3F5F8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600" letter-spacing="0.8">SPECTRAL FILTRATION</text>
+  <circle cx="408" cy="238" r="2.5" fill="#E11D2E"/>
+  <text x="422" y="242" fill="#F3F5F8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600" letter-spacing="0.8">DOROTHY ATLAS</text>
+  <circle cx="545" cy="238" r="2.5" fill="#E11D2E"/>
+  <text x="559" y="242" fill="#F3F5F8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600" letter-spacing="0.8">AIARE</text>
+
+  <!-- Footer metadata -->
+  <text x="68" y="272" fill="#6E7B8C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">Ablation-Tool/zoe  ·  18 Research Papers  ·  359 Visuals  ·  6 Credited CVEs</text>
+
+  <!-- Right scientific visualization panel -->
+  <rect x="756" y="34" width="408" height="252" rx="10" fill="#12161E" stroke="#242B38" stroke-width="1"/>
+  <g clip-path="url(#panel-clip-dark)">
+    <rect x="756" y="34" width="408" height="252" fill="url(#grid-dark)"/>
+  </g>
+
+  <text x="778" y="60" fill="#6E7B8C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" letter-spacing="1.0">ACCESSIBLE VOLUME FILTRATION</text>
+  <text x="1142" y="60" text-anchor="end" fill="#E11D2E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700">A_τ(p) = 5</text>
+
+  <!-- Plot axes -->
+  <line x1="786" y1="82" x2="786" y2="236" stroke="#2D3646" stroke-width="1"/>
+  <line x1="786" y1="236" x2="1132" y2="236" stroke="#2D3646" stroke-width="1"/>
+
+  <!-- 12 monotonically descending probability bars (x starts at 796, width 18, step 28) -->
+  <!-- First 5 bars above threshold y=164 -->
+  <rect x="796" y="98" width="18" height="138" rx="2" fill="#E11D2E" fill-opacity="0.22" stroke="#E11D2E" stroke-opacity="0.45" stroke-width="1"/>
+  <rect x="796" y="98" width="18" height="3" rx="1" fill="#E11D2E"/>
+
+  <rect x="824" y="114" width="18" height="122" rx="2" fill="#E11D2E" fill-opacity="0.20" stroke="#E11D2E" stroke-opacity="0.45" stroke-width="1"/>
+  <rect x="824" y="114" width="18" height="3" rx="1" fill="#E11D2E"/>
+
+  <rect x="852" y="130" width="18" height="106" rx="2" fill="#E11D2E" fill-opacity="0.18" stroke="#E11D2E" stroke-opacity="0.45" stroke-width="1"/>
+  <rect x="852" y="130" width="18" height="3" rx="1" fill="#E11D2E"/>
+
+  <rect x="880" y="146" width="18" height="90" rx="2" fill="#E11D2E" fill-opacity="0.17" stroke="#E11D2E" stroke-opacity="0.45" stroke-width="1"/>
+  <rect x="880" y="146" width="18" height="3" rx="1" fill="#E11D2E"/>
+
+  <rect x="908" y="158" width="18" height="78" rx="2" fill="#E11D2E" fill-opacity="0.16" stroke="#E11D2E" stroke-opacity="0.45" stroke-width="1"/>
+  <rect x="908" y="158" width="18" height="3" rx="1" fill="#E11D2E"/>
+
+  <!-- Remaining 7 bars below threshold y=164 -->
+  <rect x="936" y="178" width="18" height="58" rx="2" fill="#2A3342" fill-opacity="0.7" stroke="#3B475C" stroke-width="1"/>
+  <rect x="964" y="190" width="18" height="46" rx="2" fill="#2A3342" fill-opacity="0.6" stroke="#3B475C" stroke-width="1"/>
+  <rect x="992" y="200" width="18" height="36" rx="2" fill="#2A3342" fill-opacity="0.55" stroke="#3B475C" stroke-width="1"/>
+  <rect x="1020" y="208" width="18" height="28" rx="2" fill="#2A3342" fill-opacity="0.5" stroke="#3B475C" stroke-width="1"/>
+  <rect x="1048" y="214" width="18" height="22" rx="2" fill="#2A3342" fill-opacity="0.45" stroke="#3B475C" stroke-width="1"/>
+  <rect x="1076" y="220" width="18" height="16" rx="2" fill="#2A3342" fill-opacity="0.4" stroke="#3B475C" stroke-width="1"/>
+  <rect x="1104" y="225" width="18" height="11" rx="2" fill="#2A3342" fill-opacity="0.35" stroke="#3B475C" stroke-width="1"/>
+
+  <!-- Smooth envelope curve across bar top centers -->
+  <path d="M 805 98 Q 847 122 889 146 T 945 178 T 1029 208 T 1113 225" fill="none" stroke="#F3F5F8" stroke-opacity="0.45" stroke-width="1.5"/>
+
+  <!-- Threshold line -->
+  <line x1="782" y1="164" x2="1124" y2="164" stroke="#E11D2E" stroke-width="1.5" stroke-dasharray="5,4"/>
+  <text x="1132" y="168" fill="#E11D2E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700">τ</text>
+
+  <!-- Bottom axis caption -->
+  <text x="786" y="262" fill="#6E7B8C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">p(x) &gt; τ  ·  RANKED HYPOTHESIS SPACE X</text>
+</svg>
