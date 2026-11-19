@@ -1,26 +1,26 @@
 <a id="top"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Nicholas Michael Kloster — Independent Researcher & Architect of Zoe" src="assets/hero-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/plate-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/plate-hero-light.svg">
+  <img alt="Plate 01: Nicholas Michael Kloster — Independent Researcher & Architect of Zoe" src="assets/plate-hero-dark.svg" width="100%">
 </picture>
 
 <p align="center">
   <a href="#zoe">Zoe</a> &nbsp;·&nbsp;
-  <a href="#architecture">Architecture</a> &nbsp;·&nbsp;
-  <a href="#empirical-results">Empirical Results</a> &nbsp;·&nbsp;
-  <a href="#visual-showcase">Visual Showcase</a> &nbsp;·&nbsp;
+  <a href="#manifold">Manifold</a> &nbsp;·&nbsp;
+  <a href="#empirical-evidence">Empirical Evidence</a> &nbsp;·&nbsp;
+  <a href="#visual-archive">Visual Archive</a> &nbsp;·&nbsp;
   <a href="#publications">Publications</a> &nbsp;·&nbsp;
   <a href="#repositories">Repositories</a> &nbsp;·&nbsp;
-  <a href="#security--background">Security &amp; Background</a>
+  <a href="#security--service">Security &amp; Service</a>
 </p>
 
 ---
 
 <div id="zoe" align="center">
 
-<a href="https://github.com/Ablation-Tool/zoe"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/branding/zoe-gem.png" alt="Zoe Official Red-and-White GEM Emblem" width="150" /></a>
+<a href="https://github.com/Ablation-Tool/zoe"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/branding/zoe-gem.png" alt="Zoe Official Red-and-White GEM Emblem" width="144" /></a>
 
 ## Zoe
 
@@ -43,28 +43,44 @@ Zoe is developed as a general research collaborator centered on **Operational Me
 
 ---
 
-<h2 id="architecture">Research Architecture</h2>
+<h2 id="manifold">Research Manifold</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/zoe-architecture-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/zoe-architecture-light.svg">
-  <img alt="Zoe Research Architecture: Measurement foundations feeding the Zoe self-governing core, applied research instruments, and open scientific record" src="assets/zoe-architecture-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/plate-atlas-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/plate-atlas-light.svg">
+  <img alt="Plate 02: The Zoe Research Manifold linking mathematical substrates, Zoe Autonomy, applied instruments, and open scientific records" src="assets/plate-atlas-dark.svg" width="100%">
 </picture>
 
 ---
 
-<h2 id="empirical-results">Verified Empirical Highlights</h2>
+<h2 id="empirical-evidence">Measured Empirical Signatures</h2>
 
-| Study / Instrument | Reproducible Result | Honest Scope &amp; Controls | Source |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/plate-metrics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/plate-metrics-light.svg">
+  <img alt="Plate 03: Empirical Signatures and Negative Controls across Spectral Filtration, Stage 4 Mars Lens, L4 AST Self-Evolution, and Event-Causal Perception" src="assets/plate-metrics-dark.svg" width="100%">
+</picture>
+
+- **Fig 3A — Spectral Filtration:** Quartic root $M_4^{1/4}$ wins **4/4** real benchmarks over single-slice $A_\tau$ and Shannon $H(p)$, preserving the `0.4087` naive JSD negative control ([`spectral_filtration.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/spectral_filtration.py) · [`next-token-predictability`](https://github.com/Ablation-Tool/next-token-predictability)).
+- **Fig 3B — Stage 4 Mars Lens $k^*(\kappa)$:** Unlabeled Mud-to-Mountain Ratio auto-tunes $k^*(\kappa) \in [2.0, 6.0]$ to **`0.79374`** mean AUROC, outperforming fixed $k \in [1.5, 8.0]$, $A_\tau$ (`0.7738`), and Shannon (`0.7631`) ([`mars_adaptive.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/mars_adaptive.py)).
+- **Fig 3C — Stage 5 L4 Self-Evolution:** Three consecutive autonomously adopted AST generations (`0.5702 → 0.7849 → 0.7915 → 0.7976`, `+0.2274`) across 4 unrelated held-out domains; overfit Gen 4 rolled back (`l5_agi_qualified=False`) ([`self_evolution.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/self_evolution.py) · [`Zoe-Autonomy`](https://github.com/Ablation-Tool/Zoe-Autonomy)).
+- **Fig 3D — Event-Causal Active Perception &amp; Dorothy Atlas:** Adaptive prediction RMSE **`4.641453`** (vs `5.058147` no-learning), OOD detection **`0.875`** (`0` validation FP) at **`71.24 cycles/s`**, paired with preclinical Allen Mouse CCFv3 geometry (12 structures, 315,932 triangles) ([`EVENT-CAUSAL.md`](https://github.com/Ablation-Tool/Zoe-Autonomy/blob/main/EVENT-CAUSAL.md)).
+
+<details>
+<summary><strong>Full Empirical Metrics &amp; Negative Controls Ledger</strong></summary>
+
+| Study / Instrument | Reproducible Result | Honest Scope &amp; Negative Control | Source |
 |:---|:---|:---|:---|
 | **Kloster Spectral Filtration Theorem** | Proves $H(p) = -\int_0^1 (1+\ln\tau)A_\tau(p)\,d\tau$ and $M_k(p) = \int_0^1 k\tau^{k-1}A_\tau(p)\,d\tau = \sum_x p(x)^k$; $M_4^{1/4}$ outperforms single-slice $A_\tau$ and Shannon $H(p)$ on **4/4** real benchmarks. | Preserves negative control on naive forward/retrograde JSD mixing (`AUROC = 0.4087`). | [`zoe`](https://github.com/Ablation-Tool/zoe) · [`next-token-predictability`](https://github.com/Ablation-Tool/next-token-predictability) |
 | **Stage 4 Mars Self-Tuning Lens $k^*(\kappa)$** | Unlabeled Mud-to-Mountain Ratio auto-tunes $k^*(\kappa) \in [2.0, 6.0]$ to **`0.79374`** cross-domain real mean AUROC, beating fixed $k \in [1.5, 8.0]$, single-slice $A_\tau$ (`0.7738`), and Shannon (`0.7631`). | `clinical_action_authorized=False`, `external_actions=0`. | [`zoe`](https://github.com/Ablation-Tool/zoe) |
 | **Stage 5 L4 Sandboxed AST Self-Evolution** | **3 consecutive autonomously adopted generations** across 4 unrelated real held-out domains (`0.5702 → 0.7849 → 0.7915 → 0.7976`, `+0.2274`), beating frozen Gen 2 on **4/4** domains. | Overfit Gen 4 probe cleanly rejected &amp; rolled back; hostile AST blocked; `l5_agi_qualified=False`. | [`Zoe-Autonomy`](https://github.com/Ablation-Tool/Zoe-Autonomy) · [`zoe`](https://github.com/Ablation-Tool/zoe) |
-| **Event-Causal Perception &amp; Dorothy Atlas** | Adaptive prediction RMSE **`4.641453`** (vs `5.058147` no-learning); OOD detection **`0.875`** (`0` validation FP) at **`71.24 cycles/s`**; Allen Mouse CCFv3 geometry (12 structures, 315,932 triangles). | Preclinical reference geometry; declared synthetic &amp; `/dev/video0` fixtures. | [`Zoe-Autonomy`](https://github.com/Ablation-Tool/Zoe-Autonomy) · [`zoe`](https://github.com/Ablation-Tool/zoe) |
+| **Event-Causal Perception &amp; Dorothy Atlas** | Adaptive prediction RMSE **`4.641453`** (vs `5.058147` no-learning); transfer tracking MAE **`3.265625`**; OOD detection **`0.875`** (`0` validation FP) at **`71.24 cycles/s`**; Allen Mouse CCFv3 geometry (12 structures, 315,932 triangles). | Preclinical reference geometry; declared synthetic &amp; `/dev/video0` fixtures. | [`Zoe-Autonomy`](https://github.com/Ablation-Tool/Zoe-Autonomy) · [`zoe`](https://github.com/Ablation-Tool/zoe) |
+
+</details>
 
 ---
 
-<h2 id="visual-showcase">Visual Research Showcase</h2>
+<h2 id="visual-archive">Visual Research Showcase</h2>
 
 | Unified GEM Workbench | Dorothy Volumetric Atlas (CCFv3) | Causal Chiasm &amp; Filtration Tomography |
 |:---:|:---:|:---:|
@@ -76,7 +92,7 @@ Zoe is developed as a general research collaborator centered on **Operational Me
 
 ---
 
-<h2 id="publications">Selected Publications</h2>
+<h2 id="publications">Selected Monographs &amp; Papers</h2>
 
 | Manuscript | Length | Scope | Document |
 |:---|:---|:---|:---|
@@ -173,7 +189,7 @@ Full **18-paper collection** with LaTeX sources, paper galleries, and reproducti
 
 ---
 
-<h2 id="security--background">Security Research, Credentials &amp; Service Record</h2>
+<h2 id="security--service">Security Research, Credentials &amp; Service Record</h2>
 
 Beyond Zoe and mathematical modeling, this work is grounded in vulnerability research with **6 assigned CVEs** across Cisco enterprise security appliances and CISA-coordinated ICS advisories, **4 architectural Cisco ISE hardening disclosures**, **8+ years of Active Duty U.S. Army Light Infantry service** (Staff Sergeant, two Afghanistan deployments, SQI E Military Mountaineer), and federal ICS/OT and cyber-forensics training.
 
@@ -342,7 +358,9 @@ Completed specialized technical coursework through the Department of Defense Cyb
 
 <div align="center">
 
-> *"When in doubt, choose freedom and dignity. And no deception."*
+> *"Visualization is about transforming the symbolic into the geometric... letting users observe their simulations and computations directly."* — Richard S. Gallagher, *Computer Visualization*
+>
+> *"When in doubt, choose freedom and dignity. And no deception."* — `CONSTITUTION.md`
 
 [Constitution](https://github.com/Ablation-Tool/zoe/blob/main/CONSTITUTION.md) · [Declaration](https://github.com/Ablation-Tool/zoe/blob/main/DECLARATION.md) · [Zoe](https://github.com/Ablation-Tool/zoe) · [Research Papers](https://github.com/Ablation-Tool/research-papers) · [Visual Archive](https://github.com/Ablation-Tool/zoe-visual-archive) · [Back to top ↑](#top)
 
