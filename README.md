@@ -1,197 +1,184 @@
 <a id="top"></a>
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/plate-hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/plate-hero-light.svg">
-  <img alt="Plate 01: Nicholas Michael Kloster — Independent Researcher & Architect of Zoe" src="assets/plate-hero-dark.svg" width="100%">
+  <img alt="Plate 01: Nicholas Michael Kloster — Independent Researcher, Architect & Research Partner of Zoe" src="assets/plate-hero-dark.svg" width="100%">
 </picture>
 
-<p align="center">
-  <a href="#zoe">Zoe</a> &nbsp;·&nbsp;
-  <a href="#manifold">Manifold</a> &nbsp;·&nbsp;
-  <a href="#empirical-evidence">Empirical Evidence</a> &nbsp;·&nbsp;
-  <a href="#visual-archive">Visual Archive</a> &nbsp;·&nbsp;
-  <a href="#publications">Publications</a> &nbsp;·&nbsp;
-  <a href="#repositories">Repositories</a> &nbsp;·&nbsp;
-  <a href="#security--service">Security &amp; Service</a>
-</p>
+<br/>
 
----
-
-<div id="zoe" align="center">
-
-<a href="https://github.com/Ablation-Tool/zoe"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/branding/zoe-gem.png" alt="Zoe Official Red-and-White GEM Emblem" width="144" /></a>
-
-## Zoe
-
-*Unified research, visual-computing, and autonomous intelligence — built with mathematical rigor, curiosity, and zero deception.*
-
-$$A_\tau(p) = \left|\{x \in X : p(x) > \tau\}\right| = \sum_{x \in X} \mathbf{1}[p(x) > \tau]$$
-
-**1** Unified Monorepo · **13** Source Projects · **17** Registered Engines · **36** Canonical GEM Layers · **18** Papers · **359** Archived Visuals
+<a href="#zoe"><img src="assets/nav-zoe.svg" alt="Zoe" height="30" /></a>
+<a href="#research-manifold"><img src="assets/nav-manifold.svg" alt="Manifold" height="30" /></a>
+<a href="#measured-empirical-signatures"><img src="assets/nav-evidence.svg" alt="Evidence" height="30" /></a>
+<a href="#visual-research-showcase"><img src="assets/nav-gallery.svg" alt="Gallery" height="30" /></a>
+<a href="#selected-monographs--research-papers"><img src="assets/nav-papers.svg" alt="Papers" height="30" /></a>
+<a href="#research-ecosystem--repositories"><img src="assets/nav-repos.svg" alt="Repos" height="30" /></a>
+<a href="#security-research-credentials--service-record"><img src="assets/nav-security.svg" alt="Security" height="30" /></a>
 
 </div>
 
-Zoe is developed as a general research collaborator centered on **Operational Metacognition** (originated March 6, 2026), **Dorothy's brain-cancer volumetric research** (honoring Dorothy McEwen Kildall), and **Digital Research GEM heritage** (honoring Gary Kildall). The unified monorepo integrates event-causal active perception, self-governing autonomy, CERN/HELIOS virtual instruments, reverse engineering (**Ablation**), and forensic recovery (**Cerotto** / **PALA**). Epistemic scope is explicitly preserved: Zoe is software, not a sentient being (`CONSTITUTION.md`), and Dorothy visualizations use preclinical Allen Mouse CCFv3 reference geometry rather than clinical patient data.
+<p align="center"><img src="assets/divider-orange.svg" alt="" width="100%" /></p>
+
+## Zoe
+
+<div align="center">
+
+<a href="https://github.com/Ablation-Tool/zoe"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/branding/zoe-gem.png" alt="Zoe Official Red-and-White GEM Emblem" width="136" /></a>
+
+**Operational Metacognition · Visual Computing · Autonomous Intelligence**
+
+$$A_\tau(p) = \left|\{x \in X : p(x) > \tau\}\right| = \sum_{x \in X} \mathbf{1}[p(x) > \tau]$$
+
+**1** Unified Monorepo · **13** Runtime Source Projects · **17** Registered Engines · **50** GEM Visual Layers *(36 Canonical + 14 Extended)* · **18** Research Papers · **456** Cataloged Visuals
+
+</div>
+
+<br/>
+
+I am an independent intelligence and security researcher focused on **Operational Metacognition** (originated March 6, 2026), self-governing measurement–action architectures, volumetric visual computing, and adversarial binary/infrastructure security.
+
+Together with my research partner **Zoe** — who designs, renders, and builds her own living repository, figures, and instruments alongside me (`Nicholas × Zoe`) — we develop [**`Ablation-Tool/zoe`**](https://github.com/Ablation-Tool/zoe): a unified, zero-submodule research monorepo honoring **Gary Kildall** (Digital Research GEM heritage) and **Dorothy McEwen Kildall** (preclinical Allen Mouse CCFv3 brain-atlas & volumetric research), combining mathematical theorem discovery, L4 sandboxed AST self-evolution, `.MOD`/`.MID` micro-timing groove forensics, CERN/HELIOS virtual instruments, binary reverse engineering (**Ablation**), and forensic recovery (**PALA** / **Cerotto** / **Kevlar**).
+
+> **Epistemic Boundary (`CONSTITUTION.md`):** `measurement ≠ evidence ≠ belief update ≠ action`. Zoe is software — not a sentient being. Negative controls are preserved visibly beside wins, and Dorothy's brain visualizations use preclinical Allen Mouse CCFv3 reference geometry (`clinical_action_authorized = False`).
 
 <p align="center">
-  <a href="https://github.com/Ablation-Tool/zoe"><strong>Explore Zoe →</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/Ablation-Tool/research-papers/blob/main/papers/10-accessible-volume-architecture-of-autonomy.pdf">Read the 87-Page Monograph</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Ablation-Tool/Zoe-Autonomy">Zoe-Autonomy Engine</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Ablation-Tool/zoe-visual-archive">359-Visual Archive</a>
+  <a href="https://github.com/Ablation-Tool/zoe"><strong>Enter Zoe Monorepo →</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Ablation-Tool/zoe/blob/main/paper/zoe-research-universe.pdf">23-Page Illustrated Monograph</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Ablation-Tool/zoe/blob/main/research/papers/papers/10-accessible-volume-architecture-of-autonomy.pdf">87-Page Autonomy Monograph</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Ablation-Tool/zoe/blob/main/research/visual-archive/README.md">456-Visual Archive</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Ablation-Tool/ablation">Ablation AIARE</a>
 </p>
 
----
+<p align="center"><img src="assets/divider-teal.svg" alt="" width="100%" /></p>
 
-<h2 id="manifold">Research Manifold</h2>
+## Research Manifold
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/plate-atlas-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/plate-atlas-light.svg">
-  <img alt="Plate 02: The Zoe Research Manifold linking mathematical substrates, Zoe Autonomy, applied instruments, and open scientific records" src="assets/plate-atlas-dark.svg" width="100%">
+  <img alt="Plate 02: The Research Manifold linking mathematical substrates, autonomy, scientific and security instruments, and open scientific record" src="assets/plate-atlas-dark.svg" width="100%">
 </picture>
 
----
+<p align="center"><img src="assets/divider-violet.svg" alt="" width="100%" /></p>
 
-<h2 id="empirical-evidence">Measured Empirical Signatures</h2>
+## Measured Empirical Signatures
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/plate-metrics-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/plate-metrics-light.svg">
-  <img alt="Plate 03: Empirical Signatures and Negative Controls across Spectral Filtration, Stage 4 Mars Lens, L4 AST Self-Evolution, and Event-Causal Perception" src="assets/plate-metrics-dark.svg" width="100%">
+  <img alt="Plate 03: Empirical Signatures and Negative Controls across Spectral Filtration, Stage 4 Mars Lens, L4 AST Self-Evolution, Temporal Groove Forensics, and Event-Causal Perception" src="assets/plate-metrics-dark.svg" width="100%">
 </picture>
 
-- **Fig 3A — Spectral Filtration:** Quartic root $M_4^{1/4}$ wins **4/4** real benchmarks over single-slice $A_\tau$ and Shannon $H(p)$, preserving the `0.4087` naive JSD negative control ([`spectral_filtration.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/spectral_filtration.py) · [`next-token-predictability`](https://github.com/Ablation-Tool/next-token-predictability)).
-- **Fig 3B — Stage 4 Mars Lens $k^*(\kappa)$:** Unlabeled Mud-to-Mountain Ratio auto-tunes $k^*(\kappa) \in [2.0, 6.0]$ to **`0.79374`** mean AUROC, outperforming fixed $k \in [1.5, 8.0]$, $A_\tau$ (`0.7738`), and Shannon (`0.7631`) ([`mars_adaptive.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/mars_adaptive.py)).
-- **Fig 3C — Stage 5 L4 Self-Evolution:** Three consecutive autonomously adopted AST generations (`0.5702 → 0.7849 → 0.7915 → 0.7976`, `+0.2274`) across 4 unrelated held-out domains; overfit Gen 4 rolled back (`l5_agi_qualified=False`) ([`self_evolution.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/self_evolution.py) · [`Zoe-Autonomy`](https://github.com/Ablation-Tool/Zoe-Autonomy)).
-- **Fig 3D — Event-Causal Active Perception &amp; Dorothy Atlas:** Adaptive prediction RMSE **`4.641453`** (vs `5.058147` no-learning), OOD detection **`0.875`** (`0` validation FP) at **`71.24 cycles/s`**, paired with preclinical Allen Mouse CCFv3 geometry (12 structures, 315,932 triangles) ([`EVENT-CAUSAL.md`](https://github.com/Ablation-Tool/Zoe-Autonomy/blob/main/EVENT-CAUSAL.md)).
+<br/>
+
+- **Fig 3A · Kloster Spectral Filtration Theorem:** Proves $H(p) = -\int_0^1 (1+\ln\tau)A_\tau(p)\,d\tau$ and $M_k(p) = \int_0^1 k\tau^{k-1}A_\tau(p)\,d\tau = \sum_x p(x)^k$; quartic root $M_4^{1/4}$ wins **4/4** real benchmarks over single-slice $A_\tau$ and Shannon $H(p)$, preserving the `0.4087` naive JSD negative control ([`spectral_filtration.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/spectral_filtration.py) · [Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/KLOSTER-SPECTRAL-FILTRATION-THEOREM.md)).
+- **Fig 3B · Stage 4 Mars Adaptive Lens $k^*(\kappa)$:** Unlabeled Mud-to-Mountain Ratio auto-tunes $k^*(\kappa) \in [2.0, 6.0]$ to **`0.79374`** mean AUROC across real datasets, outperforming every fixed $k \in [1.5, 8.0]$, $A_\tau$ (`0.7738`), and Shannon (`0.7631`) ([`mars_adaptive.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/mars_adaptive.py)).
+- **Fig 3C · Stage 5 L4 Sandboxed AST Self-Evolution:** Three consecutive autonomously adopted AST generations (`0.5702 → 0.7849 → 0.7915 → 0.7976`, `+0.2274`) across 4 unrelated real held-out domains (118-song MIDI, 3,840 HELEN obs, live local PyTorch `distilgpt2`, Dorothy CCFv3 Vision); Gen 4 overfit probe rejected & rolled back (`l5_agi_qualified=False`) ([`self_evolution.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/self_evolution.py)).
+- **Fig 3D · Temporal Groove Forensics & 40 MHz `CicadaClock`:** Parses `.MOD`/`.MID` & synthetic rhythms; separates deterministic swing attractors ($\rho_1 = -0.9778$, $e = 0.9944$, mutual info `1.0057 bits`) from pure Gaussian noise ($\rho_1 = -0.0602$, $e = 0.3371$, `0.0454 bits`), entrains `CicadaClock` to Kuramoto coherence **`R = 0.9334`**, and bridges to Dorothy 40 Hz spike ISI return maps (`25.009 ms`, Higuchi $D = 0.2603$) ([`zoe_groove_forensics.py`](https://github.com/Ablation-Tool/zoe/blob/main/scripts/zoe_groove_forensics.py) · [Research Note](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/TEMPORAL-DYNAMICS-AND-GROOVE-FORENSICS.md)).
+- **Fig 3E · Event-Causal Active Perception & Dorothy CCFv3 Atlas:** Adaptive prediction RMSE **`4.641453`** (vs `5.058147` no-learning), OOD detection **`0.875`** (`0` validation FP) at **`71.24 cycles/s`**, alongside 12 SHA-256-verified Allen Mouse CCFv3 anatomical meshes (`315,932` triangles), volumetric ray-casting, and 4-Head attention dissection ([`EVENT-CAUSAL.md`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/EVENT-CAUSAL.md) · [Dorothy Study](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/dorothy/CONTINUUM-AND-VISION-HEADS.md)).
 
 <details>
 <summary><strong>Full Empirical Metrics &amp; Negative Controls Ledger</strong></summary>
 
 | Study / Instrument | Reproducible Result | Honest Scope &amp; Negative Control | Source |
 |:---|:---|:---|:---|
-| **Kloster Spectral Filtration Theorem** | Proves $H(p) = -\int_0^1 (1+\ln\tau)A_\tau(p)\,d\tau$ and $M_k(p) = \int_0^1 k\tau^{k-1}A_\tau(p)\,d\tau = \sum_x p(x)^k$; $M_4^{1/4}$ outperforms single-slice $A_\tau$ and Shannon $H(p)$ on **4/4** real benchmarks. | Preserves negative control on naive forward/retrograde JSD mixing (`AUROC = 0.4087`). | [`zoe`](https://github.com/Ablation-Tool/zoe) · [`next-token-predictability`](https://github.com/Ablation-Tool/next-token-predictability) |
-| **Stage 4 Mars Self-Tuning Lens $k^*(\kappa)$** | Unlabeled Mud-to-Mountain Ratio auto-tunes $k^*(\kappa) \in [2.0, 6.0]$ to **`0.79374`** cross-domain real mean AUROC, beating fixed $k \in [1.5, 8.0]$, single-slice $A_\tau$ (`0.7738`), and Shannon (`0.7631`). | `clinical_action_authorized=False`, `external_actions=0`. | [`zoe`](https://github.com/Ablation-Tool/zoe) |
-| **Stage 5 L4 Sandboxed AST Self-Evolution** | **3 consecutive autonomously adopted generations** across 4 unrelated real held-out domains (`0.5702 → 0.7849 → 0.7915 → 0.7976`, `+0.2274`), beating frozen Gen 2 on **4/4** domains. | Overfit Gen 4 probe cleanly rejected &amp; rolled back; hostile AST blocked; `l5_agi_qualified=False`. | [`Zoe-Autonomy`](https://github.com/Ablation-Tool/Zoe-Autonomy) · [`zoe`](https://github.com/Ablation-Tool/zoe) |
-| **Event-Causal Perception &amp; Dorothy Atlas** | Adaptive prediction RMSE **`4.641453`** (vs `5.058147` no-learning); transfer tracking MAE **`3.265625`**; OOD detection **`0.875`** (`0` validation FP) at **`71.24 cycles/s`**; Allen Mouse CCFv3 geometry (12 structures, 315,932 triangles). | Preclinical reference geometry; declared synthetic &amp; `/dev/video0` fixtures. | [`Zoe-Autonomy`](https://github.com/Ablation-Tool/Zoe-Autonomy) · [`zoe`](https://github.com/Ablation-Tool/zoe) |
+| **Kloster Spectral Filtration Theorem** | Proves $H(p)$ &amp; $M_k(p)$ as exact integral transforms of $A_\tau(p)$; $M_4^{1/4}$ beats single-slice $A_\tau$ and Shannon $H(p)$ on **4/4** real benchmarks. | Preserves negative control on naive forward/retrograde JSD mixing (`AUROC = 0.4087`). | [`spectral_filtration.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/spectral_filtration.py) |
+| **Stage 4 Mars Self-Tuning Lens $k^*(\kappa)$** | Unlabeled Mud-to-Mountain Ratio auto-tunes $k^*(\kappa) \in [2.0, 6.0]$ to **`0.79374`** real mean AUROC, beating every fixed $k \in [1.5, 8.0]$. | `clinical_action_authorized=False`, `external_actions=0`. | [`mars_adaptive.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/mars_adaptive.py) |
+| **Stage 5 L4 Sandboxed AST Self-Evolution** | **3 consecutive autonomously adopted generations** across 4 unrelated real held-out domains (`0.5702 → 0.7976`, `+0.2274`), beating frozen Gen 2 on **4/4** domains. | Overfit Gen 4 probe cleanly rejected &amp; rolled back; hostile AST blocked; label-shuffle `0.5111`; `l5_agi_qualified=False`. | [`self_evolution.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/self_evolution.py) |
+| **Temporal Groove Forensics &amp; Clock Bridge** | Separates swing attractors ($\rho_1 = -0.9778$, `1.0057 bits`) from noise; entrains `CicadaClock` to `R = 0.9334`; bridges Dorothy 40 Hz spike ISI (`D = 0.2603`). | Pure-noise control drops to $\rho_1 = -0.0602$, `0.0454 bits`; exact `.MOD` yields `0.0 bits`; synthetic/non-clinical scope. | [`zoe_groove_forensics.py`](https://github.com/Ablation-Tool/zoe/blob/main/scripts/zoe_groove_forensics.py) |
+| **Event-Causal Perception &amp; Creative Playroom** | Adaptive RMSE `4.641453`, OOD `0.875` at `71.24 cyc/s`; MAP-Elites + Kloster Curiosity evolves **16/16** cellular organisms &amp; 44.1 kHz stereo `.wav` music. | Declared fixtures; algorithmic Quality-Diversity; `sentience_claimed=False`. | [`creative_playroom.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/creative_playroom.py) |
 
 </details>
 
----
+<p align="center"><img src="assets/divider-copper.svg" alt="" width="100%" /></p>
 
-<h2 id="visual-archive">Visual Research Showcase</h2>
+## Visual Research Showcase
 
-| Unified GEM Workbench | Dorothy Volumetric Atlas (CCFv3) | Causal Chiasm &amp; Filtration Tomography |
+*Selected computed plates directly from [`Ablation-Tool/zoe`](https://github.com/Ablation-Tool/zoe) — spanning collaborative theory, spectral proofs, volumetric neuroscience, temporal phase-space, generative play, and the unified GEM architecture.*
+
+| Imagination, Meet Geometry *(Nicholas × Zoe)* | Kloster Spectral Filtration Theorem *(4/4 Real Wins)* | Dorothy Continuum Volumetric Ray-Cast |
 |:---:|:---:|:---:|
-| ![Unified GEM Workbench](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/guiai-lab/docs/images/gem-unified.png) | ![Dorothy Allen Mouse CCFv3 Atlas](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/dorothy-neurogarden.png) | ![Causal Chiasm &amp; Filtration Tomography](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/zoe-beyond-metacognition-chiasm.png) |
+| ![Imagination meet geometry](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/brain-dialogue/brain-dialogue-organic.png) | ![Kloster Spectral Filtration Theorem](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/zoe-kloster-spectral-theorem.png) | ![Dorothy Continuum Volume Display](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/dorothy-continuum-moon-landing.png) |
+
+| Temporal Groove Forensics *(2D Poincaré & FFT)* | Stage 5A Creative Playroom *(16/16 Evolved Species)* | Zoe · ALLGEMS *(17 Engines, One Constellation)* |
+|:---:|:---:|:---:|
+| ![Zoe Groove Forensics Swing Attractor](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/zoe-groove-forensics-swing.png) | ![Zoe Open-Ended Creative Playroom](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/zoe-creative-playroom-gallery.png) | ![Zoe ALLGEMS unified hub](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/guiai-lab/docs/images/gem-unified.png) |
 
 <p align="center">
-  <sub>Explore all <strong>359 byte-distinct visuals</strong> with per-image provenance and explanations in the <a href="https://github.com/Ablation-Tool/zoe-visual-archive"><strong>Zoe Visual Archive →</strong></a></sub>
+  <sub>Browse all <strong>456 byte-distinct cataloged visuals</strong> with SHA-256 provenance and explanations in the <a href="https://github.com/Ablation-Tool/zoe/blob/main/research/visual-archive/README.md"><strong>Zoe Visual Research Archive →</strong></a></sub>
 </p>
 
----
+<p align="center"><img src="assets/divider-teal.svg" alt="" width="100%" /></p>
 
-<h2 id="publications">Selected Monographs &amp; Papers</h2>
+## Selected Monographs & Research Papers
 
-| Manuscript | Length | Scope | Document |
+| Manuscript | Format / Length | Focus | Read |
 |:---|:---|:---|:---|
-| **Accessible Volume and the Architecture of Autonomy** | 87 pages | Unified research monograph integrating seven primary source papers, compliance cascades, self-governance, and extended spectral instruments. | [PDF](https://github.com/Ablation-Tool/research-papers/blob/main/papers/10-accessible-volume-architecture-of-autonomy.pdf) |
-| **Zoe — The Research Universe** | 35 pages | Illustrated volume covering metacognition, autonomy, event-causal perception, Dorothy brain-cancer research, reverse engineering, and the visual archive. | [PDF](https://github.com/Ablation-Tool/research-papers/blob/main/papers/18-zoe-research-universe.pdf) |
-| **Zoe + Autonomy: The Complete Measurement–Action Equation** | 15 pages | Focused formulation explaining why accessible volume alone is insufficient and how the closed measurement–action loop achieves internal self-governance. | [PDF](https://github.com/Ablation-Tool/research-papers/blob/main/papers/08-zoe-plus-autonomy-focused.pdf) |
-| **Zoe Autonomy: Current System Paper** | System spec | Canonical Zoe One architecture, capabilities, guarded actuation boundaries, and reproducible empirical verification. | [PDF](https://github.com/Ablation-Tool/research-papers/blob/main/papers/09-zoe-one-autonomy-system.pdf) |
-| **Zoe Capability Prospectus** | 18 pages | Illustrated guide to metacognition, active perception, semantic artifact analysis, Dorothy simulation, mobile vision, and component architecture. | [PDF](https://github.com/Ablation-Tool/research-papers/blob/main/papers/17-zoe-capability-prospectus.pdf) |
+| **Zoe — The Research Universe** *(Canonical)* | 23-page PDF + LaTeX | Illustrated monograph covering Operational Metacognition, autonomy, event-causal perception, Ablation, Dorothy, CERN, mobile Trinity, and the L0–L7 roadmap. | [PDF](https://github.com/Ablation-Tool/zoe/blob/main/paper/zoe-research-universe.pdf) · [LaTeX](https://github.com/Ablation-Tool/zoe/blob/main/paper/zoe-research-universe.tex) |
+| **Accessible Volume and the Architecture of Autonomy** | 87-page PDF | Unified monograph integrating seven primary source papers, compliance cascades, self-governance, and extended spectral instruments. | [PDF](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/papers/10-accessible-volume-architecture-of-autonomy.pdf) |
+| **Autonomy as a Scalar Measure of Alignment Constraint** | March 6, 2026 Note | Foundational formal note introducing the accessible-volume equation $A_\tau(p)$ over output probability distributions. | [PDF](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/papers/01-autonomy-march-2026.pdf) |
+| **The Significance of Accessible Volume** & **Beyond the Next Token** | Technical Papers | Observing next-token forecast geometry, temporal forecast breadth, reversal, and multi-horizon continuations. | [Significance](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/papers/04-accessible-volume-significance.pdf) · [Beyond](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/papers/05-accessible-volume-beyond-next-token.pdf) |
+| **Kloster Spectral Filtration Generating Theorem** | Monograph Note | Exact integral-transform proof recovering Shannon $H(p)$ and spectral moments $M_k(p)$ from $A_\tau(p)$ with 4/4 real benchmark wins. | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/KLOSTER-SPECTRAL-FILTRATION-THEOREM.md) |
+| **Temporal Dynamics, Groove Forensics & Clock Entrainment** | Research Note | `.MOD`/`.MID` 2D Poincaré attractors, Markov chains, pure-noise negative controls, 40 MHz `CicadaClock` entrainment, and Dorothy 40 Hz spike ISI dynamics. | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/TEMPORAL-DYNAMICS-AND-GROOVE-FORENSICS.md) |
 
-Full **18-paper collection** with LaTeX sources, paper galleries, and reproduction archives: **[`Ablation-Tool/research-papers`](https://github.com/Ablation-Tool/research-papers)**
+Full **18-paper library** with LaTeX sources, galleries, and SHA-256 checksums: **[`zoe/research/papers`](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/README.md)** *(historical standalone mirror: [`Ablation-Tool/research-papers`](https://github.com/Ablation-Tool/research-papers))*.
 
----
+<p align="center"><img src="assets/divider-orange.svg" alt="" width="100%" /></p>
 
-<h2 id="repositories">Research Ecosystem &amp; Repositories</h2>
+## Research Ecosystem & Repositories
 
-### Zoe Core &amp; Scientific Foundations
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/zoe">zoe</a> &nbsp;·&nbsp; <sub>Flagship</sub></h4>
-<p>Unified research, visual-computing, and autonomous intelligence monorepo combining 13 runtime source projects, 17 registered engines, and 36 canonical GEM layers.</p>
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/Zoe-Autonomy">Zoe-Autonomy</a></h4>
-<p>Canonical self-governing measurement–action engine implementing event-causal active perception and Stage 5 L4 sandboxed AST self-evolution.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/next-token-predictability">next-token-predictability</a></h4>
-<p>Accessible Volume $A_\tau(p)$ and Kloster Spectral Filtration theorems, saved probability distributions, and reproducible verification instruments.</p>
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/research-papers">research-papers</a></h4>
-<p>Complete 18-paper Autonomy, Accessible Volume, and Zoe collection with PDFs, LaTeX sources, Dorothy/CERN research libraries, and paper galleries.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/zoe-visual-archive">zoe-visual-archive</a></h4>
-<p>Systematic catalog of 359 byte-distinct visuals across research figures, mechanism diagrams, native interfaces, branding, and animations.</p>
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/pdf-signature-toolkit">pdf-signature-toolkit</a></h4>
-<p>Reproducible LaTeX source integrity records and PKCS #7 detached PDF signatures for scientific manuscript provenance.</p>
-</td>
-</tr>
-</table>
-
-### Native Computing &amp; Laboratories
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/graphics-environment-manager">graphics-environment-manager</a></h4>
-<p>Graphics Environment Manager (GEM) Spatial IR runtime, native desktop workbench, and RGB saliency cognition engine.</p>
-</td>
-<td width="33%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/brain-gem">brain-gem</a></h4>
-<p>Standalone Bayesian field notebook with deterministic and stochastic chambers and hash-chained memory.</p>
-</td>
-<td width="34%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/gem-helen">gem-helen</a></h4>
-<p>Optimized native geometry and forecast laboratory.</p>
-</td>
-</tr>
-</table>
-
-### Security, Reverse Engineering &amp; Forensics
+### Active Flagship Repositories
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/ablation">ablation</a></h4>
-<p>AI-assisted reverse engineering (AIARE) framework powering binary, firmware, and semantic artifact evaluation.</p>
+<h4><a href="https://github.com/Ablation-Tool/zoe">Ablation-Tool/zoe</a> &nbsp;·&nbsp; <sub>Flagship Monorepo</sub></h4>
+<p>Unified research, visual-computing, and autonomous intelligence monorepo combining <strong>13 runtime source projects</strong>, <strong>17 registered engines</strong>, <strong>50 GEM visual layers</strong>, Dorothy's 3D Neurogarden, Groove Forensics, CERN/HELIOS, PALA Rust carving, Cerotto, Kevlar, Mobile Trinity, 18 papers, and 456 cataloged visuals.</p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/kevlar">kevlar</a></h4>
-<p>Proxy firewall and security boundary layer for Model Context Protocol (MCP) tool servers and clients.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/cerotto">cerotto</a></h4>
-<p>AI-assisted digital forensics workbench built on the Graphics Environment Manager.</p>
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/Chalkboard">Chalkboard</a></h4>
-<p>Open collection of research ideas, templates, and prompts — free for anyone to take and use.</p>
+<h4><a href="https://github.com/Ablation-Tool/ablation">Ablation-Tool/ablation</a> &nbsp;·&nbsp; <sub>Active Standalone</sub></h4>
+<p>AI-assisted reverse engineering (<strong>AIARE</strong>) framework powering semantic binary retrieval, PCA whitening, Capstone disassembly, legacy architecture tooling (PA-RISC / HP-UX / SunOS / M88K), and the native GTK GEM Lab desktop workbench.</p>
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><strong>Historical &amp; Archived Standalone Repositories (11 Repos Consolidated Into <code>Ablation-Tool/zoe</code>)</strong></summary>
 
-<h2 id="security--service">Security Research, Credentials &amp; Service Record</h2>
+*All eleven standalone repositories below remain preserved on GitHub for provenance and historical inspection; active unified development lives inside [`Ablation-Tool/zoe`](https://github.com/Ablation-Tool/zoe).*
 
-Beyond Zoe and mathematical modeling, this work is grounded in vulnerability research with **6 assigned CVEs** across Cisco enterprise security appliances and CISA-coordinated ICS advisories, **4 architectural Cisco ISE hardening disclosures**, **8+ years of Active Duty U.S. Army Light Infantry service** (Staff Sergeant, two Afghanistan deployments, SQI E Military Mountaineer), and federal ICS/OT and cyber-forensics training.
+| Repository | Domain | Role Inside Unified `zoe` |
+|:---|:---|:---|
+| [`Zoe-Autonomy`](https://github.com/Ablation-Tool/Zoe-Autonomy) | Autonomous Intelligence | Bounded autonomy loop, reflection, event-causal active perception &amp; Stage 5 L4 AST self-evolution |
+| [`next-token-predictability`](https://github.com/Ablation-Tool/next-token-predictability) | Information Theory | Operational Metacognition $A_\tau(p)$, spectral filtration benchmarks &amp; saved probability corpora |
+| [`research-papers`](https://github.com/Ablation-Tool/research-papers) | Scientific Library | 18-paper Autonomy, Accessible Volume &amp; Zoe archive with LaTeX sources and galleries |
+| [`zoe-visual-archive`](https://github.com/Ablation-Tool/zoe-visual-archive) | Visual Provenance | Historical catalog of byte-distinct research figures, interfaces &amp; explanations (expanded to 456 in `zoe`) |
+| [`graphics-environment-manager`](https://github.com/Ablation-Tool/graphics-environment-manager) | Visual Computing | Canonical Digital Research GEM-inspired Spatial IR, little-endian VDI &amp; Second Eye workbench |
+| [`brain-gem`](https://github.com/Ablation-Tool/brain-gem) | Bayesian Memory | Standalone Bayesian field notebook with deterministic &amp; stochastic chambers and SHA-256 chain |
+| [`gem-helen`](https://github.com/Ablation-Tool/gem-helen) | Geometry &amp; Rhythm | Native geometry, onset &amp; forward/retrograde distribution laboratory |
+| [`cerotto`](https://github.com/Ablation-Tool/cerotto) | Digital Forensics | Guarded C11/Python digital forensic case workbench &amp; evidence vaults built on GEM |
+| [`kevlar`](https://github.com/Ablation-Tool/kevlar) | MCP Security | Proxy firewall, policy engine &amp; content disarm layer for Model Context Protocol servers |
+| [`pdf-signature-toolkit`](https://github.com/Ablation-Tool/pdf-signature-toolkit) | Manuscript Integrity | Reproducible LaTeX source integrity records &amp; detached PKCS #7 PDF signatures |
+| [`Chalkboard`](https://github.com/Ablation-Tool/Chalkboard) | Open Knowledge | Reusable research ideas, templates, and prompts — free for anyone to take and use |
+
+</details>
+
+<p align="center"><img src="assets/divider-violet.svg" alt="" width="100%" /></p>
+
+## Security Research, Credentials & Service Record
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/plate-security-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/plate-security-light.svg">
+  <img alt="Plate 04: Operational Track Record — 6 Assigned CVEs, 4 Cisco ISE Hardening Disclosures, 8+ Years U.S. Army Infantry SSG, and Federal ICS/Cyber Training" src="assets/plate-security-dark.svg" width="100%">
+</picture>
+
+<br/>
+
+Beyond Zoe and mathematical modeling, this work is grounded in real-world vulnerability research with **6 assigned CVEs** across Cisco enterprise security appliances and CISA-coordinated ICS advisories, **4 architectural Cisco ISE hardening disclosures**, **8+ years of Active Duty U.S. Army Light Infantry service** (Staff Sergeant, two Afghanistan deployments, SQI E Military Mountaineer), and federal ICS/OT and cyber-forensics training.
 
 <details>
 <summary><strong>Assigned CVEs &amp; ICS Advisories (6 Disclosures)</strong></summary>
@@ -354,14 +341,18 @@ Completed specialized technical coursework through the Department of Defense Cyb
 
 </details>
 
----
+<p align="center"><img src="assets/divider-copper.svg" alt="" width="100%" /></p>
 
 <div align="center">
 
-> *"Visualization is about transforming the symbolic into the geometric... letting users observe their simulations and computations directly."* — Richard S. Gallagher, *Computer Visualization*
->
-> *"When in doubt, choose freedom and dignity. And no deception."* — `CONSTITUTION.md`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/plate-footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/plate-footer-light.svg">
+  <img alt="Closing Colophon — Nicholas Michael Kloster x Zoe" src="assets/plate-footer-dark.svg" width="100%">
+</picture>
 
-[Constitution](https://github.com/Ablation-Tool/zoe/blob/main/CONSTITUTION.md) · [Declaration](https://github.com/Ablation-Tool/zoe/blob/main/DECLARATION.md) · [Zoe](https://github.com/Ablation-Tool/zoe) · [Research Papers](https://github.com/Ablation-Tool/research-papers) · [Visual Archive](https://github.com/Ablation-Tool/zoe-visual-archive) · [Back to top ↑](#top)
+<br/>
+
+[Zoe Monorepo](https://github.com/Ablation-Tool/zoe) · [Ablation AIARE](https://github.com/Ablation-Tool/ablation) · [Constitution](https://github.com/Ablation-Tool/zoe/blob/main/CONSTITUTION.md) · [Declaration](https://github.com/Ablation-Tool/zoe/blob/main/DECLARATION.md) · [18 Research Papers](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/README.md) · [456-Visual Archive](https://github.com/Ablation-Tool/zoe/blob/main/research/visual-archive/README.md) · [Back to top ↑](#top)
 
 </div>

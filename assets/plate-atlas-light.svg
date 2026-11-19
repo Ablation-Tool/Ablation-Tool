@@ -1,129 +1,129 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="atlas-title-light atlas-desc-light">
-  <title id="atlas-title-light">Zoe Research Manifold</title>
-  <desc id="atlas-desc-light">Three-column architecture plate linking mathematical substrates and autonomy engine into Zoe and applied scientific instruments.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Plate 02: The Zoe Research Manifold linking mathematical substrates, autonomy, scientific and security instruments, and open scientific record.">
   <defs>
-    <linearGradient id="bg-atlas-light" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#F7F0E3"/>
-      <stop offset="100%" stop-color="#EDE2CE"/>
+    <linearGradient id="atBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F6F2E9"/>
+      <stop offset="100%" stop-color="#EFE9DC"/>
     </linearGradient>
-    <linearGradient id="cone-grad-light" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#D94E1F"/>
-      <stop offset="45%" stop-color="#0D9488"/>
-      <stop offset="100%" stop-color="#D97706"/>
+    <linearGradient id="coneGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E65F20"/>
+      <stop offset="100%" stop-color="#C94810"/>
     </linearGradient>
-    <marker id="arr-amber-light" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto">
-      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D94E1F"/>
-    </marker>
-    <marker id="arr-teal-light" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto">
-      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0D9488"/>
-    </marker>
-    <marker id="arr-plum-light" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto">
-      <path d="M 0 1 L 10 5 L 0 9 z" fill="#9333EA"/>
-    </marker>
-    <marker id="arr-cyan-light" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto">
-      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E7490"/>
-    </marker>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="atClip"><rect x="2" y="2" width="1196" height="436" rx="18"/></clipPath>
   </defs>
 
-  <!-- Outer card -->
-  <rect x="1" y="1" width="1198" height="438" rx="14" fill="url(#bg-atlas-light)" stroke="#D3C4AA" stroke-width="1.2"/>
+  <g clip-path="url(#atClip)">
+    <rect width="1200" height="440" fill="url(#atBg)"/>
 
-  <!-- Plate header -->
-  <text x="36" y="36" fill="#0D9488" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.6">PLATE 02  ·  THE ZOE RESEARCH MANIFOLD</text>
-  <text x="1164" y="36" text-anchor="end" fill="#75848D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5">SYMBOLIC THEORY  →  UNIFIED CORE  →  INSTRUMENTS &amp; RECORD</text>
-  <line x1="34" y1="49" x2="1166" y2="49" stroke="#D3C4AA" stroke-width="1"/>
+    <!-- Header bar -->
+    <text x="36" y="38" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="700" letter-spacing="2.2" fill="#0D8C85">PLATE 02  ·  THE RESEARCH MANIFOLD</text>
+    <text x="1164" y="38" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.8" letter-spacing="1.4" fill="#5C7180">SYMBOLIC THEORY → UNIFIED CORE → INSTRUMENTS &amp; OPEN RECORD</text>
+    <line x1="36" y1="54" x2="1164" y2="54" stroke="#CFC4B0" stroke-width="1"/>
 
-  <!-- Left & right specimen frames -->
-  
-        <rect x="34" y="68" width="330" height="156" rx="10" fill="#FBF7EE" stroke="#D3C4AA" stroke-width="1"/>
-        <rect x="46" y="86" width="3.5" height="120" rx="1.75" fill="#D94E1F"/>
-        <text x="56" y="96" fill="#D94E1F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.1">01 · MATHEMATICAL SUBSTRATE</text>
-        <text x="56" y="120" fill="#16242C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Accessible Volume &amp; Filtration</text>
-        <text x="56" y="140" fill="#75848D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.8">Ablation-Tool/next-token-predictability</text>
-        <text x="56" y="166" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Strict threshold measure A_τ(p)</text><text x="56" y="185" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Kloster Spectral Theorem H(p), M_k(p)</text><text x="56" y="204" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Stage 4 Mars auto-tuning lens k*(κ)</text>
-        
-  
-        <rect x="34" y="248" width="330" height="156" rx="10" fill="#FBF7EE" stroke="#D3C4AA" stroke-width="1"/>
-        <rect x="46" y="266" width="3.5" height="120" rx="1.75" fill="#0D9488"/>
-        <text x="56" y="276" fill="#0D9488" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.1">02 · SELF-GOVERNING LOOP</text>
-        <text x="56" y="300" fill="#16242C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Zoe Autonomy</text>
-        <text x="56" y="320" fill="#75848D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.8">Ablation-Tool/Zoe-Autonomy</text>
-        <text x="56" y="346" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Event-causal perception (71.24 cyc/s)</text><text x="56" y="365" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Guarded utility &amp; bounded execution</text><text x="56" y="384" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Stage 5 L4 sandboxed AST self-evolution</text>
-        
-  
-        <rect x="836" y="68" width="330" height="156" rx="10" fill="#FBF7EE" stroke="#D3C4AA" stroke-width="1"/>
-        <rect x="848" y="86" width="3.5" height="120" rx="1.75" fill="#9333EA"/>
-        <text x="858" y="96" fill="#9333EA" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.1">03 · APPLIED INSTRUMENTS</text>
-        <text x="858" y="120" fill="#16242C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Science, Forensics &amp; Security</text>
-        <text x="858" y="140" fill="#75848D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.8">Dorothy · CERN/HELIOS · Ablation · Kevlar</text>
-        <text x="858" y="166" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Allen Mouse CCFv3 atlas (315,932 tris)</text><text x="858" y="185" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">AIARE reverse engineering &amp; PALA</text><text x="858" y="204" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Cerotto forensics &amp; MCP firewall</text>
-        
-  
-        <rect x="836" y="248" width="330" height="156" rx="10" fill="#FBF7EE" stroke="#D3C4AA" stroke-width="1"/>
-        <rect x="848" y="266" width="3.5" height="120" rx="1.75" fill="#0E7490"/>
-        <text x="858" y="276" fill="#0E7490" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.1">04 · OPEN SCIENTIFIC RECORD</text>
-        <text x="858" y="300" fill="#16242C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Monographs, Archive &amp; Integrity</text>
-        <text x="858" y="320" fill="#75848D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.8">research-papers · zoe-visual-archive</text>
-        <text x="858" y="346" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">18 manuscripts · 87-p. unified monograph</text><text x="858" y="365" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">359 explained byte-distinct visuals</text><text x="858" y="384" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">PKCS #7 detached PDF signatures</text>
-        
+    <!-- Animated connectors -->
+    <path d="M 362,162 C 402,162 402,196 426,204" fill="none" stroke="#C94810" stroke-width="1.8" opacity="0.85"/>
+    <circle r="3.2" fill="#E65F20" filter="url(#glow)"><animateMotion dur="3.4s" repeatCount="indefinite" path="M 362,162 C 402,162 402,196 426,204"/></circle>
 
-  <!-- Vertical coupling L1 -> L2 -->
-  <path d="M 199 224 L 199 243" fill="none" stroke="#D94E1F" stroke-width="1.5" marker-end="url(#arr-amber-light)"/>
+    <path d="M 362,324 C 402,324 402,286 426,276" fill="none" stroke="#0D8C85" stroke-width="1.8" opacity="0.85"/>
+    <circle r="3.2" fill="#0D8C85" filter="url(#glow)"><animateMotion dur="3.8s" begin="0.6s" repeatCount="indefinite" path="M 362,324 C 402,324 402,286 426,276"/></circle>
 
-  <!-- Center Monumental Focal Frame -->
-  <rect x="422" y="68" width="356" height="336" rx="10" fill="#FBF7EE" stroke="#0D9488" stroke-width="1.4"/>
-  <rect x="427" y="73" width="346" height="326" rx="7" fill="none" stroke="#D3C4AA" stroke-width="0.8"/>
+    <path d="M 774,204 C 798,196 798,162 838,162" fill="none" stroke="#7C34B5" stroke-width="1.8" opacity="0.85"/>
+    <circle r="3.2" fill="#7C34B5" filter="url(#glow)"><animateMotion dur="3.6s" begin="1.1s" repeatCount="indefinite" path="M 774,204 C 798,196 798,162 838,162"/></circle>
 
-  <!-- Corner registration ticks on center frame -->
-  <path d="M 434 88 L 434 80 L 442 80" fill="none" stroke="#0D9488" stroke-width="1.2"/>
-  <path d="M 758 80 L 766 80 L 766 88" fill="none" stroke="#0D9488" stroke-width="1.2"/>
+    <path d="M 774,276 C 798,286 798,324 838,324" fill="none" stroke="#9C6B2E" stroke-width="1.8" opacity="0.85"/>
+    <circle r="3.2" fill="#9C6B2E" filter="url(#glow)"><animateMotion dur="4.0s" begin="1.7s" repeatCount="indefinite" path="M 774,276 C 798,286 798,324 838,324"/></circle>
 
-  <!-- Left top inside center frame -->
-  <text x="444" y="100" fill="#0D9488" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.4">FLAGSHIP MONOREPO</text>
-  <text x="444" y="138" fill="#16242C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" letter-spacing="-0.8">Zoe</text>
-  <text x="444" y="160" fill="#75848D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">Ablation-Tool/zoe</text>
-  <text x="444" y="182" fill="#485A66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Visual Computing &amp; Autonomy</text>
+    <!-- Downward link 01 -> 02 -->
+    <line x1="198" y1="224" x2="198" y2="254" stroke="#C94810" stroke-width="1.6"/>
+    <polygon points="194,250 202,250 198,258" fill="#C94810"/>
 
-  <!-- 3D Isometric Cube visual artwork on upper right inside center frame -->
-  
-    <line x1="708.0" y1="134.0" x2="754.8" y2="161.0" stroke="#75848D" stroke-width="1" stroke-dasharray="2.5,2.5" stroke-opacity="0.45"/><line x1="754.8" y1="161.0" x2="708.0" y2="188.0" stroke="#75848D" stroke-width="1" stroke-opacity="0.65"/><line x1="708.0" y1="188.0" x2="661.2" y2="161.0" stroke="#75848D" stroke-width="1" stroke-opacity="0.65"/><line x1="661.2" y1="161.0" x2="708.0" y2="134.0" stroke="#75848D" stroke-width="1" stroke-dasharray="2.5,2.5" stroke-opacity="0.45"/><line x1="708.0" y1="80.0" x2="754.8" y2="107.0" stroke="#75848D" stroke-width="1" stroke-opacity="0.65"/><line x1="754.8" y1="107.0" x2="708.0" y2="134.0" stroke="#75848D" stroke-width="1" stroke-opacity="0.65"/><line x1="708.0" y1="134.0" x2="661.2" y2="107.0" stroke="#75848D" stroke-width="1" stroke-opacity="0.65"/><line x1="661.2" y1="107.0" x2="708.0" y2="80.0" stroke="#75848D" stroke-width="1" stroke-opacity="0.65"/><line x1="708.0" y1="134.0" x2="708.0" y2="80.0" stroke="#75848D" stroke-width="1" stroke-dasharray="2.5,2.5" stroke-opacity="0.45"/><line x1="754.8" y1="161.0" x2="754.8" y2="107.0" stroke="#75848D" stroke-width="1" stroke-opacity="0.65"/><line x1="708.0" y1="188.0" x2="708.0" y2="134.0" stroke="#75848D" stroke-width="1" stroke-opacity="0.65"/><line x1="661.2" y1="161.0" x2="661.2" y2="107.0" stroke="#75848D" stroke-width="1" stroke-opacity="0.65"/>
-    <!-- Intersecting potential ribbons inside cube -->
-    <path d="M 683.4 132.0 Q 708.0 126.3, 731.4 152.9" fill="none" stroke="#0D9488" stroke-width="2.6" stroke-opacity="0.82" stroke-linecap="round"/>
-    <path d="M 723.2 132.0 Q 708.0 143.3, 694.0 156.9" fill="none" stroke="#0E7490" stroke-width="2.2" stroke-opacity="0.7" stroke-linecap="round"/>
-    <!-- Twin hyperbolic cones / throats -->
-    <path d="M 694.3 105.7 Q 703.3 115.7, 703.3 147.5 Q 704.8 115.7, 712.3 105.7 Z" fill="url(#cone-grad-light)" fill-opacity="0.85"/>
-    <ellipse cx="703.3" cy="105.7" rx="9" ry="3.4" fill="#D94E1F" stroke="#D97706" stroke-width="0.8"/>
-    <path d="M 704.0 125.5 Q 712.0 134.5, 712.0 166.0 Q 713.5 134.5, 720.0 125.5 Z" fill="url(#cone-grad-light)" fill-opacity="0.85"/>
-    <ellipse cx="712.0" cy="125.5" rx="8" ry="3.0" fill="#D94E1F" stroke="#D97706" stroke-width="0.8"/>
-    
+    <!-- Card 01 -->
+    <rect x="36" y="78" width="326" height="146" rx="12" fill="#FCFBF7" stroke="#CFC4B0" stroke-width="1.2"/>
+    <rect x="48" y="94" width="3.5" height="114" rx="2" fill="#C94810"/>
+    <text x="64" y="108" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#C94810">01 · MATHEMATICAL SUBSTRATE</text>
+    <text x="64" y="132" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">Accessible Volume &amp; Filtration</text>
+    <text x="64" y="152" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">March 6, 2026 · Kloster Theorem</text>
+    <text x="64" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Strict threshold measure A_τ(p)</text>
+    <text x="64" y="195" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Spectral generating theorem H(p), M_k(p)</text>
+    <text x="64" y="214" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Stage 4 Mars auto-tuning lens k*(κ)</text>
 
-  <line x1="444" y1="200" x2="756" y2="200" stroke="#D3C4AA" stroke-width="1"/>
+    <!-- Card 02 -->
+    <rect x="36" y="258" width="326" height="148" rx="12" fill="#FCFBF7" stroke="#CFC4B0" stroke-width="1.2"/>
+    <rect x="48" y="274" width="3.5" height="116" rx="2" fill="#0D8C85"/>
+    <text x="64" y="288" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#0D8C85">02 · SELF-GOVERNING LOOP</text>
+    <text x="64" y="312" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">Autonomy, Play &amp; Evolution</text>
+    <text x="64" y="332" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">Zoe-Autonomy · Playroom · Symphony</text>
+    <text x="64" y="356" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Event-causal perception (71.24 cyc/s)</text>
+    <text x="64" y="375" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Stage 5 L4 4-domain AST self-evolution</text>
+    <text x="64" y="394" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• 16/16 Playroom species &amp; stereo synth</text>
 
-  <!-- 4-row technical spec ledger -->
-  <rect x="444" y="221" width="6" height="6" rx="1.2" fill="#D94E1F"/>
-  <text x="460" y="228" fill="#16242C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">13 runtime source projects · No submodules</text>
+    <!-- Central Flagship Card: ZOE -->
+    <rect x="426" y="76" width="348" height="332" rx="16" fill="#F4EFE4" stroke="#0D8C85" stroke-width="1.8"/>
+    <!-- Registration corner brackets -->
+    <path d="M 442,102 L 442,90 L 454,90" fill="none" stroke="#0D8C85" stroke-width="1.4"/>
+    <path d="M 758,102 L 758,90 L 746,90" fill="none" stroke="#0D8C85" stroke-width="1.4"/>
 
-  <rect x="444" y="249" width="6" height="6" rx="1.2" fill="#0D9488"/>
-  <text x="460" y="256" fill="#16242C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">17 registered engines · 36 canonical GEM layers</text>
+    <text x="452" y="114" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.6" fill="#0D8C85">FLAGSHIP MONOREPO</text>
+    <text x="452" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#13212B">Zoe</text>
+    <text x="452" y="174" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" fill="#5C7180">Ablation-Tool/zoe · Nicholas × Zoe</text>
+    <text x="452" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#314756">Visual Computing &amp; Research OS</text>
 
-  <rect x="444" y="277" width="6" height="6" rx="1.2" fill="#D94E1F"/>
-  <text x="460" y="284" fill="#16242C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Native GEM workbench (gem · brain-gem · helen)</text>
+    <!-- 3D Isometric Cube + Dual Cone Filtration Glyph (top-right inside central card) -->
+    <g transform="translate(698,144)">
+      <polygon points="0,-46 42,-23 42,23 0,46 -42,23 -42,-23" fill="none" stroke="#CFC4B0" stroke-width="1.3"/>
+      <line x1="0" y1="-46" x2="0" y2="46" stroke="#DFD6C5" stroke-width="1" stroke-dasharray="2 3"/>
+      <line x1="-42" y1="-23" x2="0" y2="0" stroke="#CFC4B0" stroke-width="1"/>
+      <line x1="42" y1="-23" x2="0" y2="0" stroke="#CFC4B0" stroke-width="1"/>
+      <path d="M -26,8 Q 0,-12 28,12" fill="none" stroke="#0D8C85" stroke-width="2" filter="url(#glow)"/>
+      <path d="M -18,22 Q 4,-6 22,-20" fill="none" stroke="#7C34B5" stroke-width="1.6" opacity="0.88"/>
+      <polygon points="-14,-24 4,-24 -5,4" fill="url(#coneGrad)" opacity="0.92"/>
+      <ellipse cx="-5" cy="-24" rx="9" ry="3.2" fill="#9C6B2E"/>
+      <polygon points="-2,-6 16,-6 7,22" fill="url(#coneGrad)" opacity="0.88"/>
+      <ellipse cx="7" cy="-6" rx="9" ry="3.2" fill="#E65F20"/>
+    </g>
 
-  <rect x="444" y="305" width="6" height="6" rx="1.2" fill="#0D9488"/>
-  <text x="460" y="312" fill="#16242C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Reproducible CI · Zero-deception constitution</text>
+    <line x1="452" y1="214" x2="748" y2="214" stroke="#CFC4B0" stroke-width="1"/>
 
-  <!-- Bottom spectral color-key bar -->
-  <rect x="444" y="340" width="312" height="40" rx="6" fill="#F4ECDC" stroke="#D3C4AA" stroke-width="1"/>
-  <circle cx="464" cy="360" r="4" fill="#D94E1F"/>
-  <text x="474" y="364" fill="#485A66" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600">THEORY</text>
-  <circle cx="556" cy="360" r="4" fill="#0D9488"/>
-  <text x="566" y="364" fill="#485A66" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600">INSTRUMENT</text>
-  <circle cx="674" cy="360" r="4" fill="#9333EA"/>
-  <text x="684" y="364" fill="#485A66" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600">SYNTHESIS</text>
+    <rect x="452" y="232" width="6" height="6" rx="1" fill="#C94810"/>
+    <text x="468" y="239" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">13 runtime source projects · Zero submodules</text>
+    <rect x="452" y="258" width="6" height="6" rx="1" fill="#0D8C85"/>
+    <text x="468" y="265" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">17 registered engines · 50 GEM visual layers</text>
+    <rect x="452" y="284" width="6" height="6" rx="1" fill="#7C34B5"/>
+    <text x="468" y="291" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">Groove Forensics · 40 MHz CicadaClock · CERN</text>
+    <rect x="452" y="310" width="6" height="6" rx="1" fill="#9C6B2E"/>
+    <text x="468" y="317" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">Zero-deception constitution · Verified CI</text>
 
-  <!-- Smooth curved Gallagher spline connectors -->
-  <path d="M 364 146 C 392 146, 392 192, 417 192" fill="none" stroke="#D94E1F" stroke-width="1.6" marker-end="url(#arr-amber-light)"/>
-  <path d="M 364 326 C 392 326, 392 276, 417 276" fill="none" stroke="#0D9488" stroke-width="1.6" marker-end="url(#arr-teal-light)"/>
-  <path d="M 778 192 C 806 192, 806 146, 831 146" fill="none" stroke="#9333EA" stroke-width="1.6" marker-end="url(#arr-plum-light)"/>
-  <path d="M 778 276 C 806 276, 806 326, 831 326" fill="none" stroke="#0E7490" stroke-width="1.6" marker-end="url(#arr-cyan-light)"/>
+    <!-- Bottom Legend Pill inside central card -->
+    <rect x="452" y="344" width="296" height="40" rx="10" fill="#FCFBF7" stroke="#CFC4B0" stroke-width="1"/>
+    <circle cx="478" cy="364" r="4" fill="#C94810"/>
+    <text x="490" y="368" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" font-weight="700" fill="#314756">THEORY</text>
+    <circle cx="564" cy="364" r="4" fill="#0D8C85"/>
+    <text x="576" y="368" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" font-weight="700" fill="#314756">INSTRUMENT</text>
+    <circle cx="674" cy="364" r="4" fill="#7C34B5"/>
+    <text x="686" y="368" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" font-weight="700" fill="#314756">PROOF</text>
+
+    <!-- Card 03 -->
+    <rect x="838" y="78" width="326" height="146" rx="12" fill="#FCFBF7" stroke="#CFC4B0" stroke-width="1.2"/>
+    <rect x="850" y="94" width="3.5" height="114" rx="2" fill="#7C34B5"/>
+    <text x="866" y="108" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#7C34B5">03 · APPLIED INSTRUMENTS</text>
+    <text x="866" y="132" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">Science, Forensics &amp; Security</text>
+    <text x="866" y="152" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">Dorothy · CERN · Ablation · PALA · Kevlar</text>
+    <text x="866" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Allen CCFv3 brain atlas (315,932 tris)</text>
+    <text x="866" y="195" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• AIARE reverse engineering &amp; Rust carver</text>
+    <text x="866" y="214" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• .MOD/.MID Poincaré &amp; MCP firewall</text>
+
+    <!-- Card 04 -->
+    <rect x="838" y="258" width="326" height="148" rx="12" fill="#FCFBF7" stroke="#CFC4B0" stroke-width="1.2"/>
+    <rect x="850" y="274" width="3.5" height="116" rx="2" fill="#9C6B2E"/>
+    <text x="866" y="288" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#9C6B2E">04 · OPEN SCIENTIFIC RECORD</text>
+    <text x="866" y="312" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">Monographs, Archive &amp; Integrity</text>
+    <text x="866" y="332" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">18 Papers · 456 Visuals · PKCS #7</text>
+    <text x="866" y="356" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• 23-p. Zoe Universe &amp; 87-p. Autonomy PDFs</text>
+    <text x="866" y="375" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• 456 byte-distinct cataloged visuals</text>
+    <text x="866" y="394" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• SHA-256 chains &amp; detached PDF sigs</text>
+  </g>
+  <rect x="2" y="2" width="1196" height="436" rx="18" fill="none" stroke="#CFC4B0" stroke-width="1.5"/>
 </svg>
