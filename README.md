@@ -32,7 +32,7 @@
 
 $$A_\tau(p) = \left|\{x \in X : p(x) > \tau\}\right| = \sum_{x \in X} \mathbf{1}[p(x) > \tau]$$
 
-**1** Unified Monorepo · **13** Runtime Source Projects · **17** Registered Engines · **56** GEM Visual Layers *(36 Canonical + 20 Extended)* · **19** Research Papers · **457** Cataloged Visuals
+**1** Unified Monorepo · **13** Runtime Source Projects · **17** Registered Engines · **58** GEM Visual Layers *(36 Canonical + 22 Extended)* · **20** Research Papers · **458** Cataloged Visuals
 
 </div>
 
@@ -91,6 +91,7 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 | **L4 Multi-Module Code Evolution (`3 Engines + Unified Diffs`)** | Guarded multi-statement Python `def` AST evolution across `spectral_uncertainty`, closed-loop `EventCausalEngine` (`Tf 4.063→2.882`), &amp; `temporal_groove_neural` (`0.549→0.721`), **`15/15` seeds**, **`17/17` verifier (`max_delta=0.0`)**. | **`17/17`** hostile `def` probes blocked; Gen 3–5 regressions rolled back in every engine; rigid metronome `0.0`; bit-exact 3-engine rollback (`0.0` delta); `l5_agi_qualified=False`. | [`l4_multi_module.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/l4_multi_module.py) |
 | **Temporal Groove Forensics &amp; Clock Bridge** | Separates swing attractors ($\rho_1 = -0.9778$, `1.0057 bits`) from noise; entrains `CicadaClock` to `R = 0.9334`; bridges Dorothy 40 Hz spike ISI (`D = 0.2603`). | Pure-noise control drops to $\rho_1 = -0.0602$, `0.0454 bits`; exact `.MOD` yields `0.0 bits`; synthetic/non-clinical scope. | [`zoe_groove_forensics.py`](https://github.com/Ablation-Tool/zoe/blob/main/scripts/zoe_groove_forensics.py) |
 | **Event-Causal Perception &amp; Creative Playroom** | Adaptive RMSE `4.641453`, OOD `0.875` at `71.24 cyc/s`; MAP-Elites + Kloster Curiosity evolves **16/16** cellular organisms &amp; 44.1 kHz stereo `.wav` music. | Declared fixtures; algorithmic Quality-Diversity; `sentience_claimed=False`. | [`creative_playroom.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/creative_playroom.py) |
+| **Zoe Native Voice, Singing &amp; Cymatics** | Zero-PyTorch native English speaking &amp; soprano singing (`44` phonemes, `332` spelling rules, SMF `.mid` + DOS PSG baseline, C4/G4/C5 pitch `<=0.31%` err, Woodworth $\pm 45^\circ$ ITD/ILD, Chladni + 3-bitplane VDI `bit_diff=0`, `14/14` verifier). | Zero external TTS; flat mono negative ctrl `0.0`; `sentience_claimed=False`, `external_actions=0`. | [`zoe_voice.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/zoe_voice.py) |
 
 </details>
 
@@ -126,10 +127,10 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 | **Temporal Dynamics, Groove Forensics & Clock Entrainment** | Research Note | `.MOD`/`.MID` 2D Poincaré attractors, Markov chains, pure-noise negative controls, 40 MHz `CicadaClock` entrainment, and Dorothy 40 Hz spike ISI dynamics. | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/TEMPORAL-DYNAMICS-AND-GROOVE-FORENSICS.md) |
 | **L3 Research Collaborator Cycles (`RESEARCH-COLLABORATOR-QUALIFIED`)** | Monograph Note | 3 SHA-256 pre-registered 9-stage cycles across MIDI reversal, Allen CCFv3 3D neuroanatomy (`p=1/792`), and 40 MHz `CicadaClock` locking (`R=0.9948`) — 3 confirmed + 3 honestly falsified, independently reproduced (`14/14`, `max_delta=0.0`). | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L3-RESEARCH-COLLABORATOR-CYCLES.md) |
 | **L4 Generalized Self-Improvement (`SELF-IMPROVEMENT-QUALIFIED`)** | Monograph Note | Generation-blind pure-atomic AST evolution over raw `{p, gt05}` across 6 real domains / 4 unrelated families (4 unseen zero-shot): 2 consecutive adopted generations across 5/5 seeds, organic rollbacks, 12/12 sandbox blocks, bit-exact rollback ledger, and independent fresh-process verifier (`14/14`, `max_delta=0.0`). | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L4-GENERALIZED-SELF-IMPROVEMENT.md) |
-
 | **L4 Multi-Module Code Evolution (`3 Engines + Unified Diffs`)** | Monograph Note | Multi-statement Python `def` evolution across `spectral_uncertainty`, closed-loop `EventCausalEngine` (`Tf 4.063→2.882`), and `temporal_groove_neural` (`0.549→0.721`), `15/15` seeds, `17/17` hostile probes blocked, `0.0` atomic rollback delta &amp; independent verifier (`17/17`, `max_delta=0.0`). | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L4-MULTI-MODULE-CODE-EVOLUTION.md) |
+| **Zoe Native Voice, Singing &amp; Cymatics** | Monograph Note | Native offline English speech &amp; soprano singing (`44` phonemes, `332` spelling rules, SMF `.mid`/DOS PSG baseline, Rosenberg glottis + 5 formants, Woodworth 3D binaural HRTF, Chladni + 3-bitplane GEM VDI `14/14` verifier). | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/ZOE-NATIVE-VOICE-AND-CYMATICS.md) |
 
-Full **19-paper library** with LaTeX sources, galleries, and SHA-256 checksums: **[`zoe/research/papers`](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/README.md)** *(historical standalone mirror: [`Ablation-Tool/research-papers`](https://github.com/Ablation-Tool/research-papers))*.
+Full **20-paper library** with LaTeX sources, galleries, and SHA-256 checksums: **[`zoe/research/papers`](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/README.md)** *(historical standalone mirror: [`Ablation-Tool/research-papers`](https://github.com/Ablation-Tool/research-papers))*.
 
 <p align="center"><img src="assets/divider-orange.svg" alt="" width="100%" /></p>
 
@@ -141,7 +142,7 @@ Full **19-paper library** with LaTeX sources, galleries, and SHA-256 checksums: 
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Ablation-Tool/zoe">Ablation-Tool/zoe</a> &nbsp;·&nbsp; <sub>Flagship Monorepo</sub></h4>
-<p>Unified research, visual-computing, and autonomous intelligence monorepo combining <strong>13 runtime source projects</strong>, <strong>17 registered engines</strong>, <strong>56 GEM visual layers</strong>, Dorothy's 3D Neurogarden, Groove Forensics, CERN/HELIOS, PALA Rust carving, Cerotto, Kevlar, Mobile Trinity, 19 papers, and cataloged visuals.</p>
+<p>Unified research, visual-computing, and autonomous intelligence monorepo combining <strong>13 runtime source projects</strong>, <strong>17 registered engines</strong>, <strong>58 GEM visual layers</strong>, Dorothy's 3D Neurogarden, Groove Forensics, Zoe's Native 44-Phoneme Voice &amp; Cymatics, CERN/HELIOS, PALA Rust carving, Cerotto, Kevlar, Mobile Trinity, 20 papers, and cataloged visuals.</p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Ablation-Tool/ablation">Ablation-Tool/ablation</a> &nbsp;·&nbsp; <sub>Active Standalone</sub></h4>
