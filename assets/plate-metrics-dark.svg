@@ -1,132 +1,157 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-label="Plate 03: Measured Empirical Signatures and Preserved Negative Controls.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 436" width="1200" height="436" role="img" aria-label="Plate 03: Measured Empirical Signatures and Preserved Negative Controls across L0-L5, Native Voice, Groove, and Dorothy.">
   <defs>
     <linearGradient id="mBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#091219"/>
       <stop offset="100%" stop-color="#0E1B26"/>
     </linearGradient>
-    <clipPath id="mClip"><rect x="2" y="2" width="1196" height="406" rx="18"/></clipPath>
+    <clipPath id="mClip"><rect x="2" y="2" width="1196" height="432" rx="18"/></clipPath>
   </defs>
 
   <g clip-path="url(#mClip)">
-    <rect width="1200" height="410" fill="url(#mBg)"/>
+    <rect width="1200" height="436" fill="url(#mBg)"/>
 
-    <text x="36" y="36" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="700" letter-spacing="2.2" fill="#2DD4BF">PLATE 03  ·  EMPIRICAL SIGNATURES &amp; NEGATIVE CONTROLS</text>
-    <text x="1164" y="36" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" letter-spacing="1.2" fill="#7C97A9">ALL METRICS REPRODUCIBLE FROM CANONICAL REPOSITORIES</text>
+    <text x="36" y="36" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="700" letter-spacing="2.2" fill="#2DD4BF">PLATE 03  ·  EMPIRICAL SIGNATURES &amp; NEGATIVE CONTROLS (L0–L5 · VOICE · CLOCK)</text>
+    <text x="1164" y="36" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" letter-spacing="1.1" fill="#7C97A9">ALL METRICS REPRODUCIBLE FROM CANONICAL REPOSITORIES</text>
     <line x1="36" y1="50" x2="1164" y2="50" stroke="#21384A" stroke-width="1"/>
 
-    <!-- FIG 3A: Spectral Filtration -->
+    <!-- FIG 3A: Kloster Spectral Filtration -->
     <g transform="translate(36,68)">
-      <rect width="364" height="158" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
+      <rect width="364" height="164" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
       <text x="18" y="26" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7C97A9">FIG 3A</text>
       <text x="346" y="26" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#2DD4BF">4/4 BENCHMARKS</text>
-      <text x="18" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EDE4">Kloster Spectral Filtration</text>
+      <text x="18" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="700" fill="#F2EDE4">Kloster Spectral Filtration</text>
 
-      <!-- Horizontal bars -->
-      <text x="18" y="75" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#F2EDE4">M₄^(1/4)</text>
-      <rect x="92" y="64" width="184" height="13" rx="4" fill="#2DD4BF"/>
-      <text x="346" y="75" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#2DD4BF">4/4 wins</text>
+      <text x="18" y="76" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" font-weight="700" fill="#F2EDE4">M₄^(1/4)</text>
+      <rect x="92" y="65" width="184" height="13" rx="4" fill="#2DD4BF"/>
+      <text x="346" y="76" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" fill="#2DD4BF">4/4 wins</text>
 
-      <text x="18" y="96" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#B7C8D4">Slice A_τ</text>
-      <rect x="92" y="85" width="144" height="13" rx="4" fill="#22A6B3" opacity="0.8"/>
-      <text x="346" y="96" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#7C97A9">baseline</text>
+      <text x="18" y="98" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" fill="#B7C8D4">Slice A_τ</text>
+      <rect x="92" y="87" width="144" height="13" rx="4" fill="#22A6B3" opacity="0.8"/>
+      <text x="346" y="98" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" fill="#7C97A9">baseline</text>
 
-      <text x="18" y="117" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#B7C8D4">Naive JSD</text>
-      <rect x="92" y="106" width="76" height="13" rx="4" fill="#E85D1A"/>
-      <text x="346" y="117" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#E85D1A">0.4087 ctrl</text>
+      <text x="18" y="120" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" fill="#B7C8D4">Naive JSD</text>
+      <rect x="92" y="109" width="76" height="13" rx="4" fill="#E85D1A"/>
+      <text x="346" y="120" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" fill="#E85D1A">0.4087 ctrl</text>
 
-      <text x="18" y="144" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#E85D1A">Negative control preserved visibly</text>
+      <text x="18" y="149" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.8" fill="#E85D1A">Negative control preserved visibly</text>
     </g>
 
     <!-- FIG 3B: Stage 4 Mars Adaptive Lens -->
     <g transform="translate(418,68)">
-      <rect width="364" height="158" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
+      <rect width="364" height="164" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
       <text x="18" y="26" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7C97A9">FIG 3B</text>
       <text x="346" y="26" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#2DD4BF">AUROC 0.79374</text>
-      <text x="18" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EDE4">Stage 4 Mars Lens k*(κ)</text>
+      <text x="18" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="700" fill="#F2EDE4">Stage 4 Mars Lens k*(κ)</text>
 
-      <!-- Mini plot -->
-      <line x1="22" y1="124" x2="342" y2="124" stroke="#21384A" stroke-width="1"/>
-      <line x1="22" y1="64" x2="22" y2="124" stroke="#21384A" stroke-width="1"/>
-      <line x1="22" y1="114" x2="342" y2="114" stroke="#7C97A9" stroke-width="1" stroke-dasharray="3 3"/>
-      <line x1="22" y1="101" x2="342" y2="101" stroke="#22A6B3" stroke-width="1.1" stroke-dasharray="3 3"/>
+      <line x1="22" y1="126" x2="342" y2="126" stroke="#21384A" stroke-width="1"/>
+      <line x1="22" y1="64" x2="22" y2="126" stroke="#21384A" stroke-width="1"/>
+      <line x1="22" y1="115" x2="342" y2="115" stroke="#7C97A9" stroke-width="1" stroke-dasharray="3 3"/>
+      <line x1="22" y1="102" x2="342" y2="102" stroke="#22A6B3" stroke-width="1.1" stroke-dasharray="3 3"/>
       <path d="M 30,90 Q 182,76 334,86" fill="none" stroke="#E85D1A" stroke-width="2.2"/>
-      <line x1="22" y1="72" x2="176" y2="72" stroke="#2DD4BF" stroke-width="1.3" stroke-dasharray="2 3"/>
-      <circle cx="176" cy="72" r="4.5" fill="#2DD4BF"/>
-      <text x="186" y="76" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#2DD4BF">k*(κ) 0.79374</text>
-      <text x="340" y="99" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.2" fill="#22A6B3">A_τ 0.7738</text>
-      <text x="340" y="112" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.2" fill="#7C97A9">H(p) 0.7631</text>
+      <line x1="22" y1="73" x2="176" y2="73" stroke="#2DD4BF" stroke-width="1.3" stroke-dasharray="2 3"/>
+      <circle cx="176" cy="73" r="4.5" fill="#2DD4BF"/>
+      <text x="186" y="77" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" font-weight="700" fill="#2DD4BF">k*(κ) 0.79374</text>
+      <text x="340" y="100" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.2" fill="#22A6B3">A_τ 0.7738</text>
+      <text x="340" y="113" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.2" fill="#7C97A9">H(p) 0.7631</text>
 
-      <text x="18" y="144" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7C97A9">Beats every fixed k ∈ [1.5, 8.0] unlabeled</text>
+      <text x="18" y="149" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.8" fill="#7C97A9">Beats every fixed k ∈ [1.5, 8.0] unlabeled</text>
     </g>
 
-    <!-- FIG 3C: Stage 5 L4 AST Self-Evolution -->
+    <!-- FIG 3C: L3 & L4 Multi-Module Evolution -->
     <g transform="translate(800,68)">
-      <rect width="364" height="158" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
+      <rect width="364" height="164" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
       <text x="18" y="26" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7C97A9">FIG 3C</text>
-      <text x="346" y="26" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#2DD4BF">+0.2274 GAIN</text>
-      <text x="18" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EDE4">L4 Sandboxed AST Evolution</text>
+      <text x="346" y="26" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#2DD4BF">17/17 VERIFIER</text>
+      <text x="18" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="700" fill="#F2EDE4">L3 &amp; L4 Multi-Module Evolution</text>
 
       <line x1="26" y1="122" x2="342" y2="122" stroke="#21384A" stroke-width="1"/>
-      <polyline points="48,112 120,76 192,74 264,71" fill="none" stroke="#2DD4BF" stroke-width="2.4"/>
-      <line x1="264" y1="71" x2="322" y2="108" stroke="#E85D1A" stroke-width="1.8" stroke-dasharray="4 3"/>
-      <circle cx="48" cy="112" r="4" fill="#2DD4BF"/>
-      <circle cx="120" cy="76" r="4" fill="#2DD4BF"/>
-      <circle cx="192" cy="74" r="4" fill="#2DD4BF"/>
-      <circle cx="264" cy="71" r="4.5" fill="#2DD4BF"/>
-      <text x="264" y="63" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700" fill="#2DD4BF">0.7976</text>
-      <text x="64" y="114" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" fill="#7C97A9">0.570</text>
-      <text x="322" y="112" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" fill="#E85D1A">×</text>
-      <text x="48" y="133" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#7C97A9">G0</text>
-      <text x="120" y="133" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#7C97A9">G1</text>
-      <text x="192" y="133" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#7C97A9">G2</text>
-      <text x="264" y="133" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#2DD4BF">G3</text>
-      <text x="322" y="133" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#E85D1A">G4×</text>
+      <polyline points="54,113 136,88 218,74" fill="none" stroke="#2DD4BF" stroke-width="2.4"/>
+      <line x1="218" y1="74" x2="306" y2="108" stroke="#E85D1A" stroke-width="1.8" stroke-dasharray="4 3"/>
+      <circle cx="54" cy="113" r="4" fill="#2DD4BF"/>
+      <circle cx="136" cy="88" r="4" fill="#2DD4BF"/>
+      <circle cx="218" cy="74" r="4.5" fill="#2DD4BF"/>
+      <text x="218" y="65" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700" fill="#2DD4BF">0.7625 (3 eng)</text>
+      <text x="72" y="115" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" fill="#7C97A9">0.597</text>
+      <text x="306" y="112" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" fill="#E85D1A">×</text>
+      <text x="54" y="133" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#7C97A9">G0</text>
+      <text x="136" y="133" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#7C97A9">G1</text>
+      <text x="218" y="133" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#2DD4BF">G2</text>
+      <text x="306" y="133" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#E85D1A">G3×</text>
 
-      <text x="18" y="148" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#E85D1A">G4 overfit rejected · l5_agi_qualified=False</text>
+      <text x="18" y="149" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.8" fill="#E85D1A">15/15 seeds · 17/17 probes · 0.0 rollback</text>
     </g>
 
-    <!-- FIG 3D: Temporal Dynamics, Groove Forensics & 40 MHz Clock -->
-    <g transform="translate(36,242)">
-      <rect width="554" height="146" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
-      <text x="20" y="26" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7C97A9">FIG 3D · NEW INSTRUMENT</text>
-      <text x="534" y="26" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#C06EFF">KURAMOTO R = 0.9334</text>
-      <text x="20" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EDE4">Temporal Groove Forensics &amp; CicadaClock Bridge</text>
+    <!-- FIG 3D: L5 Phases 1 & 2 Core + Open-World -->
+    <g transform="translate(36,250)">
+      <rect width="364" height="164" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
+      <text x="18" y="26" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7C97A9">FIG 3D · L5 IN PROGRESS</text>
+      <text x="346" y="26" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#2DD4BF">16/16 + 18/18</text>
+      <text x="18" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="700" fill="#F2EDE4">L5 Phases 1 &amp; 2 Core + Open-World</text>
 
-      <!-- Mini Poincaré diagonal attractor schematic -->
-      <rect x="20" y="60" width="98" height="68" rx="6" fill="#132432" stroke="#21384A" stroke-width="0.9"/>
-      <ellipse cx="69" cy="94" rx="34" ry="8" transform="rotate(42 69 94)" fill="none" stroke="#E85D1A" stroke-width="1.8"/>
-      <circle cx="52" cy="78" r="2.2" fill="#2DD4BF"/>
-      <circle cx="86" cy="110" r="2.2" fill="#2DD4BF"/>
-      <circle cx="58" cy="83" r="2" fill="#FF8142"/>
-      <circle cx="80" cy="105" r="2" fill="#FF8142"/>
-      <circle cx="69" cy="94" r="1.8" fill="#C06EFF"/>
+      <text x="18" y="76" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.8" font-weight="700" fill="#F2EDE4">Ph1 (10/10)</text>
+      <rect x="104" y="65" width="182" height="12" rx="4" fill="#2DD4BF"/>
+      <text x="346" y="76" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700" fill="#2DD4BF">0.9777</text>
 
-      <text x="130" y="76" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.6" fill="#F2EDE4">• Swing Attractor: <tspan font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" fill="#2DD4BF">ρ₁ = −0.9778 · e = 0.994 · I = 1.006 bits</tspan></text>
-      <text x="130" y="97" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.6" fill="#B7C8D4">• Pure-Noise Ctrl: <tspan font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" fill="#E85D1A">ρ₁ = −0.0602 · e = 0.337 · I = 0.045 bits</tspan></text>
-      <text x="130" y="118" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.6" fill="#B7C8D4">• Dorothy 40 Hz ISI: <tspan font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" fill="#C06EFF">25.01 ms · D = 0.260 · .MOD 0.0 bits</tspan></text>
+      <text x="18" y="97" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.8" font-weight="700" fill="#F2EDE4">Ph2 (5/5)</text>
+      <rect x="104" y="86" width="180" height="12" rx="4" fill="#C06EFF"/>
+      <text x="346" y="97" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700" fill="#C06EFF">0.9730</text>
+
+      <text x="18" y="118" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.8" fill="#B7C8D4">Ctrls Mean</text>
+      <rect x="104" y="107" width="48" height="12" rx="4" fill="#E85D1A"/>
+      <text x="346" y="118" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#E85D1A">0.2646 ctrl</text>
+
+      <text x="18" y="136" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" fill="#B7C8D4">AST repair 15/15 · 2,400-ep mem · 16 LLMs</text>
+      <text x="18" y="152" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.8" fill="#E85D1A">l5_agi_qualified=False · Zero PyTorch</text>
     </g>
 
-    <!-- FIG 3E: Event-Causal Active Perception & Dorothy CCFv3 -->
-    <g transform="translate(610,242)">
-      <rect width="554" height="146" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
-      <text x="20" y="26" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7C97A9">FIG 3E · PERCEPTION &amp; VOLUMETRICS</text>
-      <text x="534" y="26" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#2DD4BF">71.24 CYCLES/S</text>
-      <text x="20" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EDE4">Event-Causal Perception &amp; Dorothy CCFv3 Atlas</text>
+    <!-- FIG 3E: Zoe Native Voice & Cymatics -->
+    <g transform="translate(418,250)">
+      <rect width="364" height="164" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
+      <text x="18" y="26" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7C97A9">FIG 3E · ACOUSTICS &amp; VDI</text>
+      <text x="346" y="26" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#C06EFF">14/14 VERIFIER</text>
+      <text x="18" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="700" fill="#F2EDE4">Zoe Native Voice &amp; Cymatics</text>
 
-      <!-- Mini radar polygon -->
-      <g transform="translate(68,94)">
-        <polygon points="0,-28 27,-9 17,23 -17,23 -27,-9" fill="none" stroke="#21384A" stroke-width="1"/>
-        <polygon points="0,-23 22,-7 14,19 -14,18 -21,-7" fill="#2DD4BF" fill-opacity="0.22" stroke="#2DD4BF" stroke-width="1.6"/>
-        <circle cx="0" cy="-23" r="2.4" fill="#2DD4BF"/>
-        <circle cx="22" cy="-7" r="2.4" fill="#2DD4BF"/>
-        <circle cx="14" cy="19" r="2.4" fill="#2DD4BF"/>
-      </g>
+      <rect x="18" y="58" width="328" height="50" rx="6" fill="#132432" stroke="#21384A" stroke-width="0.8"/>
+      <line x1="24" y1="84" x2="340" y2="84" stroke="#21384A" stroke-width="0.9"/>
+      <path d="M 24.0,84.0 L 32.0,80.5 L 40.0,77.6 L 48.0,76.0 L 56.0,76.1 L 64.0,78.1 L 72.0,81.6 L 80.0,86.1 L 88.0,90.4 L 96.0,93.5 L 104.0,94.7 L 112.0,93.4 L 120.0,89.8 L 128.0,84.5 L 136.0,78.7 L 144.0,73.6 L 152.0,70.6 L 160.0,70.5 L 168.0,73.6 L 176.0,79.4 L 184.0,86.8 L 192.0,93.4 L 200.0,97.4 L 208.0,98.2 L 216.0,95.8 L 224.0,91.0 L 232.0,85.1 L 240.0,79.4 L 248.0,75.1 L 256.0,73.1 L 264.0,73.6 L 272.0,76.4 L 280.0,80.6 L 288.0,85.3 L 296.0,89.3 L 304.0,91.8 L 312.0,92.4 L 320.0,91.2 L 328.0,88.5 L 336.0,85.0 L 344.0,81.5" fill="none" stroke="#2DD4BF" stroke-width="1.8"/>
+      <circle cx="72" cy="70" r="3" fill="#C06EFF"/>
+      <circle cx="128" cy="96" r="3" fill="#FF8142"/>
+      <circle cx="184" cy="68" r="3.4" fill="#2DD4BF"/>
+      <circle cx="240" cy="98" r="3" fill="#F0CFA0"/>
+      <circle cx="296" cy="72" r="3" fill="#C06EFF"/>
+      <text x="72" y="66" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#7C97A9">F1</text>
+      <text x="128" y="66" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#7C97A9">F2</text>
+      <text x="184" y="64" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#2DD4BF">F3</text>
+      <text x="240" y="66" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#7C97A9">F4</text>
+      <text x="296" y="66" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#7C97A9">F5</text>
 
-      <text x="128" y="76" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#F2EDE4">• Adaptive RMSE: <tspan font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" fill="#2DD4BF">4.641453</tspan> vs <tspan font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" fill="#7C97A9">5.058147</tspan> no-learning</text>
-      <text x="128" y="97" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#B7C8D4">• OOD Detection: <tspan font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" fill="#2DD4BF">0.875 (0 val FP)</tspan> · Transfer MAE <tspan font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" fill="#F0CFA0">3.266</tspan></text>
-      <text x="128" y="118" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#B7C8D4">• Dorothy Atlas: <tspan font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" fill="#E85D1A">12 Allen CCFv3 structures · 315,932 tris</tspan></text>
+      <text x="18" y="122" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.6" fill="#F2EDE4">44 phonemes · 332 rules · pitch ≤ 0.31%</text>
+      <text x="18" y="137" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.6" fill="#B7C8D4">Woodworth ±45° ITD/ILD · 3-bitplane VDI</text>
+      <text x="18" y="152" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.8" fill="#2DD4BF">Zero external TTS · bit_diff = 0</text>
+    </g>
+
+    <!-- FIG 3F: Groove, Clock & Dorothy Atlas -->
+    <g transform="translate(800,250)">
+      <rect width="364" height="164" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
+      <text x="18" y="26" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7C97A9">FIG 3F · TEMPORAL &amp; CCFv3</text>
+      <text x="346" y="26" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#2DD4BF">R = 0.9334</text>
+      <text x="18" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="700" fill="#F2EDE4">Groove, Clock &amp; Dorothy Atlas</text>
+
+      <rect x="18" y="62" width="78" height="66" rx="6" fill="#132432" stroke="#21384A" stroke-width="0.9"/>
+      <ellipse cx="57" cy="95" rx="28" ry="7" transform="rotate(42 57 95)" fill="none" stroke="#E85D1A" stroke-width="1.7"/>
+      <circle cx="43" cy="82" r="2.1" fill="#2DD4BF"/>
+      <circle cx="71" cy="108" r="2.1" fill="#2DD4BF"/>
+      <circle cx="49" cy="87" r="1.9" fill="#FF8142"/>
+      <circle cx="65" cy="103" r="1.9" fill="#FF8142"/>
+      <circle cx="57" cy="95" r="1.8" fill="#C06EFF"/>
+
+      <text x="108" y="76" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" fill="#2DD4BF">Swing ρ₁=−0.978 vs −0.060</text>
+      <text x="108" y="96" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" fill="#F2EDE4">Event-Causal 71.24 cyc/s</text>
+      <text x="108" y="116" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" fill="#C06EFF">Dorothy 315,932 tris · 40Hz</text>
+
+      <text x="18" y="152" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.8" fill="#E85D1A">.MOD 0.0 bits · 12 CCFv3 · clinical=False</text>
     </g>
   </g>
 
-  <rect x="2" y="2" width="1196" height="406" rx="18" fill="none" stroke="#21384A" stroke-width="1.5"/>
+  <rect x="2" y="2" width="1196" height="432" rx="18" fill="none" stroke="#21384A" stroke-width="1.5"/>
 </svg>

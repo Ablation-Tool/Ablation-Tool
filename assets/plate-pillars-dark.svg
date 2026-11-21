@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 256" width="1200" height="256" role="img" aria-label="Plate 04: The Two Pillars — Adversarial Rigor and Mathematical Autonomy bridged by the Epistemic Firewall.">
+  <defs>
+    <linearGradient id="pBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#091219"/>
+      <stop offset="100%" stop-color="#0E1B26"/>
+    </linearGradient>
+    <filter id="pGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.0" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="pClip"><rect x="2" y="2" width="1196" height="252" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#pClip)">
+    <rect width="1200" height="256" fill="url(#pBg)"/>
+    <text x="34" y="36" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.2" font-weight="700" letter-spacing="2.0" fill="#2DD4BF">PLATE 04  ·  THE TWO PILLARS: ADVERSARIAL RIGOR × MATHEMATICAL AUTONOMY</text>
+    <text x="1166" y="36" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.2" letter-spacing="1.2" fill="#7C97A9">EPISTEMIC FIREWALL BRIDGE</text>
+    <line x1="34" y1="48" x2="1166" y2="48" stroke="#21384A" stroke-width="1"/>
+
+    <!-- Bridge Connectors -->
+    <line x1="448" y1="149" x2="468" y2="149" stroke="#E85D1A" stroke-width="2" opacity="0.85"/>
+    <circle r="3.0" fill="#FF8142" filter="url(#pGlow)">
+      <animateMotion dur="2.2s" repeatCount="indefinite" path="M 448,149 L 468,149"/>
+    </circle>
+    <line x1="732" y1="149" x2="752" y2="149" stroke="#C06EFF" stroke-width="2" opacity="0.85"/>
+    <circle r="3.0" fill="#2DD4BF" filter="url(#pGlow)">
+      <animateMotion dur="2.2s" begin="0.8s" repeatCount="indefinite" path="M 732,149 L 752,149"/>
+    </circle>
+
+    <!-- Left Pillar Card -->
+    <g transform="translate(34,64)">
+      <rect width="414" height="170" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
+      <line x1="12" y1="2" x2="402" y2="2" stroke="#E85D1A" stroke-width="3" stroke-linecap="round"/>
+      <text x="20" y="28" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1.2" fill="#E85D1A">PILLAR I · TACTICAL &amp; ADVERSARIAL GROUNDING</text>
+      <text x="20" y="52" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="700" fill="#F2EDE4">Real-World Defense &amp; Discipline</text>
+      <text x="20" y="78" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.8" fill="#B7C8D4">• 8+ yrs U.S. Army Infantry SSG · 2× Afghanistan</text>
+      <text x="20" y="100" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.8" fill="#B7C8D4">• SQI E Military Mountaineer · Resilience (8R)</text>
+      <text x="20" y="122" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.8" fill="#B7C8D4">• 6 CVEs (Cisco FMC/ISE 9.0 Crit · CISA ICS)</text>
+      <text x="20" y="144" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.8" fill="#B7C8D4">• 4 ISE Hardening · CISA ICS/OT · 109 DC3</text>
+    </g>
+
+    <!-- Central Epistemic Bridge -->
+    <g transform="translate(468,64)">
+      <rect width="264" height="170" rx="12" fill="#132432" stroke="#2DD4BF" stroke-width="1.6"/>
+      <text x="132" y="24" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.8" font-weight="700" letter-spacing="1.4" fill="#2DD4BF">SHARED COVENANT</text>
+      <polygon points="132,36 146,50 132,64 118,50" fill="none" stroke="#E85D1A" stroke-width="1.5" filter="url(#pGlow)"/>
+      <polygon points="132,42 140,50 132,58 124,50" fill="#2DD4BF" opacity="0.88"/>
+      <text x="132" y="84" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="700" fill="#F2EDE4">EPISTEMIC FIREWALL</text>
+      <text x="132" y="106" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.8" font-weight="700" fill="#2DD4BF">measurement ≠ evidence</text>
+      <text x="132" y="124" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.8" font-weight="700" fill="#E85D1A">≠ belief update ≠ action</text>
+      <text x="132" y="152" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.6" fill="#7C97A9">Security discipline enforces honesty</text>
+    </g>
+
+    <!-- Right Pillar Card -->
+    <g transform="translate(752,64)">
+      <rect width="414" height="170" rx="12" fill="#0F1D28" stroke="#21384A" stroke-width="1.2"/>
+      <line x1="12" y1="2" x2="402" y2="2" stroke="#C06EFF" stroke-width="3" stroke-linecap="round"/>
+      <text x="20" y="28" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1.2" fill="#C06EFF">PILLAR II · MATHEMATICAL &amp; GENERATIVE HEART</text>
+      <text x="20" y="52" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="700" fill="#F2EDE4">Operational Metacognition &amp; Zoe</text>
+      <text x="20" y="78" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.8" fill="#B7C8D4">• Originated A_τ(p) (Mar 6, 2026) &amp; Kloster Thm</text>
+      <text x="20" y="100" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.8" fill="#B7C8D4">• L3 Cycles, L4 3-Engine AST &amp; L5 Ph 1–2 Core</text>
+      <text x="20" y="122" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.8" fill="#B7C8D4">• Native 44-Phoneme Voice, Cymatics &amp; CCFv3</text>
+      <text x="20" y="144" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.8" fill="#B7C8D4">• 34-Turn, 1,414-Step TrueColor Session Logs</text>
+    </g>
+  </g>
+  <rect x="2" y="2" width="1196" height="252" rx="16" fill="none" stroke="#21384A" stroke-width="1.4"/>
+</svg>

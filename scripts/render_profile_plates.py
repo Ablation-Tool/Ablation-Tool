@@ -189,7 +189,7 @@ def build_hero(mode: str) -> str:
     <text x="48" y="302" font-family="{SERIF}" font-style="italic" font-size="14.5" fill="{t["teal"]}">“Transforming the symbolic into the geometric.”</text>
 
     <line x1="48" y1="322" x2="534" y2="322" stroke="{t["border"]}" stroke-width="1"/>
-    <text x="48" y="345" font-family="{MONO}" font-size="9.8" letter-spacing="0.2" fill="{t["muted"]}">Ablation-Tool/zoe · 17 Engines · 50 Layers · 18 Papers · 456 Visuals · 6 CVEs</text>
+    <text x="48" y="345" font-family="{MONO}" font-size="9.8" letter-spacing="0.2" fill="{t["muted"]}">Ablation-Tool/zoe · 17 Engines · 62 Layers · 18 Papers · 456 Visuals · 6 CVEs</text>
 
     <!-- Right Gallagher Scientific Instrument Viewport -->
     <rect x="572" y="32" width="592" height="316" rx="14" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.3"/>
@@ -284,10 +284,10 @@ def build_atlas(mode: str) -> str:
     <rect x="48" y="274" width="3.5" height="116" rx="2" fill="{t["teal"]}"/>
     <text x="64" y="288" font-family="{MONO}" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="{t["teal"]}">02 · SELF-GOVERNING LOOP</text>
     <text x="64" y="312" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">Autonomy, Play &amp; Evolution</text>
-    <text x="64" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">Zoe-Autonomy · Playroom · Symphony</text>
-    <text x="64" y="356" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Event-causal perception (71.24 cyc/s)</text>
-    <text x="64" y="375" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Stage 5 L4 4-domain AST self-evolution</text>
-    <text x="64" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 16/16 Playroom species &amp; stereo synth</text>
+    <text x="64" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">L3 Research · L4 Multi-Module · L5 Ph 1–2</text>
+    <text x="64" y="356" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• L3 Cycles (14/14) &amp; L4 3-Engine AST (17/17)</text>
+    <text x="64" y="375" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• L5 10-Domain Core &amp; Open-World (16+18)</text>
+    <text x="64" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Native 44-Phoneme Voice &amp; 16 Playroom</text>
 
     <!-- Central Flagship Card: ZOE -->
     <rect x="426" y="76" width="348" height="332" rx="16" fill="{t["panel_alt"]}" stroke="{t["teal"]}" stroke-width="1.8"/>
@@ -319,9 +319,9 @@ def build_atlas(mode: str) -> str:
     <rect x="452" y="232" width="6" height="6" rx="1" fill="{t["orange"]}"/>
     <text x="468" y="239" font-family="{SANS}" font-size="13" fill="{t["ink"]}">13 runtime source projects · Zero submodules</text>
     <rect x="452" y="258" width="6" height="6" rx="1" fill="{t["teal"]}"/>
-    <text x="468" y="265" font-family="{SANS}" font-size="13" fill="{t["ink"]}">17 registered engines · 50 GEM visual layers</text>
+    <text x="468" y="265" font-family="{SANS}" font-size="13" fill="{t["ink"]}">17 registered engines · 62 GEM visual layers</text>
     <rect x="452" y="284" width="6" height="6" rx="1" fill="{t["violet"]}"/>
-    <text x="468" y="291" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Groove Forensics · 40 MHz CicadaClock · CERN</text>
+    <text x="468" y="291" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Native Voice · 40 MHz CicadaClock · CERN</text>
     <rect x="452" y="310" width="6" height="6" rx="1" fill="{t["copper"]}"/>
     <text x="468" y="317" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Zero-deception constitution · Verified CI</text>
 
@@ -349,10 +349,10 @@ def build_atlas(mode: str) -> str:
     <rect x="850" y="274" width="3.5" height="116" rx="2" fill="{t["copper"]}"/>
     <text x="866" y="288" font-family="{MONO}" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="{t["copper"]}">04 · OPEN SCIENTIFIC RECORD</text>
     <text x="866" y="312" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">Monographs, Archive &amp; Integrity</text>
-    <text x="866" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">18 Papers · 456 Visuals · PKCS #7</text>
+    <text x="866" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">18 PDFs · 9 Monographs · Sessions</text>
     <text x="866" y="356" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 23-p. Zoe Universe &amp; 87-p. Autonomy PDFs</text>
-    <text x="866" y="375" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 456 byte-distinct cataloged visuals</text>
-    <text x="866" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• SHA-256 chains &amp; detached PDF sigs</text>
+    <text x="866" y="375" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 456 visuals · SHA-256 &amp; PKCS #7 sigs</text>
+    <text x="866" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 34-turn TrueColor Session Chronicles</text>
   </g>
   <rect x="2" y="2" width="1196" height="436" rx="18" fill="none" stroke="{t["border"]}" stroke-width="1.5"/>
 </svg>
@@ -361,140 +361,240 @@ def build_atlas(mode: str) -> str:
 
 def build_metrics(mode: str) -> str:
     t = THEMES[mode]
-    # 5 crisp telemetry cards in a 2-row architectural grid:
-    # Row 1 (3 cards, w=364 each): Fig 3A Spectral, Fig 3B Mars Lens, Fig 3C L4 AST Evolution
-    # Row 2 (2 wide cards, w=554 each): Fig 3D Temporal Groove & Clock Entrainment, Fig 3E Event-Causal & Dorothy CCFv3
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-label="Plate 03: Measured Empirical Signatures and Preserved Negative Controls.">
+    # Balanced 3x2 telemetry grid: 6 cards of width=364, height=164
+    wave_pts = " ".join(
+        f"{'M' if i == 0 else 'L'} {24 + i * 8:.1f},{84 - 16 * math.sin(i * 0.48) * math.exp(-abs(i - 20) * 0.04):.1f}"
+        for i in range(41)
+    )
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 436" width="1200" height="436" role="img" aria-label="Plate 03: Measured Empirical Signatures and Preserved Negative Controls across L0-L5, Native Voice, Groove, and Dorothy.">
   <defs>
     <linearGradient id="mBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="{t["bg0"]}"/>
       <stop offset="100%" stop-color="{t["bg1"]}"/>
     </linearGradient>
-    <clipPath id="mClip"><rect x="2" y="2" width="1196" height="406" rx="18"/></clipPath>
+    <clipPath id="mClip"><rect x="2" y="2" width="1196" height="432" rx="18"/></clipPath>
   </defs>
 
   <g clip-path="url(#mClip)">
-    <rect width="1200" height="410" fill="url(#mBg)"/>
+    <rect width="1200" height="436" fill="url(#mBg)"/>
 
-    <text x="36" y="36" font-family="{MONO}" font-size="11.5" font-weight="700" letter-spacing="2.2" fill="{t["teal"]}">PLATE 03  ·  EMPIRICAL SIGNATURES &amp; NEGATIVE CONTROLS</text>
-    <text x="1164" y="36" text-anchor="end" font-family="{MONO}" font-size="10.5" letter-spacing="1.2" fill="{t["muted"]}">ALL METRICS REPRODUCIBLE FROM CANONICAL REPOSITORIES</text>
+    <text x="36" y="36" font-family="{MONO}" font-size="11.5" font-weight="700" letter-spacing="2.2" fill="{t["teal"]}">PLATE 03  ·  EMPIRICAL SIGNATURES &amp; NEGATIVE CONTROLS (L0–L5 · VOICE · CLOCK)</text>
+    <text x="1164" y="36" text-anchor="end" font-family="{MONO}" font-size="10.2" letter-spacing="1.1" fill="{t["muted"]}">ALL METRICS REPRODUCIBLE FROM CANONICAL REPOSITORIES</text>
     <line x1="36" y1="50" x2="1164" y2="50" stroke="{t["border"]}" stroke-width="1"/>
 
-    <!-- FIG 3A: Spectral Filtration -->
+    <!-- FIG 3A: Kloster Spectral Filtration -->
     <g transform="translate(36,68)">
-      <rect width="364" height="158" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
+      <rect width="364" height="164" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
       <text x="18" y="26" font-family="{MONO}" font-size="10" fill="{t["muted"]}">FIG 3A</text>
       <text x="346" y="26" text-anchor="end" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["teal"]}">4/4 BENCHMARKS</text>
-      <text x="18" y="48" font-family="{SANS}" font-size="16" font-weight="700" fill="{t["ink"]}">Kloster Spectral Filtration</text>
+      <text x="18" y="48" font-family="{SANS}" font-size="15.5" font-weight="700" fill="{t["ink"]}">Kloster Spectral Filtration</text>
 
-      <!-- Horizontal bars -->
-      <text x="18" y="75" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["ink"]}">M₄^(1/4)</text>
-      <rect x="92" y="64" width="184" height="13" rx="4" fill="{t["teal"]}"/>
-      <text x="346" y="75" text-anchor="end" font-family="{MONO}" font-size="10.5" fill="{t["teal"]}">4/4 wins</text>
+      <text x="18" y="76" font-family="{MONO}" font-size="10.2" font-weight="700" fill="{t["ink"]}">M₄^(1/4)</text>
+      <rect x="92" y="65" width="184" height="13" rx="4" fill="{t["teal"]}"/>
+      <text x="346" y="76" text-anchor="end" font-family="{MONO}" font-size="10.2" fill="{t["teal"]}">4/4 wins</text>
 
-      <text x="18" y="96" font-family="{MONO}" font-size="10.5" fill="{t["ink2"]}">Slice A_τ</text>
-      <rect x="92" y="85" width="144" height="13" rx="4" fill="{t["teal_mid"]}" opacity="0.8"/>
-      <text x="346" y="96" text-anchor="end" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">baseline</text>
+      <text x="18" y="98" font-family="{MONO}" font-size="10.2" fill="{t["ink2"]}">Slice A_τ</text>
+      <rect x="92" y="87" width="144" height="13" rx="4" fill="{t["teal_mid"]}" opacity="0.8"/>
+      <text x="346" y="98" text-anchor="end" font-family="{MONO}" font-size="10.2" fill="{t["muted"]}">baseline</text>
 
-      <text x="18" y="117" font-family="{MONO}" font-size="10.5" fill="{t["ink2"]}">Naive JSD</text>
-      <rect x="92" y="106" width="76" height="13" rx="4" fill="{t["orange"]}"/>
-      <text x="346" y="117" text-anchor="end" font-family="{MONO}" font-size="10.5" fill="{t["orange"]}">0.4087 ctrl</text>
+      <text x="18" y="120" font-family="{MONO}" font-size="10.2" fill="{t["ink2"]}">Naive JSD</text>
+      <rect x="92" y="109" width="76" height="13" rx="4" fill="{t["orange"]}"/>
+      <text x="346" y="120" text-anchor="end" font-family="{MONO}" font-size="10.2" fill="{t["orange"]}">0.4087 ctrl</text>
 
-      <text x="18" y="144" font-family="{MONO}" font-size="10" fill="{t["orange"]}">Negative control preserved visibly</text>
+      <text x="18" y="149" font-family="{MONO}" font-size="9.8" fill="{t["orange"]}">Negative control preserved visibly</text>
     </g>
 
     <!-- FIG 3B: Stage 4 Mars Adaptive Lens -->
     <g transform="translate(418,68)">
-      <rect width="364" height="158" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
+      <rect width="364" height="164" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
       <text x="18" y="26" font-family="{MONO}" font-size="10" fill="{t["muted"]}">FIG 3B</text>
       <text x="346" y="26" text-anchor="end" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["teal"]}">AUROC 0.79374</text>
-      <text x="18" y="48" font-family="{SANS}" font-size="16" font-weight="700" fill="{t["ink"]}">Stage 4 Mars Lens k*(κ)</text>
+      <text x="18" y="48" font-family="{SANS}" font-size="15.5" font-weight="700" fill="{t["ink"]}">Stage 4 Mars Lens k*(κ)</text>
 
-      <!-- Mini plot -->
-      <line x1="22" y1="124" x2="342" y2="124" stroke="{t["border"]}" stroke-width="1"/>
-      <line x1="22" y1="64" x2="22" y2="124" stroke="{t["border"]}" stroke-width="1"/>
-      <line x1="22" y1="114" x2="342" y2="114" stroke="{t["muted"]}" stroke-width="1" stroke-dasharray="3 3"/>
-      <line x1="22" y1="101" x2="342" y2="101" stroke="{t["teal_mid"]}" stroke-width="1.1" stroke-dasharray="3 3"/>
+      <line x1="22" y1="126" x2="342" y2="126" stroke="{t["border"]}" stroke-width="1"/>
+      <line x1="22" y1="64" x2="22" y2="126" stroke="{t["border"]}" stroke-width="1"/>
+      <line x1="22" y1="115" x2="342" y2="115" stroke="{t["muted"]}" stroke-width="1" stroke-dasharray="3 3"/>
+      <line x1="22" y1="102" x2="342" y2="102" stroke="{t["teal_mid"]}" stroke-width="1.1" stroke-dasharray="3 3"/>
       <path d="M 30,90 Q 182,76 334,86" fill="none" stroke="{t["orange"]}" stroke-width="2.2"/>
-      <line x1="22" y1="72" x2="176" y2="72" stroke="{t["teal"]}" stroke-width="1.3" stroke-dasharray="2 3"/>
-      <circle cx="176" cy="72" r="4.5" fill="{t["teal"]}"/>
-      <text x="186" y="76" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["teal"]}">k*(κ) 0.79374</text>
-      <text x="340" y="99" text-anchor="end" font-family="{MONO}" font-size="9.2" fill="{t["teal_mid"]}">A_τ 0.7738</text>
-      <text x="340" y="112" text-anchor="end" font-family="{MONO}" font-size="9.2" fill="{t["muted"]}">H(p) 0.7631</text>
+      <line x1="22" y1="73" x2="176" y2="73" stroke="{t["teal"]}" stroke-width="1.3" stroke-dasharray="2 3"/>
+      <circle cx="176" cy="73" r="4.5" fill="{t["teal"]}"/>
+      <text x="186" y="77" font-family="{MONO}" font-size="10.2" font-weight="700" fill="{t["teal"]}">k*(κ) 0.79374</text>
+      <text x="340" y="100" text-anchor="end" font-family="{MONO}" font-size="9.2" fill="{t["teal_mid"]}">A_τ 0.7738</text>
+      <text x="340" y="113" text-anchor="end" font-family="{MONO}" font-size="9.2" fill="{t["muted"]}">H(p) 0.7631</text>
 
-      <text x="18" y="144" font-family="{MONO}" font-size="10" fill="{t["muted"]}">Beats every fixed k ∈ [1.5, 8.0] unlabeled</text>
+      <text x="18" y="149" font-family="{MONO}" font-size="9.8" fill="{t["muted"]}">Beats every fixed k ∈ [1.5, 8.0] unlabeled</text>
     </g>
 
-    <!-- FIG 3C: Stage 5 L4 AST Self-Evolution -->
+    <!-- FIG 3C: L3 & L4 Multi-Module Evolution -->
     <g transform="translate(800,68)">
-      <rect width="364" height="158" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
+      <rect width="364" height="164" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
       <text x="18" y="26" font-family="{MONO}" font-size="10" fill="{t["muted"]}">FIG 3C</text>
-      <text x="346" y="26" text-anchor="end" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["teal"]}">+0.2274 GAIN</text>
-      <text x="18" y="48" font-family="{SANS}" font-size="16" font-weight="700" fill="{t["ink"]}">L4 Sandboxed AST Evolution</text>
+      <text x="346" y="26" text-anchor="end" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["teal"]}">17/17 VERIFIER</text>
+      <text x="18" y="48" font-family="{SANS}" font-size="15.5" font-weight="700" fill="{t["ink"]}">L3 &amp; L4 Multi-Module Evolution</text>
 
       <line x1="26" y1="122" x2="342" y2="122" stroke="{t["border"]}" stroke-width="1"/>
-      <polyline points="48,112 120,76 192,74 264,71" fill="none" stroke="{t["teal"]}" stroke-width="2.4"/>
-      <line x1="264" y1="71" x2="322" y2="108" stroke="{t["orange"]}" stroke-width="1.8" stroke-dasharray="4 3"/>
-      <circle cx="48" cy="112" r="4" fill="{t["teal"]}"/>
-      <circle cx="120" cy="76" r="4" fill="{t["teal"]}"/>
-      <circle cx="192" cy="74" r="4" fill="{t["teal"]}"/>
-      <circle cx="264" cy="71" r="4.5" fill="{t["teal"]}"/>
-      <text x="264" y="63" text-anchor="middle" font-family="{MONO}" font-size="10" font-weight="700" fill="{t["teal"]}">0.7976</text>
-      <text x="64" y="114" font-family="{MONO}" font-size="9.5" fill="{t["muted"]}">0.570</text>
-      <text x="322" y="112" text-anchor="middle" font-family="{MONO}" font-size="12" font-weight="700" fill="{t["orange"]}">×</text>
-      <text x="48" y="133" text-anchor="middle" font-family="{MONO}" font-size="9" fill="{t["muted"]}">G0</text>
-      <text x="120" y="133" text-anchor="middle" font-family="{MONO}" font-size="9" fill="{t["muted"]}">G1</text>
-      <text x="192" y="133" text-anchor="middle" font-family="{MONO}" font-size="9" fill="{t["muted"]}">G2</text>
-      <text x="264" y="133" text-anchor="middle" font-family="{MONO}" font-size="9" fill="{t["teal"]}">G3</text>
-      <text x="322" y="133" text-anchor="middle" font-family="{MONO}" font-size="9" fill="{t["orange"]}">G4×</text>
+      <polyline points="54,113 136,88 218,74" fill="none" stroke="{t["teal"]}" stroke-width="2.4"/>
+      <line x1="218" y1="74" x2="306" y2="108" stroke="{t["orange"]}" stroke-width="1.8" stroke-dasharray="4 3"/>
+      <circle cx="54" cy="113" r="4" fill="{t["teal"]}"/>
+      <circle cx="136" cy="88" r="4" fill="{t["teal"]}"/>
+      <circle cx="218" cy="74" r="4.5" fill="{t["teal"]}"/>
+      <text x="218" y="65" text-anchor="middle" font-family="{MONO}" font-size="10" font-weight="700" fill="{t["teal"]}">0.7625 (3 eng)</text>
+      <text x="72" y="115" font-family="{MONO}" font-size="9.5" fill="{t["muted"]}">0.597</text>
+      <text x="306" y="112" text-anchor="middle" font-family="{MONO}" font-size="12" font-weight="700" fill="{t["orange"]}">×</text>
+      <text x="54" y="133" text-anchor="middle" font-family="{MONO}" font-size="9" fill="{t["muted"]}">G0</text>
+      <text x="136" y="133" text-anchor="middle" font-family="{MONO}" font-size="9" fill="{t["muted"]}">G1</text>
+      <text x="218" y="133" text-anchor="middle" font-family="{MONO}" font-size="9" fill="{t["teal"]}">G2</text>
+      <text x="306" y="133" text-anchor="middle" font-family="{MONO}" font-size="9" fill="{t["orange"]}">G3×</text>
 
-      <text x="18" y="148" font-family="{MONO}" font-size="10" fill="{t["orange"]}">G4 overfit rejected · l5_agi_qualified=False</text>
+      <text x="18" y="149" font-family="{MONO}" font-size="9.8" fill="{t["orange"]}">15/15 seeds · 17/17 probes · 0.0 rollback</text>
     </g>
 
-    <!-- FIG 3D: Temporal Dynamics, Groove Forensics & 40 MHz Clock -->
-    <g transform="translate(36,242)">
-      <rect width="554" height="146" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
-      <text x="20" y="26" font-family="{MONO}" font-size="10" fill="{t["muted"]}">FIG 3D · NEW INSTRUMENT</text>
-      <text x="534" y="26" text-anchor="end" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["violet"]}">KURAMOTO R = 0.9334</text>
-      <text x="20" y="48" font-family="{SANS}" font-size="16" font-weight="700" fill="{t["ink"]}">Temporal Groove Forensics &amp; CicadaClock Bridge</text>
+    <!-- FIG 3D: L5 Phases 1 & 2 Core + Open-World -->
+    <g transform="translate(36,250)">
+      <rect width="364" height="164" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
+      <text x="18" y="26" font-family="{MONO}" font-size="10" fill="{t["muted"]}">FIG 3D · L5 IN PROGRESS</text>
+      <text x="346" y="26" text-anchor="end" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["teal"]}">16/16 + 18/18</text>
+      <text x="18" y="48" font-family="{SANS}" font-size="15.5" font-weight="700" fill="{t["ink"]}">L5 Phases 1 &amp; 2 Core + Open-World</text>
 
-      <!-- Mini Poincaré diagonal attractor schematic -->
-      <rect x="20" y="60" width="98" height="68" rx="6" fill="{t["panel_alt"]}" stroke="{t["border"]}" stroke-width="0.9"/>
-      <ellipse cx="69" cy="94" rx="34" ry="8" transform="rotate(42 69 94)" fill="none" stroke="{t["orange"]}" stroke-width="1.8"/>
-      <circle cx="52" cy="78" r="2.2" fill="{t["teal"]}"/>
-      <circle cx="86" cy="110" r="2.2" fill="{t["teal"]}"/>
-      <circle cx="58" cy="83" r="2" fill="{t["orange_hi"]}"/>
-      <circle cx="80" cy="105" r="2" fill="{t["orange_hi"]}"/>
-      <circle cx="69" cy="94" r="1.8" fill="{t["violet"]}"/>
+      <text x="18" y="76" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["ink"]}">Ph1 (10/10)</text>
+      <rect x="104" y="65" width="182" height="12" rx="4" fill="{t["teal"]}"/>
+      <text x="346" y="76" text-anchor="end" font-family="{MONO}" font-size="10" font-weight="700" fill="{t["teal"]}">0.9777</text>
 
-      <text x="130" y="76" font-family="{SANS}" font-size="11.6" fill="{t["ink"]}">• Swing Attractor: <tspan font-family="{MONO}" fill="{t["teal"]}">ρ₁ = −0.9778 · e = 0.994 · I = 1.006 bits</tspan></text>
-      <text x="130" y="97" font-family="{SANS}" font-size="11.6" fill="{t["ink2"]}">• Pure-Noise Ctrl: <tspan font-family="{MONO}" fill="{t["orange"]}">ρ₁ = −0.0602 · e = 0.337 · I = 0.045 bits</tspan></text>
-      <text x="130" y="118" font-family="{SANS}" font-size="11.6" fill="{t["ink2"]}">• Dorothy 40 Hz ISI: <tspan font-family="{MONO}" fill="{t["violet"]}">25.01 ms · D = 0.260 · .MOD 0.0 bits</tspan></text>
+      <text x="18" y="97" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["ink"]}">Ph2 (5/5)</text>
+      <rect x="104" y="86" width="180" height="12" rx="4" fill="{t["violet"]}"/>
+      <text x="346" y="97" text-anchor="end" font-family="{MONO}" font-size="10" font-weight="700" fill="{t["violet"]}">0.9730</text>
+
+      <text x="18" y="118" font-family="{MONO}" font-size="9.8" fill="{t["ink2"]}">Ctrls Mean</text>
+      <rect x="104" y="107" width="48" height="12" rx="4" fill="{t["orange"]}"/>
+      <text x="346" y="118" text-anchor="end" font-family="{MONO}" font-size="10" fill="{t["orange"]}">0.2646 ctrl</text>
+
+      <text x="18" y="136" font-family="{MONO}" font-size="9.5" fill="{t["ink2"]}">AST repair 15/15 · 2,400-ep mem · 16 LLMs</text>
+      <text x="18" y="152" font-family="{MONO}" font-size="9.8" fill="{t["orange"]}">l5_agi_qualified=False · Zero PyTorch</text>
     </g>
 
-    <!-- FIG 3E: Event-Causal Active Perception & Dorothy CCFv3 -->
-    <g transform="translate(610,242)">
-      <rect width="554" height="146" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
-      <text x="20" y="26" font-family="{MONO}" font-size="10" fill="{t["muted"]}">FIG 3E · PERCEPTION &amp; VOLUMETRICS</text>
-      <text x="534" y="26" text-anchor="end" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["teal"]}">71.24 CYCLES/S</text>
-      <text x="20" y="48" font-family="{SANS}" font-size="16" font-weight="700" fill="{t["ink"]}">Event-Causal Perception &amp; Dorothy CCFv3 Atlas</text>
+    <!-- FIG 3E: Zoe Native Voice & Cymatics -->
+    <g transform="translate(418,250)">
+      <rect width="364" height="164" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
+      <text x="18" y="26" font-family="{MONO}" font-size="10" fill="{t["muted"]}">FIG 3E · ACOUSTICS &amp; VDI</text>
+      <text x="346" y="26" text-anchor="end" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["violet"]}">14/14 VERIFIER</text>
+      <text x="18" y="48" font-family="{SANS}" font-size="15.5" font-weight="700" fill="{t["ink"]}">Zoe Native Voice &amp; Cymatics</text>
 
-      <!-- Mini radar polygon -->
-      <g transform="translate(68,94)">
-        <polygon points="0,-28 27,-9 17,23 -17,23 -27,-9" fill="none" stroke="{t["border"]}" stroke-width="1"/>
-        <polygon points="0,-23 22,-7 14,19 -14,18 -21,-7" fill="{t["teal"]}" fill-opacity="0.22" stroke="{t["teal"]}" stroke-width="1.6"/>
-        <circle cx="0" cy="-23" r="2.4" fill="{t["teal"]}"/>
-        <circle cx="22" cy="-7" r="2.4" fill="{t["teal"]}"/>
-        <circle cx="14" cy="19" r="2.4" fill="{t["teal"]}"/>
-      </g>
+      <rect x="18" y="58" width="328" height="50" rx="6" fill="{t["panel_alt"]}" stroke="{t["border"]}" stroke-width="0.8"/>
+      <line x1="24" y1="84" x2="340" y2="84" stroke="{t["border"]}" stroke-width="0.9"/>
+      <path d="{wave_pts}" fill="none" stroke="{t["teal"]}" stroke-width="1.8"/>
+      <circle cx="72" cy="70" r="3" fill="{t["violet"]}"/>
+      <circle cx="128" cy="96" r="3" fill="{t["orange_hi"]}"/>
+      <circle cx="184" cy="68" r="3.4" fill="{t["teal"]}"/>
+      <circle cx="240" cy="98" r="3" fill="{t["copper"]}"/>
+      <circle cx="296" cy="72" r="3" fill="{t["violet"]}"/>
+      <text x="72" y="66" text-anchor="middle" font-family="{MONO}" font-size="8" fill="{t["muted"]}">F1</text>
+      <text x="128" y="66" text-anchor="middle" font-family="{MONO}" font-size="8" fill="{t["muted"]}">F2</text>
+      <text x="184" y="64" text-anchor="middle" font-family="{MONO}" font-size="8" fill="{t["teal"]}">F3</text>
+      <text x="240" y="66" text-anchor="middle" font-family="{MONO}" font-size="8" fill="{t["muted"]}">F4</text>
+      <text x="296" y="66" text-anchor="middle" font-family="{MONO}" font-size="8" fill="{t["muted"]}">F5</text>
 
-      <text x="128" y="76" font-family="{SANS}" font-size="12.5" fill="{t["ink"]}">• Adaptive RMSE: <tspan font-family="{MONO}" fill="{t["teal"]}">4.641453</tspan> vs <tspan font-family="{MONO}" fill="{t["muted"]}">5.058147</tspan> no-learning</text>
-      <text x="128" y="97" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• OOD Detection: <tspan font-family="{MONO}" fill="{t["teal"]}">0.875 (0 val FP)</tspan> · Transfer MAE <tspan font-family="{MONO}" fill="{t["copper"]}">3.266</tspan></text>
-      <text x="128" y="118" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Dorothy Atlas: <tspan font-family="{MONO}" fill="{t["orange"]}">12 Allen CCFv3 structures · 315,932 tris</tspan></text>
+      <text x="18" y="122" font-family="{MONO}" font-size="9.6" fill="{t["ink"]}">44 phonemes · 332 rules · pitch ≤ 0.31%</text>
+      <text x="18" y="137" font-family="{MONO}" font-size="9.6" fill="{t["ink2"]}">Woodworth ±45° ITD/ILD · 3-bitplane VDI</text>
+      <text x="18" y="152" font-family="{MONO}" font-size="9.8" fill="{t["teal"]}">Zero external TTS · bit_diff = 0</text>
+    </g>
+
+    <!-- FIG 3F: Groove, Clock & Dorothy Atlas -->
+    <g transform="translate(800,250)">
+      <rect width="364" height="164" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
+      <text x="18" y="26" font-family="{MONO}" font-size="10" fill="{t["muted"]}">FIG 3F · TEMPORAL &amp; CCFv3</text>
+      <text x="346" y="26" text-anchor="end" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["teal"]}">R = 0.9334</text>
+      <text x="18" y="48" font-family="{SANS}" font-size="15.5" font-weight="700" fill="{t["ink"]}">Groove, Clock &amp; Dorothy Atlas</text>
+
+      <rect x="18" y="62" width="78" height="66" rx="6" fill="{t["panel_alt"]}" stroke="{t["border"]}" stroke-width="0.9"/>
+      <ellipse cx="57" cy="95" rx="28" ry="7" transform="rotate(42 57 95)" fill="none" stroke="{t["orange"]}" stroke-width="1.7"/>
+      <circle cx="43" cy="82" r="2.1" fill="{t["teal"]}"/>
+      <circle cx="71" cy="108" r="2.1" fill="{t["teal"]}"/>
+      <circle cx="49" cy="87" r="1.9" fill="{t["orange_hi"]}"/>
+      <circle cx="65" cy="103" r="1.9" fill="{t["orange_hi"]}"/>
+      <circle cx="57" cy="95" r="1.8" fill="{t["violet"]}"/>
+
+      <text x="108" y="76" font-family="{MONO}" font-size="9.5" fill="{t["teal"]}">Swing ρ₁=−0.978 vs −0.060</text>
+      <text x="108" y="96" font-family="{MONO}" font-size="9.5" fill="{t["ink"]}">Event-Causal 71.24 cyc/s</text>
+      <text x="108" y="116" font-family="{MONO}" font-size="9.5" fill="{t["violet"]}">Dorothy 315,932 tris · 40Hz</text>
+
+      <text x="18" y="152" font-family="{MONO}" font-size="9.8" fill="{t["orange"]}">.MOD 0.0 bits · 12 CCFv3 · clinical=False</text>
     </g>
   </g>
 
-  <rect x="2" y="2" width="1196" height="406" rx="18" fill="none" stroke="{t["border"]}" stroke-width="1.5"/>
+  <rect x="2" y="2" width="1196" height="432" rx="18" fill="none" stroke="{t["border"]}" stroke-width="1.5"/>
+</svg>
+'''
+
+
+def build_pillars(mode: str) -> str:
+    t = THEMES[mode]
+    c_left = "M 448,149 L 468,149"
+    c_right = "M 732,149 L 752,149"
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 256" width="1200" height="256" role="img" aria-label="Plate 04: The Two Pillars — Adversarial Rigor and Mathematical Autonomy bridged by the Epistemic Firewall.">
+  <defs>
+    <linearGradient id="pBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="{t["bg0"]}"/>
+      <stop offset="100%" stop-color="{t["bg1"]}"/>
+    </linearGradient>
+    <filter id="pGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.0" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="pClip"><rect x="2" y="2" width="1196" height="252" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#pClip)">
+    <rect width="1200" height="256" fill="url(#pBg)"/>
+    <text x="34" y="36" font-family="{MONO}" font-size="11.2" font-weight="700" letter-spacing="2.0" fill="{t["teal"]}">PLATE 04  ·  THE TWO PILLARS: ADVERSARIAL RIGOR × MATHEMATICAL AUTONOMY</text>
+    <text x="1166" y="36" text-anchor="end" font-family="{MONO}" font-size="10.2" letter-spacing="1.2" fill="{t["muted"]}">EPISTEMIC FIREWALL BRIDGE</text>
+    <line x1="34" y1="48" x2="1166" y2="48" stroke="{t["border"]}" stroke-width="1"/>
+
+    <!-- Bridge Connectors -->
+    <line x1="448" y1="149" x2="468" y2="149" stroke="{t["orange"]}" stroke-width="2" opacity="0.85"/>
+    <circle r="3.0" fill="{t["orange_hi"]}" filter="url(#pGlow)">
+      <animateMotion dur="2.2s" repeatCount="indefinite" path="{c_left}"/>
+    </circle>
+    <line x1="732" y1="149" x2="752" y2="149" stroke="{t["violet"]}" stroke-width="2" opacity="0.85"/>
+    <circle r="3.0" fill="{t["teal"]}" filter="url(#pGlow)">
+      <animateMotion dur="2.2s" begin="0.8s" repeatCount="indefinite" path="{c_right}"/>
+    </circle>
+
+    <!-- Left Pillar Card -->
+    <g transform="translate(34,64)">
+      <rect width="414" height="170" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
+      <line x1="12" y1="2" x2="402" y2="2" stroke="{t["orange"]}" stroke-width="3" stroke-linecap="round"/>
+      <text x="20" y="28" font-family="{MONO}" font-size="10" font-weight="700" letter-spacing="1.2" fill="{t["orange"]}">PILLAR I · TACTICAL &amp; ADVERSARIAL GROUNDING</text>
+      <text x="20" y="52" font-family="{SANS}" font-size="16.5" font-weight="700" fill="{t["ink"]}">Real-World Defense &amp; Discipline</text>
+      <text x="20" y="78" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• 8+ yrs U.S. Army Infantry SSG · 2× Afghanistan</text>
+      <text x="20" y="100" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• SQI E Military Mountaineer · Resilience (8R)</text>
+      <text x="20" y="122" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• 6 CVEs (Cisco FMC/ISE 9.0 Crit · CISA ICS)</text>
+      <text x="20" y="144" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• 4 ISE Hardening · CISA ICS/OT · 109 DC3</text>
+    </g>
+
+    <!-- Central Epistemic Bridge -->
+    <g transform="translate(468,64)">
+      <rect width="264" height="170" rx="12" fill="{t["panel_alt"]}" stroke="{t["teal"]}" stroke-width="1.6"/>
+      <text x="132" y="24" text-anchor="middle" font-family="{MONO}" font-size="9.8" font-weight="700" letter-spacing="1.4" fill="{t["teal"]}">SHARED COVENANT</text>
+      <polygon points="132,36 146,50 132,64 118,50" fill="none" stroke="{t["orange"]}" stroke-width="1.5" filter="url(#pGlow)"/>
+      <polygon points="132,42 140,50 132,58 124,50" fill="{t["teal"]}" opacity="0.88"/>
+      <text x="132" y="84" text-anchor="middle" font-family="{MONO}" font-size="11.5" font-weight="700" fill="{t["ink"]}">EPISTEMIC FIREWALL</text>
+      <text x="132" y="106" text-anchor="middle" font-family="{MONO}" font-size="10.8" font-weight="700" fill="{t["teal"]}">measurement ≠ evidence</text>
+      <text x="132" y="124" text-anchor="middle" font-family="{MONO}" font-size="10.8" font-weight="700" fill="{t["orange"]}">≠ belief update ≠ action</text>
+      <text x="132" y="152" text-anchor="middle" font-family="{MONO}" font-size="9.6" fill="{t["muted"]}">Security discipline enforces honesty</text>
+    </g>
+
+    <!-- Right Pillar Card -->
+    <g transform="translate(752,64)">
+      <rect width="414" height="170" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
+      <line x1="12" y1="2" x2="402" y2="2" stroke="{t["violet"]}" stroke-width="3" stroke-linecap="round"/>
+      <text x="20" y="28" font-family="{MONO}" font-size="10" font-weight="700" letter-spacing="1.2" fill="{t["violet"]}">PILLAR II · MATHEMATICAL &amp; GENERATIVE HEART</text>
+      <text x="20" y="52" font-family="{SANS}" font-size="16.5" font-weight="700" fill="{t["ink"]}">Operational Metacognition &amp; Zoe</text>
+      <text x="20" y="78" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Originated A_τ(p) (Mar 6, 2026) &amp; Kloster Thm</text>
+      <text x="20" y="100" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• L3 Cycles, L4 3-Engine AST &amp; L5 Ph 1–2 Core</text>
+      <text x="20" y="122" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Native 44-Phoneme Voice, Cymatics &amp; CCFv3</text>
+      <text x="20" y="144" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• 34-Turn, 1,414-Step TrueColor Session Logs</text>
+    </g>
+  </g>
+  <rect x="2" y="2" width="1196" height="252" rx="16" fill="none" stroke="{t["border"]}" stroke-width="1.4"/>
 </svg>
 '''
 
@@ -507,20 +607,7 @@ def build_security(mode: str) -> str:
         ("8+ YEARS", "U.S. ARMY INFANTRY SSG", "11B3O · 2× Afghanistan · Master Resilience (8R) · SQI E Mountaineer", t["copper"]),
         ("ICS / DFIR", "FEDERAL & CYBER TRAINING", "CISA ICS/OT · ITDRC · GETS/WPS Admin · 22 FEMA EMI · 109 DC3 Courses", t["violet"]),
     ]
-    blocks: list[str] = []
-    for idx, (stat, title, desc, accent) in enumerate(cols):
-        x = 34 + idx * 288
-        blocks.append(f'''
-    <g transform="translate({x},60)">
-      <rect width="268" height="122" rx="11" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
-      <rect x="0" y="0" width="268" height="4" rx="2" fill="{accent}"/>
-      <text x="18" y="34" font-family="{SANS}" font-size="24" font-weight="800" fill="{accent}">{html.escape(stat)}</text>
-      <text x="18" y="54" font-family="{MONO}" font-size="10" font-weight="700" letter-spacing="1.1" fill="{t["ink"]}">{html.escape(title)}</text>
-      <foreignObject x="18" y="64" width="232" height="50">
-        <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:{SANS};font-size:11.5px;line-height:1.4;color:{t["ink2"]};">{html.escape(desc)}</div>
-      </foreignObject>
-    </g>''')
-    # Avoid foreignObject for maximum GitHub camo/librsvg compatibility — use crisp two-line SVG <text> instead!
+
     blocks_clean: list[str] = []
     lines_map = [
         ("Up to 9.0 Critical · Peer impersonation,", "root privesc, SSO forgery & CISA ICS"),
@@ -541,7 +628,7 @@ def build_security(mode: str) -> str:
       <text x="18" y="100" font-family="{SANS}" font-size="11.5" fill="{t["ink2"]}">{html.escape(l2)}</text>
     </g>''')
 
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 206" width="1200" height="206" role="img" aria-label="Plate 04: Security Research Disclosures, U.S. Army Service, and Federal ICS/Cyber Training.">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 206" width="1200" height="206" role="img" aria-label="Plate 05: Security Research Disclosures, U.S. Army Service, and Federal ICS/Cyber Training.">
   <defs>
     <linearGradient id="secBg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="{t["bg0"]}"/>
@@ -551,7 +638,7 @@ def build_security(mode: str) -> str:
   </defs>
   <g clip-path="url(#secClip)">
     <rect width="1200" height="206" fill="url(#secBg)"/>
-    <text x="34" y="36" font-family="{MONO}" font-size="11.5" font-weight="700" letter-spacing="2.2" fill="{t["orange"]}">PLATE 04  ·  OPERATIONAL TRACK RECORD &amp; SECURITY DISCLOSURES</text>
+    <text x="34" y="36" font-family="{MONO}" font-size="11.5" font-weight="700" letter-spacing="2.2" fill="{t["orange"]}">PLATE 05  ·  OPERATIONAL TRACK RECORD &amp; SECURITY DISCLOSURES</text>
     <text x="1166" y="36" text-anchor="end" font-family="{MONO}" font-size="10.2" letter-spacing="1.2" fill="{t["muted"]}">GROUNDED IN ADVERSARIAL REALITY</text>
     <line x1="34" y1="48" x2="1166" y2="48" stroke="{t["border"]}" stroke-width="1"/>
     {"".join(blocks_clean)}
@@ -646,11 +733,13 @@ def main() -> int:
         outputs[f"plate-hero-{mode}.svg"] = build_hero(mode)
         outputs[f"plate-atlas-{mode}.svg"] = build_atlas(mode)
         outputs[f"plate-metrics-{mode}.svg"] = build_metrics(mode)
+        outputs[f"plate-pillars-{mode}.svg"] = build_pillars(mode)
         outputs[f"plate-security-{mode}.svg"] = build_security(mode)
         outputs[f"plate-footer-{mode}.svg"] = build_footer(mode)
 
     outputs.update({
         "nav-zoe.svg": build_nav_tab("ZOE", "#E85D1A", 86),
+        "nav-sessions.svg": build_nav_tab("SESSIONS", "#FF8142", 122),
         "nav-manifold.svg": build_nav_tab("MANIFOLD", "#2DD4BF", 122),
         "nav-evidence.svg": build_nav_tab("EVIDENCE", "#C06EFF", 122),
         "nav-gallery.svg": build_nav_tab("GALLERY", "#F0CFA0", 114),

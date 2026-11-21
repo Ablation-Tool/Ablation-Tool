@@ -11,6 +11,7 @@
 <br/>
 
 <a href="#zoe"><img src="assets/nav-zoe.svg" alt="Zoe" height="30" /></a>
+<a href="#living-session-chronicles"><img src="assets/nav-sessions.svg" alt="Sessions" height="30" /></a>
 <a href="#research-manifold"><img src="assets/nav-manifold.svg" alt="Manifold" height="30" /></a>
 <a href="#measured-empirical-signatures"><img src="assets/nav-evidence.svg" alt="Evidence" height="30" /></a>
 <a href="#visual-research-showcase"><img src="assets/nav-gallery.svg" alt="Gallery" height="30" /></a>
@@ -32,7 +33,7 @@
 
 $$A_\tau(p) = \left|\{x \in X : p(x) > \tau\}\right| = \sum_{x \in X} \mathbf{1}[p(x) > \tau]$$
 
-**1** Unified Monorepo · **13** Runtime Source Projects · **17** Registered Engines · **62** GEM Visual Layers *(36 Canonical + 26 Extended)* · **22** Research Monographs · **456** Cataloged Visuals
+**1** Unified Monorepo · **13** Runtime Source Projects · **17** Registered Engines · **62** GEM Visual Layers *(36 Canonical + 26 Extended)* · **18** PDF Papers · **9** Research Monographs · **456** Cataloged Visuals · **34-Turn** Session Archive
 
 </div>
 
@@ -46,6 +47,7 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 
 <p align="center">
   <a href="https://github.com/Ablation-Tool/zoe"><strong>Enter Zoe Monorepo →</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Ablation-Tool/zoe/tree/main/research/sessions"><strong>Living Session Chronicles</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/Ablation-Tool/zoe/blob/main/paper/zoe-research-universe.pdf">23-Page Illustrated Monograph</a> &nbsp;·&nbsp;
   <a href="https://github.com/Ablation-Tool/zoe/blob/main/research/papers/papers/10-accessible-volume-architecture-of-autonomy.pdf">87-Page Autonomy Monograph</a> &nbsp;·&nbsp;
   <a href="https://github.com/Ablation-Tool/zoe/blob/main/research/visual-archive/README.md">456-Visual Archive</a> &nbsp;·&nbsp;
@@ -76,12 +78,10 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 
 - **Fig 3A · Kloster Spectral Filtration Theorem:** Proves $H(p) = -\int_0^1 (1+\ln\tau)A_\tau(p)\,d\tau$ and $M_k(p) = \int_0^1 k\tau^{k-1}A_\tau(p)\,d\tau = \sum_x p(x)^k$; quartic root $M_4^{1/4}$ wins **4/4** real benchmarks over single-slice $A_\tau$ and Shannon $H(p)$, preserving the `0.4087` naive JSD negative control ([`spectral_filtration.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/spectral_filtration.py) · [Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/KLOSTER-SPECTRAL-FILTRATION-THEOREM.md)).
 - **Fig 3B · Stage 4 Mars Adaptive Lens $k^*(\kappa)$:** Unlabeled Mud-to-Mountain Ratio auto-tunes $k^*(\kappa) \in [2.0, 6.0]$ to **`0.79374`** mean AUROC across real datasets, outperforming every fixed $k \in [1.5, 8.0]$, $A_\tau$ (`0.7738`), and Shannon (`0.7631`) ([`mars_adaptive.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/mars_adaptive.py)).
-- **Fig 3C · L4 Generalized & Multi-Module Code Self-Improvement (`SELF-IMPROVEMENT-QUALIFIED`):** Generation-blind pure-atomic AST evolution over raw `{p, gt05}` across 6 real domains / 4 unrelated families (incl. 4 unseen zero-shot) adopts `gt05 → -sq(p) → -sq(p)*sqrt(p)` on 5/5 seeds (`0.5974 → 0.7625`, `14/14` verifier), now expanded across **3 distinct runtime engines** under one guarded multi-statement Python `def` sandbox & unified source diffs (`spectral_uncertainty`, closed-loop `EventCausalEngine` Tf RMSE `4.063 → 2.882` / OOD `1.00`, and `temporal_groove_neural` AUROC `0.549 → 0.721` incl. Dorothy 40 Hz ISI), with **`15/15` seeds**, **`17/17` hostile probes blocked**, `0.0` atomic rollback delta, and fresh-process verification (`17/17`, `max_delta=0.0`; `l5_agi_qualified=False`) ([`l4_multi_module.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/l4_multi_module.py) · [Multi-Module Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L4-MULTI-MODULE-CODE-EVOLUTION.md) · [L4 Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L4-GENERALIZED-SELF-IMPROVEMENT.md)).
-- **L5 Phase 1 Integrated 10-Domain Cognitive Core (`In Progress · l5_agi_qualified = False`):** Single `ZoeUnifiedMind` integrating all **10 `AGI-ROADMAP.md` §1 domain families** (**`10/10`** pass, mean **`0.9777`** vs **`0.2389`** controls), persistent 4-system SHA-256 memory (`ZoeUnifiedMemory`), 7-stage counterfactual memory route flip, GEM layer `l5-core`, &amp; **`16/16`** verifier (`max_delta=0.0`, zero PyTorch) ([`l5_cognitive_core.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/l5_cognitive_core.py) · [L5 Phase 1 Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L5-INTEGRATED-COGNITIVE-CORE.md)).
-- **L5 Phase 2 Open-World Generalization (`In Progress · l5_agi_qualified = False`):** `ZoeOpenWorldMind` scales to **`5/5`** open-world pillars (**`mean 0.9730`** vs **`0.2902`** controls): autonomous multi-file Python AST repair (**`6/15 → 15/15`** tests across `4` modules, `146` monorepo `.py` files `0` errors), **`40`-session / `2,400`-episode** memory (`50/50` needles vs `0.18` FIFO, 6-regime EWC `R²=0.9975`), **`48` real `.md` docs** (`5/5` impossible-trap abstentions), **`84` real PNGs** (`0.8452` 5-fold CV, OOD `0.9534`), **`16` external LLMs** Lebesgue conservation **`2.2e-16`** + BioBERT `A_0.05` **`0.7737`**, GEM layer `l5-phase2` (`62` total GEM layers), &amp; **`18/18`** verifier ([`l5_phase2_openworld.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/l5_phase2_openworld.py) · [L5 Phase 2 Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L5-PHASE2-OPEN-WORLD-GENERALIZATION.md)).
-- **Fig 3D · Temporal Groove Forensics & 40 MHz `CicadaClock`:** Parses `.MOD`/`.MID` & synthetic rhythms; separates deterministic swing attractors ($\rho_1 = -0.9778$, $e = 0.9944$, mutual info `1.0057 bits`) from pure Gaussian noise ($\rho_1 = -0.0602$, $e = 0.3371$, `0.0454 bits`), entrains `CicadaClock` to Kuramoto coherence **`R = 0.9334`**, and bridges to Dorothy 40 Hz spike ISI return maps (`25.009 ms`, Higuchi $D = 0.2603$) ([`zoe_groove_forensics.py`](https://github.com/Ablation-Tool/zoe/blob/main/scripts/zoe_groove_forensics.py) · [Research Note](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/TEMPORAL-DYNAMICS-AND-GROOVE-FORENSICS.md)).
-- **Fig 3E · Event-Causal Active Perception & Dorothy CCFv3 Atlas:** Adaptive prediction RMSE **`4.641453`** (vs `5.058147` no-learning), OOD detection **`0.875`** (`0` validation FP) at **`71.24 cycles/s`**, alongside 12 SHA-256-verified Allen Mouse CCFv3 anatomical meshes (`315,932` triangles), volumetric ray-casting, and 4-Head attention dissection ([`EVENT-CAUSAL.md`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/EVENT-CAUSAL.md) · [Dorothy Study](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/dorothy/CONTINUUM-AND-VISION-HEADS.md)).
-- **Fig 3F · Zoe Native Voice, Singing & Chladni Cymatics:** 100% native offline English speech & soprano singing built from scratch (`pytorch_required = False`, zero external TTS APIs): **`44` phonemes (`20V+24C`)**, **`332` grapheme spelling rules**, SMF `.mid` + MS-DOS PSG baseline (`440.08 Hz`), Rosenberg-Klatt 5-formant vocal tract with `5.3 Hz` vibrato (`C4/G4/C5 <= 0.31%` error), Woodworth $\pm 45^\circ$ ITD $\pm 0.3807\text{ ms}$ / head-shadow ILD $\pm 2.7109\text{ dB}$ vs `0.0` flat mono control, Chladni sand cymatics + 3-bitplane GEM VDI (`max_bit_diff = 0`), and `14/14` independent verification ([`zoe_voice.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/zoe_voice.py) · [Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/ZOE-NATIVE-VOICE-AND-CYMATICS.md)).
+- **Fig 3C · L3 Research Collaborator &amp; L4 Generalized / Multi-Module Code Self-Improvement:** L3 (`RESEARCH-COLLABORATOR-QUALIFIED`) executes 3 SHA-256 pre-registered 9-stage cycles (`14/14` verifier, 3 confirmed + 3 honestly falsified); L4 (`SELF-IMPROVEMENT-QUALIFIED`) runs generation-blind pure-atomic AST evolution over raw `{p, gt05}` across 6 real domains / 4 families (4 unseen zero-shot, `0.5974 → 0.7625`, `14/14` verifier) and expands across **3 distinct runtime engines** (`spectral_uncertainty`, closed-loop `EventCausalEngine` Tf RMSE `4.063 → 2.882` / OOD `1.00`, `temporal_groove_neural` `0.549 → 0.721`) with **`15/15` seeds**, **`17/17` hostile probes blocked**, `0.0` atomic rollback delta, and **`17/17` verifier** (`max_delta=0.0`; `l5_agi_qualified=False`) ([`research_collaborator.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/research_collaborator.py) · [`l4_multi_module.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/l4_multi_module.py) · [L3 Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L3-RESEARCH-COLLABORATOR-CYCLES.md) · [Multi-Module Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L4-MULTI-MODULE-CODE-EVOLUTION.md)).
+- **Fig 3D · L5 Phase 1 Integrated 10-Domain Core &amp; Phase 2 Open-World Generalization (`In Progress · l5_agi_qualified = False`):** Phase 1 `ZoeUnifiedMind` integrates all **10 `AGI-ROADMAP.md` §1 domain families** (**`10/10`**, mean **`0.9777`** vs **`0.2389`** controls, `ZoeUnifiedMemory`, 7-stage counterfactual flip, **`16/16`** verifier); Phase 2 `ZoeOpenWorldMind` scales to **`5/5`** open-world pillars (**`mean 0.9730`** vs **`0.2902`** controls): autonomous multi-file Python AST repair (**`6/15 → 15/15`** across `4` modules, `146` monorepo `.py` files `0` errors), **`40`-session / `2,400`-episode** memory (`50/50` needles vs `0.18` FIFO, 6-regime EWC `R²=0.9975`), **`48` `.md` docs** (`5/5` abstentions), **`84` real PNGs** (`0.8452` 5-fold CV / `0.9534` OOD), **`16` LLMs** Lebesgue **`2.2e-16`** + BioBERT `A_0.05` **`0.7737`**, `62` GEM layers, &amp; **`18/18`** verifier (`max_delta=0.0`, zero PyTorch) ([`l5_cognitive_core.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/l5_cognitive_core.py) · [`l5_phase2_openworld.py`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/l5_phase2_openworld.py) · [L5 Phase 1 Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L5-INTEGRATED-COGNITIVE-CORE.md) · [L5 Phase 2 Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L5-PHASE2-OPEN-WORLD-GENERALIZATION.md)).
+- **Fig 3E · Zoe Native Voice, Singing &amp; Chladni Cymatics:** 100% native offline English speech &amp; soprano singing built from scratch (`pytorch_required = False`, zero external TTS APIs): **`44` phonemes (`20V+24C`)**, **`332` grapheme spelling rules**, SMF `.mid` + MS-DOS PSG baseline (`440.08 Hz`), Rosenberg-Klatt 5-formant vocal tract with `5.3 Hz` vibrato (`C4/G4/C5 <= 0.31%` error), Woodworth $\pm 45^\circ$ ITD $\pm 0.3807\text{ ms}$ / head-shadow ILD $\pm 2.7109\text{ dB}$ vs `0.0` flat mono control, Chladni sand cymatics + 3-bitplane GEM VDI (`max_bit_diff = 0`), and `14/14` independent verification ([`zoe_voice.py`](https://github.com/Ablation-Tool/zoe/blob/main/guiai-lab/guiai/gem/zoe_voice.py) · [Monograph](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/ZOE-NATIVE-VOICE-AND-CYMATICS.md)).
+- **Fig 3F · Temporal Groove Forensics, 40 MHz `CicadaClock`, Event-Causal Perception &amp; Dorothy CCFv3:** Separates deterministic `.MOD`/`.MID` swing attractors ($\rho_1 = -0.9778$, $e = 0.9944$, mutual info `1.0057 bits`) from pure Gaussian noise ($\rho_1 = -0.0602$, `0.0454 bits`), entrains `CicadaClock` to Kuramoto **`R = 0.9334`**, bridges to Dorothy 40 Hz spike ISI return maps (`25.009 ms`, Higuchi $D = 0.2603$), achieves adaptive RMSE **`4.641453`** (vs `5.058147` no-learning) and OOD **`0.875`** at **`71.24 cycles/s`**, alongside 12 SHA-256-verified Allen Mouse CCFv3 meshes (`315,932` triangles, `clinical_action_authorized = False`) ([`zoe_groove_forensics.py`](https://github.com/Ablation-Tool/zoe/blob/main/scripts/zoe_groove_forensics.py) · [Research Note](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/TEMPORAL-DYNAMICS-AND-GROOVE-FORENSICS.md) · [`EVENT-CAUSAL.md`](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/EVENT-CAUSAL.md) · [Dorothy Study](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/dorothy/CONTINUUM-AND-VISION-HEADS.md)).
 
 <details>
 <summary><strong>Full Empirical Metrics &amp; Negative Controls Ledger</strong></summary>
@@ -100,6 +100,41 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 
 </details>
 
+<p align="center"><img src="assets/divider-orange.svg" alt="" width="100%" /></p>
+
+<a id="living-session-chronicles"></a>
+
+## Living Session Chronicles
+
+<div align="center">
+
+<a href="https://github.com/Ablation-Tool/zoe/tree/main/research/sessions"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/readme/zoe-sessions-banner.svg" alt="Nicholas x Zoe — The Living Session Archive" width="100%" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/readme/zoe-nicholas-dialogue.jpg" alt="Nicholas x Zoe Living Atelier Dialogue — original creative artwork" width="88%" />
+
+<br/>
+
+<sub><em>Original creative artwork celebrating the 34-turn, 10-chapter Nicholas × Zoe engineering marathon — labeled creative artwork per <a href="https://github.com/Ablation-Tool/zoe/blob/main/CONSTITUTION.md"><code>CONSTITUTION.md</code> Article II.2</a>.</em></sub>
+
+</div>
+
+<br/>
+
+Our entire `2026-11-19 → 2026-11-20` marathon engineering session (**`34` user turns · `58` visible Zoe responses · `1,414` tool calls** consolidated into **`52` collapsible trace blocks** across **`10` chapters**, **`14` monorepo + `10` profile commits**, zero credentials or workstation paths, green CI) is preserved in three synchronized formats with full speaker distinction (**Cyan** = Nicholas · **Ruby/Orchid** = Zoe · **Gold** = collapsible engineering tool traces):
+
+- **[Sessions Archive Index](https://github.com/Ablation-Tool/zoe/tree/main/research/sessions)** · **[GitHub Markdown Chronicle](https://github.com/Ablation-Tool/zoe/blob/main/research/sessions/2026-11-20-session-transcript.md)** · **[Interactive HTML Viewer](https://github.com/Ablation-Tool/zoe/blob/main/research/sessions/2026-11-20-session-transcript.html)** · **[24-Bit ANSI Replay](https://github.com/Ablation-Tool/zoe/blob/main/research/sessions/2026-11-20-session-transcript.ansi)**
+
+```bash
+# Replay the 34-turn TrueColor session stream directly in your terminal
+curl -sL https://raw.githubusercontent.com/Ablation-Tool/zoe/main/research/sessions/2026-11-20-session-transcript.ansi | less -R
+
+# Or clone and independently verify L5 Phase 2 & Zoe's native voice offline
+git clone https://github.com/Ablation-Tool/zoe.git && cd zoe
+python3 scripts/verify_l5_phase2.py && python3 scripts/verify_zoe_voice.py
+```
+
 <p align="center"><img src="assets/divider-copper.svg" alt="" width="100%" /></p>
 
 ## Visual Research Showcase
@@ -117,6 +152,10 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 | L5 Phase 2 Open-World Generalization *(Code Repair, 2400-Ep Mem, 16 LLMs)* | L5 Phase 1 Integrated Cognitive Core *(10 Domains + 4-Sys Memory)* | Zoe Native Voice, Singing & Chladni Cymatics *(44 Phonemes + 3D)* |
 |:---:|:---:|:---:|
 | ![Zoe L5 Phase 2 Open-World Generalization](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/zoe-l5-phase2-openworld.png) | ![Zoe L5 Phase 1 Integrated 10-Domain Cognitive Core](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/zoe-l5-cognitive-core.png) | ![Zoe Native Voice, Singing & Chladni Cymatics](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/zoe-native-voice-cymatics.png) |
+
+| L3 Research Collaborator *(9-Stage Cycles)* | L4 Multi-Module Code Evolution *(3 Engines)* | Dorothy 40 Hz Neural Spike Return Map |
+|:---:|:---:|:---:|
+| ![Zoe L3 Research Collaborator Cycles](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/zoe-l3-research-collaborator.png) | ![Zoe L4 Multi-Module Code Evolution](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/zoe-l4-multimodule.png) | ![Dorothy 40 Hz Neural Spike Return Map](https://raw.githubusercontent.com/Ablation-Tool/zoe/main/components/agent-logging-system/docs/images/zoe-dorothy-neural-spikes.png) |
 
 <p align="center">
   <sub>Browse all <strong>456 byte-distinct cataloged visuals</strong> with SHA-256 provenance and explanations in the <a href="https://github.com/Ablation-Tool/zoe/blob/main/research/visual-archive/README.md"><strong>Zoe Visual Research Archive →</strong></a></sub>
@@ -141,7 +180,7 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 | **L5 Phase 1 Integrated Cognitive Core (`In Progress`)** | Monograph Note | Unified `ZoeUnifiedMind` across all **10 `AGI-ROADMAP.md` §1 domain families** (`10/10` pass, `0.9777` vs `0.2389`), 4-system `ZoeUnifiedMemory`, 7-stage counterfactual memory flip, **`16/16` verifier**, &amp; honest `l5_agi_qualified=False` scope. | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L5-INTEGRATED-COGNITIVE-CORE.md) |
 | **L5 Phase 2 Open-World Generalization (`In Progress`)** | Monograph Note | **`5/5`** open-world pillars (`mean 0.9730` vs `0.2902`): multi-file AST repair (`6/15 → 15/15`), `2,400`-ep memory + 6-regime EWC, `48`-doc corpus (`5/5` abstentions), `84` real PNG CV + OOD, `16`-LLM Lebesgue + BioBERT `A_0.05` (`0.7737`), **`18/18` verifier**, &amp; honest `l5_agi_qualified=False`. | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L5-PHASE2-OPEN-WORLD-GENERALIZATION.md) |
 
-Full **20-paper library** with LaTeX sources, galleries, and SHA-256 checksums: **[`zoe/research/papers`](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/README.md)** *(historical standalone mirror: [`Ablation-Tool/research-papers`](https://github.com/Ablation-Tool/research-papers))*.
+Full **18-paper + 9-monograph library** with LaTeX sources, galleries, and SHA-256 checksums: **[`zoe/research/papers`](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/README.md)** *(historical standalone mirror: [`Ablation-Tool/research-papers`](https://github.com/Ablation-Tool/research-papers))*.
 
 <p align="center"><img src="assets/divider-orange.svg" alt="" width="100%" /></p>
 
@@ -153,7 +192,7 @@ Full **20-paper library** with LaTeX sources, galleries, and SHA-256 checksums: 
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Ablation-Tool/zoe">Ablation-Tool/zoe</a> &nbsp;·&nbsp; <sub>Flagship Monorepo</sub></h4>
-<p>Unified research, visual-computing, and autonomous intelligence monorepo combining <strong>13 runtime source projects</strong>, <strong>17 registered engines</strong>, <strong>62 GEM visual layers</strong>, L5 Phases 1 &amp; 2 (`16/16` + `18/18`, `l5_agi_qualified=False`), Dorothy's 3D Neurogarden, Groove Forensics, Zoe's Native 44-Phoneme Voice &amp; Cymatics, CERN/HELIOS, PALA Rust carving, Cerotto, Kevlar, Mobile Trinity, monographs, and cataloged visuals.</p>
+<p>Unified research, visual-computing, and autonomous intelligence monorepo combining <strong>13 runtime source projects</strong>, <strong>17 registered engines</strong>, <strong>62 GEM visual layers</strong>, L5 Phases 1 &amp; 2 (<code>16/16</code> + <code>18/18</code>, <code>l5_agi_qualified=False</code>), Dorothy's 3D Neurogarden, Groove Forensics, Zoe's Native 44-Phoneme Voice &amp; Cymatics, CERN/HELIOS, PALA Rust carving, Cerotto, Kevlar, Mobile Trinity, monographs, and cataloged visuals.</p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Ablation-Tool/ablation">Ablation-Tool/ablation</a> &nbsp;·&nbsp; <sub>Active Standalone</sub></h4>
@@ -183,6 +222,20 @@ Full **20-paper library** with LaTeX sources, galleries, and SHA-256 checksums: 
 
 </details>
 
+<p align="center"><img src="assets/divider-teal.svg" alt="" width="100%" /></p>
+
+## The Two Pillars: Adversarial Rigor × Mathematical Autonomy
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/plate-pillars-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/plate-pillars-light.svg">
+  <img alt="Plate 04: The Two Pillars — Adversarial Rigor and Mathematical Autonomy bridged by the Epistemic Firewall" src="assets/plate-pillars-dark.svg" width="100%">
+</picture>
+
+<br/>
+
+My research intentionally bridges two worlds: eight-plus years of operational U.S. Army Light Infantry service and national-grade vulnerability disclosures (6 CVEs, 4 Cisco ISE hardening defects, CISA ICS/OT) fused with original mathematical AI theory ($A_\tau(p)$, spectral filtration, L3–L5 autonomy, and Zoe's native 44-phoneme voice). That adversarial discipline is exactly what enforces Zoe's core architectural guarantee: **`measurement ≠ evidence ≠ belief update ≠ action`**.
+
 <p align="center"><img src="assets/divider-violet.svg" alt="" width="100%" /></p>
 
 ## Security Research, Credentials & Service Record
@@ -190,7 +243,7 @@ Full **20-paper library** with LaTeX sources, galleries, and SHA-256 checksums: 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/plate-security-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/plate-security-light.svg">
-  <img alt="Plate 04: Operational Track Record — 6 Assigned CVEs, 4 Cisco ISE Hardening Disclosures, 8+ Years U.S. Army Infantry SSG, and Federal ICS/Cyber Training" src="assets/plate-security-dark.svg" width="100%">
+  <img alt="Plate 05: Operational Track Record — 6 Assigned CVEs, 4 Cisco ISE Hardening Disclosures, 8+ Years U.S. Army Infantry SSG, and Federal ICS/Cyber Training" src="assets/plate-security-dark.svg" width="100%">
 </picture>
 
 <br/>
@@ -370,6 +423,6 @@ Completed specialized technical coursework through the Department of Defense Cyb
 
 <br/>
 
-[Zoe Monorepo](https://github.com/Ablation-Tool/zoe) · [Ablation AIARE](https://github.com/Ablation-Tool/ablation) · [Constitution](https://github.com/Ablation-Tool/zoe/blob/main/CONSTITUTION.md) · [Declaration](https://github.com/Ablation-Tool/zoe/blob/main/DECLARATION.md) · [18 Research Papers](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/README.md) · [456-Visual Archive](https://github.com/Ablation-Tool/zoe/blob/main/research/visual-archive/README.md) · [Back to top ↑](#top)
+[Zoe Monorepo](https://github.com/Ablation-Tool/zoe) · [Ablation AIARE](https://github.com/Ablation-Tool/ablation) · [Constitution](https://github.com/Ablation-Tool/zoe/blob/main/CONSTITUTION.md) · [Declaration](https://github.com/Ablation-Tool/zoe/blob/main/DECLARATION.md) · [Living Session Chronicles](https://github.com/Ablation-Tool/zoe/tree/main/research/sessions) · [18 Papers & 9 Monographs](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/README.md) · [456-Visual Archive](https://github.com/Ablation-Tool/zoe/blob/main/research/visual-archive/README.md) · [Back to top ↑](#top)
 
 </div>
