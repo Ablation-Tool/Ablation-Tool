@@ -50,7 +50,7 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 
 <p align="center">
   <a href="https://github.com/Ablation-Tool/zoe"><strong>Enter Zoe Monorepo →</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.9.1-beta"><strong>⬇ Zoe (beta) APK</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.9.2-beta"><strong>⬇ Zoe (beta) APK</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md"><strong>18 Zapps Guide</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md"><strong>SafeConvert Guide</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/Ablation-Tool/zoe/tree/main/research/sessions">Living Sessions</a> &nbsp;·&nbsp;
@@ -66,11 +66,11 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 
 <div align="center">
 
-<a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.9.1-beta"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/readme/zoe-bulb-beta-showcase.png" alt="Zoe (beta) live screenshots on Pixel 7 — Zoe Explore with AR Space, Guided Vision self-improving structural recognition, Scientific-Aesthetic Creative Studio, Hybrid Zoe Chat, and Signal-Grade Privacy Vault" width="100%" /></a>
+<a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.9.2-beta"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/readme/zoe-bulb-beta-showcase.png" alt="Zoe (beta) live screenshots on Pixel 7 — Zoe Explore with AR Space, Guided Vision self-improving structural recognition, Scientific-Aesthetic Creative Studio, Hybrid Zoe Chat, and Signal-Grade Privacy Vault" width="100%" /></a>
 
 <br/>
 
-**[⬇ Download Android Beta APK (`v0.9.1-beta` + SHA-256)](https://github.com/Ablation-Tool/zoe/releases/tag/v0.9.1-beta)** &nbsp;·&nbsp; **[Apple Xcode Project (`iPhone` / `iPad` / `Duo Fold`)](https://github.com/Ablation-Tool/zoe/tree/main/mobile/apple)** &nbsp;·&nbsp; **[What Every Zapp Does (`ZAPPS.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md)** &nbsp;·&nbsp; **[SafeConvert Privacy Guide (`SAFECONVERT.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md)**
+**[⬇ Download Android Beta APK (`v0.9.2-beta` + SHA-256)](https://github.com/Ablation-Tool/zoe/releases/tag/v0.9.2-beta)** &nbsp;·&nbsp; **[Apple Xcode Project (`iPhone` / `iPad` / `Duo Fold`)](https://github.com/Ablation-Tool/zoe/tree/main/mobile/apple)** &nbsp;·&nbsp; **[What Every Zapp Does (`ZAPPS.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md)** &nbsp;·&nbsp; **[SafeConvert Privacy Guide (`SAFECONVERT.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md)**
 
 </div>
 
@@ -78,11 +78,11 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 
 **Zoe (beta)** brings Zoe's research stack into a calm, accessible, zero-ad, zero-tracking companion app built for adults and children with disabilities (`allowBackup="false"`, every sensor starts strictly idle until tapped):
 
-- **Self-Improving Guided Vision, Silent Patent Priors &amp; Hardened Zoe Explore (`v0.9.1-beta`):** **Guided Vision** extracts on-device Sobel edge contours, HoG-16 orientations, radial symmetry &amp; dHash-64 into private offline visual memory (`VisionPriorStore`) — tap **Teach Zoe object** or opt-in **Patent prior** (filtered strictly to physical CPC classes `A47/B25/F16/G01/G02/H01` with `>= 70%` contour gating) so Zoe's offline object recognition genuinely improves over time and feeds silently into **Zoe Explore** (with zero noisy raw patent popups and **8 Zoe Explore reliability fixes**, including rotation resilience &amp; ARCore GL restart safety); **Creative Studio** grounds synthesis in 100% offline **Ernst Haeckel**, **August Weismann**, **Jean-Baptiste Lamarck**, and **Google Patents** mathematical plates.
+- **Zero-Prefill KV-Clone AI, Clean-Room Offline Visual Atlas &amp; Full-App `16dp` Symmetry (`v0.9.2-beta`):** **OnDeviceLlmEngine** supports MediaPipe `cloneSession()` zero-prefill KV caching, hardware GPU-first inference with safe CPU fallback, instant `cancelGenerateResponseAsync()` barge-in, and native on-device `addImage(MPImage)` vision-language packs; **Guided Vision** ships an **18-archetype clean-room Haeckel/Lamarck/CPC Offline Visual Atlas (`8.4 KB`)** + RAM-cached `< 0.1 ms` `VisionPriorStore` (`Teach Zoe` + opt-in CPC physical `Patent prior`), bounded 720p CameraX analysis, and quiet public AICore auto-prepare — feeding silently into uncluttered, rotation-resilient **Zoe Explore** alongside `16dp`/`8dp` visual symmetry across Home, Chat, Explore, Guided Vision, Creative Studio, Privacy Vault, and SafeConvert.
 - **International SafeConvert + Offline BLE Help Beacon Mesh:** 100% offline zero-network safety layer spanning **8 verified regions** (US `911`, EU `112`/`116 111`, UK `999`/`0808 2000 247`, CA, AU `000`, MX, IN `112`, Global) &amp; **5 languages**, trauma-informed post-incident medical care, Closest Help Spots (`geo:` ER/police/pharmacy/library + confidential shelter intake + 1-shot GPS locator), Calming Studio (**Calm Art Pad**, **Easy Math**, quiet-gated **Zoe Stories**), **Young Child Easy Picture Mode**, SHA-256 Private Proof Vault, AND an **Offline Bluetooth LE Help Beacon &amp; Blind Encrypted Relay Mesh** (AirTag-style 15-min rotating SHA-256 tags, Local SOS Mesh, 30-min auto-expiry &amp; 1-tap Key Rotation) ([SAFECONVERT.md →](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md)).
 - **Google Play Services for AR (`✦ AR Space`) + Simultaneous Live Voice &amp; Camera:** Real **ARCore 6DoF** (Android) &amp; **ARKit** (Apple) 3D plane tracking + floating luminous 3D Zoe GEM prism that explores your physical room, glides over wherever you tap, remembers discovered objects in 3D space, and asks curious spoken questions aloud alongside simultaneous continuous voice, sentence-streaming speech, **`Live + Cam`**, and opt-in **`"Hi Zoe"`** wake-word.
 - **Signal-Grade Privacy Vault, Hybrid Zoe Chat &amp; Zoe Arcade:** Hardware **AndroidKeyStore AES-256-GCM** encrypted chat threads + peer-to-peer **ECDH P-256 + HKDF-SHA256 + Symmetric Chain Ratchet** E2EE envelopes &amp; 60-digit Safety Number; Hybrid **Zoe Chat** (`⚡ Auto`, **Zoe Local 1.5B**, zero-key Live Web citations, Multi-Turn SSE Streaming); and **Zoe Arcade** (4 ad-free offline games).
-- **Hardware &amp; Cross-Platform Verified:** `86/86` Android JUnit tests, `0` Lint errors, **`50/50` Pixel 7 hardware Espresso tests**, and **`19/19` Swift 6.1.3 `ZoeCore`** tests passing.
+- **Hardware &amp; Cross-Platform Verified:** `87/87` Android JUnit tests, `0` Lint errors, **`50/50` Pixel 7 hardware Espresso tests**, and **`19/19` Swift 6.1.3 `ZoeCore`** tests passing.
 
 <p align="center"><img src="assets/divider-teal.svg" alt="" width="100%" /></p>
 
