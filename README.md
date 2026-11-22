@@ -66,11 +66,11 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 
 <div align="center">
 
-<a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.4.0-beta"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/readme/zoe-bulb-beta-showcase.png" alt="Zoe (beta) live screenshots on Pixel 7 — Home, Next-Gen Zoe Chat with Zoe Local On-Device Neural Engine & Multi-AI Council, Maps and Safety, and matching SafeConvert" width="100%" /></a>
+<a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.5.0-beta"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/readme/zoe-bulb-beta-showcase.png" alt="Zoe (beta) live screenshots on Pixel 7 — Home, Hybrid Zoe Chat with Auto-Router, Zoe Local 1.5B + Live Web Grounding & Multi-AI Streaming, Maps and Safety, and matching SafeConvert" width="100%" /></a>
 
 <br/>
 
-**[⬇ Download Android Beta APK (`v0.4.0-beta` + SHA-256)](https://github.com/Ablation-Tool/zoe/releases/tag/v0.4.0-beta)** &nbsp;·&nbsp; **[Apple Xcode Project (`iPhone` / `iPad` / `Duo Fold`)](https://github.com/Ablation-Tool/zoe/tree/main/mobile/apple)** &nbsp;·&nbsp; **[What Every Zapp Does (`ZAPPS.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md)** &nbsp;·&nbsp; **[SafeConvert Privacy Guide (`SAFECONVERT.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md)**
+**[⬇ Download Android Beta APK (`v0.5.0-beta` + SHA-256)](https://github.com/Ablation-Tool/zoe/releases/tag/v0.5.0-beta)** &nbsp;·&nbsp; **[Apple Xcode Project (`iPhone` / `iPad` / `Duo Fold`)](https://github.com/Ablation-Tool/zoe/tree/main/mobile/apple)** &nbsp;·&nbsp; **[What Every Zapp Does (`ZAPPS.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md)** &nbsp;·&nbsp; **[SafeConvert Privacy Guide (`SAFECONVERT.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md)**
 
 </div>
 
@@ -78,10 +78,10 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 
 **Zoe (beta)** brings Zoe's research stack into a calm, accessible, zero-ad, zero-tracking companion app built for adults and children with disabilities (`allowBackup="false"`, every sensor starts strictly idle until tapped):
 
-- **Next-Gen Zoe Chat, Zoe Local Neural Engine &amp; Multi-AI Council (`0` vendor lock-in):** Chat-first bubble interface with live **Brain Switcher** (`Zoe Stem` `<5ms` · **Zoe Local** on-device neural engine via MediaPipe LiteRT running 0.5B / 1.5B open-weight `.task` packs 100% offline with live streaming &amp; strict Zoe sovereign identity · `Lab Brain` · **Multi-AI Cloud Council** for optional **Gemini, Claude, ChatGPT &amp; Grok** keys + **0-key 1-tap handoff** to installed AI apps), collapsible **Glass-Box Kloster $A_\tau(p)$** pills, **Approval-Gated Multi-Step Action Plans**, persistent private threads, and native 44.1 kHz voice + **`Sing Zoe`**.
+- **Hybrid Zoe Chat, Smart `⚡ Auto` Router, Live Web Grounding &amp; Multi-AI Streaming (`0` vendor lock-in):** Chat-first bubble interface with live **Brain Switcher** (`⚡ Auto` smart router · **Zoe Local** on-device MediaPipe LiteRT `0.5B/1.5B` streaming offline · **Opt-In Live Web Grounding** via zero-key HTTPS DuckDuckGo + Wikipedia with clickable `🔗 Source ↗` chips · `Zoe Stem` `<5ms` · `Lab Brain` · **Multi-Turn Online SSE Streaming** for optional **Gemini, Claude, ChatGPT &amp; Grok** keys + **0-key 1-tap handoff** to installed AI apps), collapsible **Glass-Box Kloster $A_\tau(p)$** pills, **Approval-Gated Multi-Step Action Plans**, persistent private threads, and native 44.1 kHz voice + **`Sing Zoe`**.
 - **Maps &amp; Safety *(Google Maps · Apple Maps · Built-In OS Telemetry)*:** Opt-in live OS GPS, compass, speed &amp; street address (stops automatically on exit), native Apple `MapKit` on iOS, dual Google Maps &amp; Apple Maps handoffs, Pixel **Personal Safety** / Apple Medical ID bridge, and hardware Flashlight — zero Maps API keys or tracking SDKs ([Full Zapps Field Guide →](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md)).
 - **SafeConvert *(Matching UI · Zero Network)*:** Clean everyday unit converter styled seamlessly to match Zoe, containing private offline calming tools, safe contacts, crisis resources, and an optional passcode-lockable SHA-256 proof vault with instant panic-exit &amp; screenshot/app-switcher shields ([Complete SafeConvert Guide →](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md)).
-- **Hardware &amp; Cross-Platform Verified:** `64/64` Android JUnit tests, `0` Lint errors, **`45/45` Pixel 7 hardware Espresso tests** (`9/9` SafeConvert, `7/7` Main, `4/4` Talk, `3/3` Maps &amp; Safety), and **`13/13` Swift 6.1.3 `ZoeCore`** tests passing.
+- **Hardware &amp; Cross-Platform Verified:** `65/65` Android JUnit tests, `0` Lint errors, **`45/45` Pixel 7 hardware Espresso tests** (`9/9` SafeConvert, `7/7` Main, `4/4` Talk, `3/3` Maps &amp; Safety), and **`14/14` Swift 6.1.3 `ZoeCore`** tests passing.
 
 <p align="center"><img src="assets/divider-teal.svg" alt="" width="100%" /></p>
 
