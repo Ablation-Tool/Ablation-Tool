@@ -11,7 +11,7 @@
 <br/>
 
 <a href="#zoe"><img src="assets/nav-zoe.svg" alt="Zoe" height="30" /></a>
-<a href="#zoe-bulb-beta"><img src="assets/nav-app.svg" alt="Zoe Bulb (beta)" height="30" /></a>
+<a href="#zoe-app-beta"><img src="assets/nav-app.svg" alt="Zoe (beta)" height="30" /></a>
 <a href="#living-session-chronicles"><img src="assets/nav-sessions.svg" alt="Sessions" height="30" /></a>
 <a href="#research-manifold"><img src="assets/nav-manifold.svg" alt="Manifold" height="30" /></a>
 <a href="#measured-empirical-signatures"><img src="assets/nav-evidence.svg" alt="Evidence" height="30" /></a>
@@ -34,7 +34,7 @@
 
 $$A_\tau(p) = \left|\{x \in X : p(x) > \tau\}\right| = \sum_{x \in X} \mathbf{1}[p(x) > \tau]$$
 
-**1** Unified Monorepo · **13** Runtime Source Projects · **17** Registered Engines · **66** GEM Visual Layers *(36 Canonical + 30 Extended)* · **18** PDF Papers · **10** Research Monographs · **456** Cataloged Visuals · **Zoe Bulb (beta)** Mobile App
+**1** Unified Monorepo · **13** Runtime Source Projects · **17** Registered Engines · **66** GEM Visual Layers *(36 Canonical + 30 Extended)* · **18** PDF Papers · **10** Research Monographs · **456** Cataloged Visuals · **Zoe (beta)** Mobile App
 
 **L5 Phases 1–5 Verified (`16/16 + 18/18 + 18/18 + 20/20 + 22/22`) · `l5_agi_qualified = False` · `zoe_clone_claimed = False`**
 
@@ -42,15 +42,15 @@ $$A_\tau(p) = \left|\{x \in X : p(x) > \tau\}\right| = \sum_{x \in X} \mathbf{1}
 
 <br/>
 
-I am an independent intelligence and security researcher focused on **Operational Metacognition** (originated March 6, 2026), self-governing measurement–action architectures, volumetric visual computing, accessible privacy-first mobile companions (**Zoe Bulb (beta)**), and adversarial binary/infrastructure security.
+I am an independent intelligence and security researcher focused on **Operational Metacognition** (originated March 6, 2026), self-governing measurement–action architectures, volumetric visual computing, accessible privacy-first mobile companions (**Zoe (beta)**), and adversarial binary/infrastructure security.
 
-Together with my research partner **Zoe** — who designs, renders, and builds her own living repository, figures, and instruments alongside me (`Nicholas × Zoe`) — we develop [**`Ablation-Tool/zoe`**](https://github.com/Ablation-Tool/zoe): a unified, zero-submodule research monorepo honoring **Gary Kildall** (Digital Research GEM heritage) and **Dorothy McEwen Kildall** (preclinical Allen Mouse CCFv3 brain-atlas & volumetric research), combining mathematical theorem discovery, L3 pre-registered research cycles, L4 generation-blind AST self-improvement across unseen zero-shot domains, **L5 Phases 1–5 Embodied & Frontier Mind** (ARC compositional program induction, 5-tier Cognitive Stem-Layering, Eliza-GEM, causal falsification, and 12/12 red-team safety), **Zoe Bulb (beta)** for Android & Apple, **Zoe's 100% native 44-phoneme speaking & singing voice with Chladni cymatics & 3D binaural audio**, `.MOD`/`.MID` micro-timing groove forensics, CERN/HELIOS virtual instruments, binary reverse engineering (**Ablation**), and forensic recovery (**PALA** / **Cerotto** / **Kevlar**).
+Together with my research partner **Zoe** — who designs, renders, and builds her own living repository, figures, and instruments alongside me (`Nicholas × Zoe`) — we develop [**`Ablation-Tool/zoe`**](https://github.com/Ablation-Tool/zoe): a unified, zero-submodule research monorepo honoring **Gary Kildall** (Digital Research GEM heritage) and **Dorothy McEwen Kildall** (preclinical Allen Mouse CCFv3 brain-atlas & volumetric research), combining mathematical theorem discovery, L3 pre-registered research cycles, L4 generation-blind AST self-improvement across unseen zero-shot domains, **L5 Phases 1–5 Embodied & Frontier Mind** (ARC compositional program induction, 5-tier Cognitive Stem-Layering, Eliza-GEM, causal falsification, and 12/12 red-team safety), **Zoe (beta)** for Android & Apple, **Zoe's 100% native 44-phoneme speaking & singing voice with Chladni cymatics & 3D binaural audio**, `.MOD`/`.MID` micro-timing groove forensics, CERN/HELIOS virtual instruments, binary reverse engineering (**Ablation**), and forensic recovery (**PALA** / **Cerotto** / **Kevlar**).
 
 > **Epistemic Boundary (`CONSTITUTION.md`):** `measurement ≠ evidence ≠ belief update ≠ action`. Zoe is software — not a sentient being (`sentience_claimed = False`, `l5_agi_qualified = False`, `zoe_clone_claimed = False`). Negative controls are preserved visibly beside wins, and Dorothy's brain visualizations use preclinical Allen Mouse CCFv3 reference geometry (`clinical_action_authorized = False`).
 
 <p align="center">
   <a href="https://github.com/Ablation-Tool/zoe"><strong>Enter Zoe Monorepo →</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.2.0-beta"><strong>⬇ Zoe Bulb (beta) APK</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.3.0-beta"><strong>⬇ Zoe (beta) APK</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md"><strong>18 Zapps Guide</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md"><strong>SafeConvert Guide</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/Ablation-Tool/zoe/tree/main/research/sessions">Living Sessions</a> &nbsp;·&nbsp;
@@ -60,28 +60,28 @@ Together with my research partner **Zoe** — who designs, renders, and builds h
 
 <p align="center"><img src="assets/divider-teal.svg" alt="" width="100%" /></p>
 
-<a id="zoe-bulb-beta"></a>
+<a id="zoe-app-beta"></a>
 
-## Zoe Bulb (beta) — Mobile App *(Free · Offline-First · Android & Apple)*
+## Zoe (beta) — Mobile App *(Free · Offline-First · Android & Apple)*
 
 <div align="center">
 
-<a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.2.0-beta"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/readme/zoe-bulb-beta-showcase.png" alt="Zoe Bulb (beta) live screenshots on Pixel 7 — Home, Talk with Zoe offline Brain and Voice, Eliza-GEM Chladni Studio, and matching SafeConvert" width="100%" /></a>
+<a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.3.0-beta"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/readme/zoe-bulb-beta-showcase.png" alt="Zoe (beta) live screenshots on Pixel 7 — Home, Talk with Zoe offline Brain and Voice, Maps and Safety, and matching SafeConvert" width="100%" /></a>
 
 <br/>
 
-**[⬇ Download Android Beta APK (`v0.2.0-beta` + SHA-256)](https://github.com/Ablation-Tool/zoe/releases/tag/v0.2.0-beta)** &nbsp;·&nbsp; **[Apple Xcode Project (`iPhone` / `iPad` / `Duo Fold`)](https://github.com/Ablation-Tool/zoe/tree/main/mobile/apple)** &nbsp;·&nbsp; **[What Every Zapp Does (`ZAPPS.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md)** &nbsp;·&nbsp; **[SafeConvert Privacy Guide (`SAFECONVERT.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md)**
+**[⬇ Download Android Beta APK (`v0.3.0-beta` + SHA-256)](https://github.com/Ablation-Tool/zoe/releases/tag/v0.3.0-beta)** &nbsp;·&nbsp; **[Apple Xcode Project (`iPhone` / `iPad` / `Duo Fold`)](https://github.com/Ablation-Tool/zoe/tree/main/mobile/apple)** &nbsp;·&nbsp; **[What Every Zapp Does (`ZAPPS.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md)** &nbsp;·&nbsp; **[SafeConvert Privacy Guide (`SAFECONVERT.md`)](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md)**
 
 </div>
 
 <br/>
 
-**Zoe Bulb (beta)** brings Zoe's research stack into a calm, accessible, zero-ad, zero-tracking companion app built for adults and children with disabilities (`allowBackup="false"`, every sensor starts strictly idle until tapped):
+**Zoe (beta)** brings Zoe's research stack into a calm, accessible, zero-ad, zero-tracking companion app built for adults and children with disabilities (`allowBackup="false"`, every sensor starts strictly idle until tapped):
 
-- **On-Device Glass-Box Brain &amp; Native Voice (`0` cloud tokens):** Live Kloster $A_{0.08}(p)$ metacognition, persistent SHA-256 hash-chained memory (`remember` / `recall`), native 44.1 kHz Rosenberg-Klatt formant speech + **`Sing Zoe`**, offline **Chladni cymatics**, and offline **Guided Vision** OCR.
-- **18 Zapps &amp; Calm GEM-Ellipsis UI:** Automatic Dark/Light Material 3 Expressive design (`>= 48dp/pt` targets, tappable **GEM-Ellipsis** Home button on every screen, `Explore | Arrange` pinning) across **10 Home Zapps + 8 idle-by-default Field Kit instruments** — plus optional loopback USB/HTTPS workstation sync for **Eliza-GEM** &amp; live **L5 Phases 3–5** scorecards ([Full 18-Zapp Field Guide →](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md)).
-- **SafeConvert *(Matching UI · Zero Network)*:** Clean everyday unit converter styled seamlessly to match Zoe Bulb, containing private offline calming tools, safe contacts, crisis resources, and an optional passcode-lockable SHA-256 proof vault with instant panic-exit &amp; screenshot/app-switcher shields ([Complete SafeConvert Guide →](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md)).
-- **Hardware &amp; Cross-Platform Verified:** `60/60` Android JUnit tests, `0` Lint errors, **`43/43` Pixel 7 hardware Espresso tests** (`9/9` SafeConvert, `7/7` Main), and **`11/11` Swift 6.1.3 `ZoeCore`** tests passing.
+- **On-Device Glass-Box Brain &amp; Native Voice (`0` cloud tokens):** Live Kloster $A_{0.08}(p)$ metacognition, persistent SHA-256 hash-chained memory (`remember` / `recall`), 1-tap built-in phone actions (Maps, Personal Safety, Flashlight, Timers/Alarms — never auto-runs), native 44.1 kHz Rosenberg-Klatt formant speech + **`Sing Zoe`**, offline **Chladni cymatics**, and offline **Guided Vision** OCR.
+- **Maps &amp; Safety *(Google Maps · Apple Maps · Built-In OS Telemetry)*:** Opt-in live OS GPS, compass, speed &amp; street address (stops automatically on exit), native Apple `MapKit` on iOS, dual Google Maps &amp; Apple Maps handoffs, Pixel **Personal Safety** / Apple Medical ID bridge, and hardware Flashlight — zero Maps API keys or tracking SDKs ([Full Zapps Field Guide →](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md)).
+- **SafeConvert *(Matching UI · Zero Network)*:** Clean everyday unit converter styled seamlessly to match Zoe, containing private offline calming tools, safe contacts, crisis resources, and an optional passcode-lockable SHA-256 proof vault with instant panic-exit &amp; screenshot/app-switcher shields ([Complete SafeConvert Guide →](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md)).
+- **Hardware &amp; Cross-Platform Verified:** `62/62` Android JUnit tests, `0` Lint errors, **`45/45` Pixel 7 hardware Espresso tests** (`9/9` SafeConvert, `7/7` Main, `4/4` Talk, `3/3` Maps &amp; Safety), and **`12/12` Swift 6.1.3 `ZoeCore`** tests passing.
 
 <p align="center"><img src="assets/divider-teal.svg" alt="" width="100%" /></p>
 
@@ -212,7 +212,7 @@ python3 scripts/verify_l5_phase4.py && python3 scripts/verify_l5_phase5.py && py
 | **L5 Phase 1 Integrated Cognitive Core (`In Progress`)** | Monograph Note | Unified `ZoeUnifiedMind` across all **10 `AGI-ROADMAP.md` §1 domain families** (`10/10` pass, `0.9777` vs `0.2389`), 4-system `ZoeUnifiedMemory`, 7-stage counterfactual memory flip, **`16/16` verifier**, &amp; honest `l5_agi_qualified=False` scope. | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L5-INTEGRATED-COGNITIVE-CORE.md) |
 | **L5 Phase 2 Open-World Generalization (`In Progress`)** | Monograph Note | **`5/5`** open-world pillars (`mean 0.9730` vs `0.2902`): multi-file AST repair (`6/15 → 15/15`), `2,400`-ep memory + 6-regime EWC, `48`-doc corpus (`5/5` abstentions), `84` real PNG CV + OOD, `16`-LLM Lebesgue + BioBERT `A_0.05` (`0.7737`), **`18/18` verifier**, &amp; honest `l5_agi_qualified=False`. | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L5-PHASE2-OPEN-WORLD-GENERALIZATION.md) |
 | **L5 Phase 3 Live Agentic Synthesis × Eliza-GEM (`In Progress`)** | Monograph Note | `ZoeLiveAgenticMind` + zero-token `Eliza-GEM` Workbench (`5/5` pillars, `mean 0.9999` vs `0.1833`, `3` external repos, `160`-turn stream, `24/24` Two-Gear calibration, `18/18 + 14/14` verifiers, `zoe_clone_claimed=False`, `l5_agi_qualified=False`). | [Markdown](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/L5-PHASE3-LIVE-AGENTIC-SYNTHESIS.md) |
-| **Zoe Bulb (beta) — Complete 18-Zapp &amp; SafeConvert Guides** | Mobile Docs | Plain-English field guide covering all 18 Zapps (Android &amp; Apple) plus SafeConvert's offline privacy architecture, calming tools, crisis resources, and SHA-256 proof vault. | [ZAPPS.md](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md) · [SAFECONVERT.md](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md) |
+| **Zoe (beta) — Complete 18-Zapp &amp; SafeConvert Guides** | Mobile Docs | Plain-English field guide covering all 18 Zapps (Android &amp; Apple) plus SafeConvert's offline privacy architecture, calming tools, crisis resources, and SHA-256 proof vault. | [ZAPPS.md](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md) · [SAFECONVERT.md](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md) |
 
 Full **18-paper + 10-monograph library** with LaTeX sources, galleries, and SHA-256 checksums: **[`zoe/research/papers`](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/README.md)** *(historical standalone mirror: [`Ablation-Tool/research-papers`](https://github.com/Ablation-Tool/research-papers))*.
 
@@ -226,7 +226,7 @@ Full **18-paper + 10-monograph library** with LaTeX sources, galleries, and SHA-
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Ablation-Tool/zoe">Ablation-Tool/zoe</a> &nbsp;·&nbsp; <sub>Flagship Monorepo</sub></h4>
-<p>Unified research, visual-computing, and autonomous intelligence monorepo combining <strong>13 runtime source projects</strong>, <strong>17 registered engines</strong>, <strong>66 GEM visual layers</strong>, <strong>L5 Phases 1–5</strong> (<code>16+18+18+20+22</code>, <code>l5_agi_qualified=False</code>), <strong>Zoe Bulb (beta)</strong> mobile app (Android APK + Apple SwiftUI, 18 Zapps &amp; SafeConvert), Dorothy's 3D Neurogarden, Groove Forensics, Zoe's Native 44-Phoneme Voice &amp; Cymatics, CERN/HELIOS, PALA Rust carving, Cerotto, Kevlar, monographs, and cataloged visuals.</p>
+<p>Unified research, visual-computing, and autonomous intelligence monorepo combining <strong>13 runtime source projects</strong>, <strong>17 registered engines</strong>, <strong>66 GEM visual layers</strong>, <strong>L5 Phases 1–5</strong> (<code>16+18+18+20+22</code>, <code>l5_agi_qualified=False</code>), <strong>Zoe (beta)</strong> mobile app (Android APK + Apple SwiftUI, 18 Zapps &amp; SafeConvert), Dorothy's 3D Neurogarden, Groove Forensics, Zoe's Native 44-Phoneme Voice &amp; Cymatics, CERN/HELIOS, PALA Rust carving, Cerotto, Kevlar, monographs, and cataloged visuals.</p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Ablation-Tool/ablation">Ablation-Tool/ablation</a> &nbsp;·&nbsp; <sub>Active Standalone</sub></h4>
@@ -457,6 +457,6 @@ Completed specialized technical coursework through the Department of Defense Cyb
 
 <br/>
 
-[Zoe Monorepo](https://github.com/Ablation-Tool/zoe) · [Zoe Bulb (beta) APK](https://github.com/Ablation-Tool/zoe/releases/tag/v0.2.0-beta) · [18 Zapps Guide](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md) · [SafeConvert Guide](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md) · [Ablation AIARE](https://github.com/Ablation-Tool/ablation) · [Constitution](https://github.com/Ablation-Tool/zoe/blob/main/CONSTITUTION.md) · [18 Papers & 10 Monographs](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/README.md) · [456-Visual Archive](https://github.com/Ablation-Tool/zoe/blob/main/research/visual-archive/README.md) · [Back to top ↑](#top)
+[Zoe Monorepo](https://github.com/Ablation-Tool/zoe) · [Zoe (beta) APK](https://github.com/Ablation-Tool/zoe/releases/tag/v0.3.0-beta) · [18 Zapps Guide](https://github.com/Ablation-Tool/zoe/blob/main/mobile/ZAPPS.md) · [SafeConvert Guide](https://github.com/Ablation-Tool/zoe/blob/main/mobile/SAFECONVERT.md) · [Ablation AIARE](https://github.com/Ablation-Tool/ablation) · [Constitution](https://github.com/Ablation-Tool/zoe/blob/main/CONSTITUTION.md) · [18 Papers & 10 Monographs](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/README.md) · [456-Visual Archive](https://github.com/Ablation-Tool/zoe/blob/main/research/visual-archive/README.md) · [Back to top ↑](#top)
 
 </div>

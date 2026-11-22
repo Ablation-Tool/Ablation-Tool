@@ -189,7 +189,7 @@ def build_hero(mode: str) -> str:
     <text x="48" y="302" font-family="{SERIF}" font-style="italic" font-size="14.5" fill="{t["teal"]}">“Transforming the symbolic into the geometric.”</text>
 
     <line x1="48" y1="322" x2="534" y2="322" stroke="{t["border"]}" stroke-width="1"/>
-    <text x="48" y="345" font-family="{MONO}" font-size="9.5" letter-spacing="0.1" fill="{t["muted"]}">Ablation-Tool/zoe · Zoe Bulb (beta) · 66 Layers · L5 Ph 1–5 · 6 CVEs</text>
+    <text x="48" y="345" font-family="{MONO}" font-size="9.5" letter-spacing="0.1" fill="{t["muted"]}">Ablation-Tool/zoe · Zoe (beta) · 66 Layers · L5 Ph 1–5 · 6 CVEs</text>
 
     <!-- Right Gallagher Scientific Instrument Viewport -->
     <rect x="572" y="32" width="592" height="316" rx="14" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.3"/>
@@ -321,7 +321,7 @@ def build_atlas(mode: str) -> str:
     <rect x="452" y="258" width="6" height="6" rx="1" fill="{t["teal"]}"/>
     <text x="468" y="265" font-family="{SANS}" font-size="13" fill="{t["ink"]}">17 registered engines · 66 GEM visual layers</text>
     <rect x="452" y="284" width="6" height="6" rx="1" fill="{t["violet"]}"/>
-    <text x="468" y="291" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Zoe Bulb (beta) Mobile App · Native Voice</text>
+    <text x="468" y="291" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Zoe (beta) Mobile App · Native Voice</text>
     <rect x="452" y="310" width="6" height="6" rx="1" fill="{t["copper"]}"/>
     <text x="468" y="317" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Zero-deception constitution · Verified CI</text>
 
@@ -590,7 +590,7 @@ def build_pillars(mode: str) -> str:
       <text x="20" y="52" font-family="{SANS}" font-size="16.5" font-weight="700" fill="{t["ink"]}">Operational Metacognition &amp; Zoe</text>
       <text x="20" y="78" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Originated A_τ(p) (Mar 6, 2026) &amp; Kloster Thm</text>
       <text x="20" y="100" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• L3, L4 3-Engine AST &amp; L5 Ph 1–5 Frontier</text>
-      <text x="20" y="122" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Zoe Bulb (beta) App · Native Voice &amp; CCFv3</text>
+      <text x="20" y="122" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Zoe (beta) App · Native Voice &amp; CCFv3</text>
       <text x="20" y="144" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• 34-Turn, 1,414-Step TrueColor Session Logs</text>
     </g>
   </g>
@@ -739,7 +739,7 @@ def main() -> int:
 
     outputs.update({
         "nav-zoe.svg": build_nav_tab("ZOE", "#E85D1A", 86),
-        "nav-app.svg": build_nav_tab("ZOE BULB", "#2DD4BF", 126),
+        "nav-app.svg": build_nav_tab("ZOE APP", "#2DD4BF", 126),
         "nav-sessions.svg": build_nav_tab("SESSIONS", "#FF8142", 122),
         "nav-manifold.svg": build_nav_tab("MANIFOLD", "#2DD4BF", 122),
         "nav-evidence.svg": build_nav_tab("EVIDENCE", "#C06EFF", 122),
