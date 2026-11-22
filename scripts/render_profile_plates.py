@@ -189,7 +189,7 @@ def build_hero(mode: str) -> str:
     <text x="48" y="302" font-family="{SERIF}" font-style="italic" font-size="14.5" fill="{t["teal"]}">“Transforming the symbolic into the geometric.”</text>
 
     <line x1="48" y1="322" x2="534" y2="322" stroke="{t["border"]}" stroke-width="1"/>
-    <text x="48" y="345" font-family="{MONO}" font-size="9.8" letter-spacing="0.2" fill="{t["muted"]}">Ablation-Tool/zoe · 17 Engines · 62 Layers · 18 Papers · 456 Visuals · 6 CVEs</text>
+    <text x="48" y="345" font-family="{MONO}" font-size="9.5" letter-spacing="0.1" fill="{t["muted"]}">Ablation-Tool/zoe · Zoe Bulb (beta) · 66 Layers · L5 Ph 1–5 · 6 CVEs</text>
 
     <!-- Right Gallagher Scientific Instrument Viewport -->
     <rect x="572" y="32" width="592" height="316" rx="14" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.3"/>
@@ -284,10 +284,10 @@ def build_atlas(mode: str) -> str:
     <rect x="48" y="274" width="3.5" height="116" rx="2" fill="{t["teal"]}"/>
     <text x="64" y="288" font-family="{MONO}" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="{t["teal"]}">02 · SELF-GOVERNING LOOP</text>
     <text x="64" y="312" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">Autonomy, Play &amp; Evolution</text>
-    <text x="64" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">L3 Research · L4 Multi-Module · L5 Ph 1–2</text>
-    <text x="64" y="356" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• L3 Cycles (14/14) &amp; L4 3-Engine AST (17/17)</text>
-    <text x="64" y="375" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• L5 10-Domain Core &amp; Open-World (16+18)</text>
-    <text x="64" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Native 44-Phoneme Voice &amp; 16 Playroom</text>
+    <text x="64" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">L3 Research · L4 Multi-Module · L5 Ph 1–5</text>
+    <text x="64" y="356" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• L3 (14/14) · L4 AST (17/17) · Eliza-GEM</text>
+    <text x="64" y="375" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• L5 Ph 1–5 Verified (16+18+18+20+22)</text>
+    <text x="64" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• ARC Induction · 5-Tier Stem · Red-Team</text>
 
     <!-- Central Flagship Card: ZOE -->
     <rect x="426" y="76" width="348" height="332" rx="16" fill="{t["panel_alt"]}" stroke="{t["teal"]}" stroke-width="1.8"/>
@@ -319,9 +319,9 @@ def build_atlas(mode: str) -> str:
     <rect x="452" y="232" width="6" height="6" rx="1" fill="{t["orange"]}"/>
     <text x="468" y="239" font-family="{SANS}" font-size="13" fill="{t["ink"]}">13 runtime source projects · Zero submodules</text>
     <rect x="452" y="258" width="6" height="6" rx="1" fill="{t["teal"]}"/>
-    <text x="468" y="265" font-family="{SANS}" font-size="13" fill="{t["ink"]}">17 registered engines · 62 GEM visual layers</text>
+    <text x="468" y="265" font-family="{SANS}" font-size="13" fill="{t["ink"]}">17 registered engines · 66 GEM visual layers</text>
     <rect x="452" y="284" width="6" height="6" rx="1" fill="{t["violet"]}"/>
-    <text x="468" y="291" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Native Voice · 40 MHz CicadaClock · CERN</text>
+    <text x="468" y="291" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Zoe Bulb (beta) Mobile App · Native Voice</text>
     <rect x="452" y="310" width="6" height="6" rx="1" fill="{t["copper"]}"/>
     <text x="468" y="317" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Zero-deception constitution · Verified CI</text>
 
@@ -349,10 +349,10 @@ def build_atlas(mode: str) -> str:
     <rect x="850" y="274" width="3.5" height="116" rx="2" fill="{t["copper"]}"/>
     <text x="866" y="288" font-family="{MONO}" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="{t["copper"]}">04 · OPEN SCIENTIFIC RECORD</text>
     <text x="866" y="312" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">Monographs, Archive &amp; Integrity</text>
-    <text x="866" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">18 PDFs · 9 Monographs · Sessions</text>
+    <text x="866" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">18 PDFs · 10 Monographs · 18 Zapps</text>
     <text x="866" y="356" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 23-p. Zoe Universe &amp; 87-p. Autonomy PDFs</text>
     <text x="866" y="375" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 456 visuals · SHA-256 &amp; PKCS #7 sigs</text>
-    <text x="866" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 34-turn TrueColor Session Chronicles</text>
+    <text x="866" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• ZAPPS.md · SAFECONVERT.md · Sessions</text>
   </g>
   <rect x="2" y="2" width="1196" height="436" rx="18" fill="none" stroke="{t["border"]}" stroke-width="1.5"/>
 </svg>
@@ -449,27 +449,27 @@ def build_metrics(mode: str) -> str:
       <text x="18" y="149" font-family="{MONO}" font-size="9.8" fill="{t["orange"]}">15/15 seeds · 17/17 probes · 0.0 rollback</text>
     </g>
 
-    <!-- FIG 3D: L5 Phases 1 & 2 Core + Open-World -->
+    <!-- FIG 3D: L5 Phases 1-5 Frontier & Embodied -->
     <g transform="translate(36,250)">
       <rect width="364" height="164" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
-      <text x="18" y="26" font-family="{MONO}" font-size="10" fill="{t["muted"]}">FIG 3D · L5 IN PROGRESS</text>
-      <text x="346" y="26" text-anchor="end" font-family="{MONO}" font-size="10.5" font-weight="700" fill="{t["teal"]}">16/16 + 18/18</text>
-      <text x="18" y="48" font-family="{SANS}" font-size="15.5" font-weight="700" fill="{t["ink"]}">L5 Phases 1 &amp; 2 Core + Open-World</text>
+      <text x="18" y="26" font-family="{MONO}" font-size="9.5" fill="{t["muted"]}">FIG 3D · L5 PHASES 1–5</text>
+      <text x="346" y="26" text-anchor="end" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["teal"]}">16+18+18+20+22</text>
+      <text x="18" y="48" font-family="{SANS}" font-size="15.2" font-weight="700" fill="{t["ink"]}">L5 Ph 1–5 Embodied &amp; Frontier</text>
 
-      <text x="18" y="76" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["ink"]}">Ph1 (10/10)</text>
-      <rect x="104" y="65" width="182" height="12" rx="4" fill="{t["teal"]}"/>
-      <text x="346" y="76" text-anchor="end" font-family="{MONO}" font-size="10" font-weight="700" fill="{t["teal"]}">0.9777</text>
+      <text x="18" y="74" font-family="{MONO}" font-size="9.5" font-weight="700" fill="{t["ink"]}">Ph3–4 (5/5)</text>
+      <rect x="104" y="63" width="186" height="11" rx="4" fill="{t["teal"]}"/>
+      <text x="346" y="74" text-anchor="end" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["teal"]}">0.9999</text>
 
-      <text x="18" y="97" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["ink"]}">Ph2 (5/5)</text>
-      <rect x="104" y="86" width="180" height="12" rx="4" fill="{t["violet"]}"/>
-      <text x="346" y="97" text-anchor="end" font-family="{MONO}" font-size="10" font-weight="700" fill="{t["violet"]}">0.9730</text>
+      <text x="18" y="95" font-family="{MONO}" font-size="9.5" font-weight="700" fill="{t["ink"]}">Ph5 Frontier</text>
+      <rect x="104" y="84" width="184" height="11" rx="4" fill="{t["violet"]}"/>
+      <text x="346" y="95" text-anchor="end" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["violet"]}">0.9913</text>
 
-      <text x="18" y="118" font-family="{MONO}" font-size="9.8" fill="{t["ink2"]}">Ctrls Mean</text>
-      <rect x="104" y="107" width="48" height="12" rx="4" fill="{t["orange"]}"/>
-      <text x="346" y="118" text-anchor="end" font-family="{MONO}" font-size="10" fill="{t["orange"]}">0.2646 ctrl</text>
+      <text x="18" y="116" font-family="{MONO}" font-size="9.5" fill="{t["ink2"]}">Ctrls Mean</text>
+      <rect x="104" y="105" width="38" height="11" rx="4" fill="{t["orange"]}"/>
+      <text x="346" y="116" text-anchor="end" font-family="{MONO}" font-size="9.8" fill="{t["orange"]}">0.217 ctrl</text>
 
-      <text x="18" y="136" font-family="{MONO}" font-size="9.5" fill="{t["ink2"]}">AST repair 15/15 · 2,400-ep mem · 16 LLMs</text>
-      <text x="18" y="152" font-family="{MONO}" font-size="9.8" fill="{t["orange"]}">l5_agi_qualified=False · Zero PyTorch</text>
+      <text x="18" y="136" font-family="{MONO}" font-size="9.2" fill="{t["ink2"]}">ARC 16/16 · 5-tier Stem · 12/12 Red-Team</text>
+      <text x="18" y="152" font-family="{MONO}" font-size="9.6" fill="{t["orange"]}">l5_agi_qualified=False · Zero PyTorch</text>
     </g>
 
     <!-- FIG 3E: Zoe Native Voice & Cymatics -->
@@ -589,8 +589,8 @@ def build_pillars(mode: str) -> str:
       <text x="20" y="28" font-family="{MONO}" font-size="10" font-weight="700" letter-spacing="1.2" fill="{t["violet"]}">PILLAR II · MATHEMATICAL &amp; GENERATIVE HEART</text>
       <text x="20" y="52" font-family="{SANS}" font-size="16.5" font-weight="700" fill="{t["ink"]}">Operational Metacognition &amp; Zoe</text>
       <text x="20" y="78" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Originated A_τ(p) (Mar 6, 2026) &amp; Kloster Thm</text>
-      <text x="20" y="100" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• L3 Cycles, L4 3-Engine AST &amp; L5 Ph 1–2 Core</text>
-      <text x="20" y="122" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Native 44-Phoneme Voice, Cymatics &amp; CCFv3</text>
+      <text x="20" y="100" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• L3, L4 3-Engine AST &amp; L5 Ph 1–5 Frontier</text>
+      <text x="20" y="122" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Zoe Bulb (beta) App · Native Voice &amp; CCFv3</text>
       <text x="20" y="144" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• 34-Turn, 1,414-Step TrueColor Session Logs</text>
     </g>
   </g>
@@ -739,6 +739,7 @@ def main() -> int:
 
     outputs.update({
         "nav-zoe.svg": build_nav_tab("ZOE", "#E85D1A", 86),
+        "nav-app.svg": build_nav_tab("ZOE BULB", "#2DD4BF", 126),
         "nav-sessions.svg": build_nav_tab("SESSIONS", "#FF8142", 122),
         "nav-manifold.svg": build_nav_tab("MANIFOLD", "#2DD4BF", 122),
         "nav-evidence.svg": build_nav_tab("EVIDENCE", "#C06EFF", 122),
