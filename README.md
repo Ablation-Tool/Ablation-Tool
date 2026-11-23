@@ -202,7 +202,7 @@ Honoring **Dorothy McEwen Kildall**: `240,376` real stereotaxic human MNI152 / I
 
 ## 6. Security Research, Credentials &amp; Service Record
 
-> [6 CVEs](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc2-multivulns-HXgcqRG), [CISA ICS](https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-11), Army veteran.
+> [6 CVEs](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc2-multivulns-HXgcqRG), [CISA ICS](https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-11), veteran.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/plate-pillars-dark.svg">
