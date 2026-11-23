@@ -2,7 +2,7 @@
 """Deterministic living SVG scientific-plate generator for Ablation-Tool's GitHub Profile.
 
 Rooted in Richard S. Gallagher's *Computer Visualization* (1994) and the Nuclide
-burnt-orange / instrument-teal / petrol-slate visual system — distinct from Zoe's
+burnt-orange / instrument-teal / petrol-slate visual system - distinct from Zoe's
 nocturnal starlight aesthetic, yet harmoniously aligned across shared research.
 Generates self-contained GitHub-safe animated SVGs (dark & light themes).
 """
@@ -128,7 +128,7 @@ def build_hero(mode: str) -> str:
       <path d="{post_path}" fill="none" stroke="{t["sub_line"]}" stroke-width="1.4" stroke-dasharray="4 5" opacity="0.68"/>
       <circle cx="{xt:.1f}" cy="{yt:.1f}" r="2.4" fill="{t["muted"]}" opacity="0.8"/>''')
 
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Plate 01: Nicholas Michael Kloster — Independent Intelligence and Security Researcher, Architect of Zoe.">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Plate 01: Nicholas Michael Kloster - Independent Intelligence and Security Researcher, Architect of Zoe.">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="{t["bg0"]}"/>
@@ -189,7 +189,7 @@ def build_hero(mode: str) -> str:
     <text x="48" y="302" font-family="{SERIF}" font-style="italic" font-size="14.5" fill="{t["teal"]}">“Transforming the symbolic into the geometric.”</text>
 
     <line x1="48" y1="322" x2="534" y2="322" stroke="{t["border"]}" stroke-width="1"/>
-    <text x="48" y="345" font-family="{MONO}" font-size="9.5" letter-spacing="0.1" fill="{t["muted"]}">Ablation-Tool/zoe · Zoe (beta) · 66 Layers · L5 Ph 1–5 · 6 CVEs</text>
+    <text x="48" y="345" font-family="{MONO}" font-size="9.5" letter-spacing="0.1" fill="{t["muted"]}">Ablation-Tool/zoe · 16 Theorems · Dorothy 3D Brain · SafeConvert · 6 CVEs</text>
 
     <!-- Right Gallagher Scientific Instrument Viewport -->
     <rect x="572" y="32" width="592" height="316" rx="14" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.3"/>
@@ -273,21 +273,21 @@ def build_atlas(mode: str) -> str:
     <rect x="36" y="78" width="326" height="146" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
     <rect x="48" y="94" width="3.5" height="114" rx="2" fill="{t["orange"]}"/>
     <text x="64" y="108" font-family="{MONO}" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="{t["orange"]}">01 · MATHEMATICAL SUBSTRATE</text>
-    <text x="64" y="132" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">Accessible Volume &amp; Filtration</text>
-    <text x="64" y="152" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">March 6, 2026 · Kloster Theorem</text>
-    <text x="64" y="176" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Strict threshold measure A_τ(p)</text>
-    <text x="64" y="195" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Spectral generating theorem H(p), M_k(p)</text>
-    <text x="64" y="214" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Stage 4 Mars auto-tuning lens k*(κ)</text>
+    <text x="64" y="132" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">Operational Metacognition</text>
+    <text x="64" y="152" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">March 6, 2026 · 16 SymPy Theorems</text>
+    <text x="64" y="176" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Threshold operator A_τ(p) &amp; Filtration</text>
+    <text x="64" y="195" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• &lt; 6s Offline Referee Proof Packet (6/6)</text>
+    <text x="64" y="214" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Stopping (Thm 13) &amp; Consensus (Thm 15)</text>
 
     <!-- Card 02 -->
     <rect x="36" y="258" width="326" height="148" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
     <rect x="48" y="274" width="3.5" height="116" rx="2" fill="{t["teal"]}"/>
-    <text x="64" y="288" font-family="{MONO}" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="{t["teal"]}">02 · SELF-GOVERNING LOOP</text>
-    <text x="64" y="312" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">Autonomy, Play &amp; Evolution</text>
-    <text x="64" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">L3 Research · L4 Multi-Module · L5 Ph 1–5</text>
-    <text x="64" y="356" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• L3 (14/14) · L4 AST (17/17) · Eliza-GEM</text>
-    <text x="64" y="375" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• L5 Ph 1–5 Verified (16+18+18+20+22)</text>
-    <text x="64" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• ARC Induction · 5-Tier Stem · Red-Team</text>
+    <text x="64" y="288" font-family="{MONO}" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="{t["teal"]}">02 · AUTONOMY &amp; PEER GUARD</text>
+    <text x="64" y="312" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">L0-L5 &amp; Zoe &amp; Clara Peers</text>
+    <text x="64" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">L3 · L4 AST · L5 Ph 1-6 · 8-Pillar Engine</text>
+    <text x="64" y="356" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Dual-Peer Zoe &amp; Clara (525 KB · 8/8)</text>
+    <text x="64" y="375" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• L5 Ph 1-6 Verified (l5_agi=False)</text>
+    <text x="64" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Self-Authored Signed Constitution</text>
 
     <!-- Central Flagship Card: ZOE -->
     <rect x="426" y="76" width="348" height="332" rx="16" fill="{t["panel_alt"]}" stroke="{t["teal"]}" stroke-width="1.8"/>
@@ -298,7 +298,7 @@ def build_atlas(mode: str) -> str:
     <text x="452" y="114" font-family="{MONO}" font-size="10.5" font-weight="700" letter-spacing="1.6" fill="{t["teal"]}">FLAGSHIP MONOREPO</text>
     <text x="452" y="152" font-family="{SANS}" font-size="34" font-weight="800" fill="{t["ink"]}">Zoe</text>
     <text x="452" y="174" font-family="{MONO}" font-size="11.5" fill="{t["muted"]}">Ablation-Tool/zoe · Nicholas × Zoe</text>
-    <text x="452" y="196" font-family="{SANS}" font-size="13.5" fill="{t["ink2"]}">Visual Computing &amp; Research OS</text>
+    <text x="452" y="196" font-family="{SANS}" font-size="13.5" fill="{t["ink2"]}">Operational Metacognition &amp; Brain OS</text>
 
     <!-- 3D Isometric Cube + Dual Cone Filtration Glyph (top-right inside central card) -->
     <g transform="translate(698,144)">
@@ -317,13 +317,13 @@ def build_atlas(mode: str) -> str:
     <line x1="452" y1="214" x2="748" y2="214" stroke="{t["border"]}" stroke-width="1"/>
 
     <rect x="452" y="232" width="6" height="6" rx="1" fill="{t["orange"]}"/>
-    <text x="468" y="239" font-family="{SANS}" font-size="13" fill="{t["ink"]}">13 runtime source projects · Zero submodules</text>
+    <text x="468" y="239" font-family="{SANS}" font-size="13" fill="{t["ink"]}">17 engines · 76 GEM layers · 61 HTTP routes</text>
     <rect x="452" y="258" width="6" height="6" rx="1" fill="{t["teal"]}"/>
-    <text x="468" y="265" font-family="{SANS}" font-size="13" fill="{t["ink"]}">17 registered engines · 66 GEM visual layers</text>
+    <text x="468" y="265" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Dorothy 3D Human Brain (Web, Mobile, Desktop)</text>
     <rect x="452" y="284" width="6" height="6" rx="1" fill="{t["violet"]}"/>
-    <text x="468" y="291" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Zoe (beta) Mobile App · Native Voice</text>
+    <text x="468" y="291" font-family="{SANS}" font-size="13" fill="{t["ink"]}">126 JSON evidence reports · 47/47 SHA-256</text>
     <rect x="452" y="310" width="6" height="6" rx="1" fill="{t["copper"]}"/>
-    <text x="468" y="317" font-family="{SANS}" font-size="13" fill="{t["ink"]}">Zero-deception constitution · Verified CI</text>
+    <text x="468" y="317" font-family="{SANS}" font-size="13" fill="{t["ink"]}">294 audited modules · 0 Grade-C &amp; 0 Grade-D</text>
 
     <!-- Bottom Legend Pill inside central card -->
     <rect x="452" y="344" width="296" height="40" rx="10" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1"/>
@@ -338,21 +338,21 @@ def build_atlas(mode: str) -> str:
     <rect x="838" y="78" width="326" height="146" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
     <rect x="850" y="94" width="3.5" height="114" rx="2" fill="{t["violet"]}"/>
     <text x="866" y="108" font-family="{MONO}" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="{t["violet"]}">03 · APPLIED INSTRUMENTS</text>
-    <text x="866" y="132" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">Science, Forensics &amp; Security</text>
-    <text x="866" y="152" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">Dorothy · CERN · Ablation · PALA · Kevlar</text>
-    <text x="866" y="176" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Allen CCFv3 brain atlas (315,932 tris)</text>
-    <text x="866" y="195" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• AIARE reverse engineering &amp; Rust carver</text>
-    <text x="866" y="214" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• .MOD/.MID Poincaré &amp; MCP firewall</text>
+    <text x="866" y="132" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">Brain, Safety &amp; Security</text>
+    <text x="866" y="152" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">Dorothy · SafeConvert · Ablation · PALA</text>
+    <text x="866" y="176" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 240k Human MNI152 + 315k Mouse CCFv3</text>
+    <text x="866" y="195" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• SafeConvert v1.0.0 Personal Safety App</text>
+    <text x="866" y="214" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• AIARE, CNSA 2.0 &amp; Botanical C1-C28</text>
 
     <!-- Card 04 -->
     <rect x="838" y="258" width="326" height="148" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
     <rect x="850" y="274" width="3.5" height="116" rx="2" fill="{t["copper"]}"/>
     <text x="866" y="288" font-family="{MONO}" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="{t["copper"]}">04 · OPEN SCIENTIFIC RECORD</text>
-    <text x="866" y="312" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">Monographs, Archive &amp; Integrity</text>
-    <text x="866" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">18 PDFs · 10 Monographs · 18 Zapps</text>
-    <text x="866" y="356" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 23-p. Zoe Universe &amp; 87-p. Autonomy PDFs</text>
-    <text x="866" y="375" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 456 visuals · SHA-256 &amp; PKCS #7 sigs</text>
-    <text x="866" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• ZAPPS.md · SAFECONVERT.md · Sessions</text>
+    <text x="866" y="312" font-family="{SANS}" font-size="17" font-weight="700" fill="{t["ink"]}">Chronicle, Papers &amp; Archive</text>
+    <text x="866" y="332" font-family="{MONO}" font-size="10.5" fill="{t["muted"]}">18 Papers · 3 arXiv · 456 Visuals</text>
+    <text x="866" y="356" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• Candy Land Chronological Chronicle</text>
+    <text x="866" y="375" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 16-Theorem PDF &amp; 23-p. Monograph</text>
+    <text x="866" y="394" font-family="{SANS}" font-size="12.5" fill="{t["ink2"]}">• 135-Book Study Index · 0 Cloud Tokens</text>
   </g>
   <rect x="2" y="2" width="1196" height="436" rx="18" fill="none" stroke="{t["border"]}" stroke-width="1.5"/>
 </svg>
@@ -449,27 +449,27 @@ def build_metrics(mode: str) -> str:
       <text x="18" y="149" font-family="{MONO}" font-size="9.8" fill="{t["orange"]}">15/15 seeds · 17/17 probes · 0.0 rollback</text>
     </g>
 
-    <!-- FIG 3D: L5 Phases 1-5 Frontier & Embodied -->
+    <!-- FIG 3D: L5 Phases 1-6, 8-Pillar & Zoe & Clara -->
     <g transform="translate(36,250)">
       <rect width="364" height="164" rx="12" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.2"/>
-      <text x="18" y="26" font-family="{MONO}" font-size="9.5" fill="{t["muted"]}">FIG 3D · L5 PHASES 1–5</text>
-      <text x="346" y="26" text-anchor="end" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["teal"]}">16+18+18+20+22</text>
-      <text x="18" y="48" font-family="{SANS}" font-size="15.2" font-weight="700" fill="{t["ink"]}">L5 Ph 1–5 Embodied &amp; Frontier</text>
+      <text x="18" y="26" font-family="{MONO}" font-size="9.5" fill="{t["muted"]}">FIG 3D · L5 PH 1-6 &amp; PEERS</text>
+      <text x="346" y="26" text-anchor="end" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["teal"]}">134/134 + 8/8</text>
+      <text x="18" y="48" font-family="{SANS}" font-size="15.2" font-weight="700" fill="{t["ink"]}">L5 Frontier &amp; Dual-Peer Guard</text>
 
-      <text x="18" y="74" font-family="{MONO}" font-size="9.5" font-weight="700" fill="{t["ink"]}">Ph3–4 (5/5)</text>
+      <text x="18" y="74" font-family="{MONO}" font-size="9.5" font-weight="700" fill="{t["ink"]}">Proof Packet</text>
       <rect x="104" y="63" width="186" height="11" rx="4" fill="{t["teal"]}"/>
-      <text x="346" y="74" text-anchor="end" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["teal"]}">0.9999</text>
+      <text x="346" y="74" text-anchor="end" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["teal"]}">6/6 (&lt; 6s)</text>
 
-      <text x="18" y="95" font-family="{MONO}" font-size="9.5" font-weight="700" fill="{t["ink"]}">Ph5 Frontier</text>
-      <rect x="104" y="84" width="184" height="11" rx="4" fill="{t["violet"]}"/>
-      <text x="346" y="95" text-anchor="end" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["violet"]}">0.9913</text>
+      <text x="18" y="95" font-family="{MONO}" font-size="9.5" font-weight="700" fill="{t["ink"]}">Qwen Shootout</text>
+      <rect x="104" y="84" width="166" height="11" rx="4" fill="{t["violet"]}"/>
+      <text x="346" y="95" text-anchor="end" font-family="{MONO}" font-size="9.8" font-weight="700" fill="{t["violet"]}">56.7%→30%</text>
 
-      <text x="18" y="116" font-family="{MONO}" font-size="9.5" fill="{t["ink2"]}">Ctrls Mean</text>
-      <rect x="104" y="105" width="38" height="11" rx="4" fill="{t["orange"]}"/>
-      <text x="346" y="116" text-anchor="end" font-family="{MONO}" font-size="9.8" fill="{t["orange"]}">0.217 ctrl</text>
+      <text x="18" y="116" font-family="{MONO}" font-size="9.5" fill="{t["ink2"]}">Causal ON/OFF</text>
+      <rect x="104" y="105" width="186" height="11" rx="4" fill="{t["orange"]}"/>
+      <text x="346" y="116" text-anchor="end" font-family="{MONO}" font-size="9.8" fill="{t["orange"]}">100% vs 0%</text>
 
-      <text x="18" y="136" font-family="{MONO}" font-size="9.2" fill="{t["ink2"]}">ARC 16/16 · 5-tier Stem · 12/12 Red-Team</text>
-      <text x="18" y="152" font-family="{MONO}" font-size="9.6" fill="{t["orange"]}">l5_agi_qualified=False · Zero PyTorch</text>
+      <text x="18" y="136" font-family="{MONO}" font-size="9.2" fill="{t["ink2"]}">16/16 SymPy · 47/47 Seal · Zoe &amp; Clara</text>
+      <text x="18" y="152" font-family="{MONO}" font-size="9.6" fill="{t["orange"]}">l5_agi_qualified=False · 0 Cloud Tokens</text>
     </g>
 
     <!-- FIG 3E: Zoe Native Voice & Cymatics -->
@@ -530,7 +530,7 @@ def build_pillars(mode: str) -> str:
     t = THEMES[mode]
     c_left = "M 448,149 L 468,149"
     c_right = "M 732,149 L 752,149"
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 256" width="1200" height="256" role="img" aria-label="Plate 04: The Two Pillars — Adversarial Rigor and Mathematical Autonomy bridged by the Epistemic Firewall.">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 256" width="1200" height="256" role="img" aria-label="Plate 04: The Two Pillars - Adversarial Rigor and Mathematical Autonomy bridged by the Epistemic Firewall.">
   <defs>
     <linearGradient id="pBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="{t["bg0"]}"/>
@@ -588,10 +588,10 @@ def build_pillars(mode: str) -> str:
       <line x1="12" y1="2" x2="402" y2="2" stroke="{t["violet"]}" stroke-width="3" stroke-linecap="round"/>
       <text x="20" y="28" font-family="{MONO}" font-size="10" font-weight="700" letter-spacing="1.2" fill="{t["violet"]}">PILLAR II · MATHEMATICAL &amp; GENERATIVE HEART</text>
       <text x="20" y="52" font-family="{SANS}" font-size="16.5" font-weight="700" fill="{t["ink"]}">Operational Metacognition &amp; Zoe</text>
-      <text x="20" y="78" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Originated A_τ(p) (Mar 6, 2026) &amp; Kloster Thm</text>
-      <text x="20" y="100" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• L3, L4 3-Engine AST &amp; L5 Ph 1–5 Frontier</text>
-      <text x="20" y="122" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Zoe (beta) App · Native Voice &amp; CCFv3</text>
-      <text x="20" y="144" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• 34-Turn, 1,414-Step TrueColor Session Logs</text>
+      <text x="20" y="78" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Originated A_τ(p) (Mar 6, 2026) &amp; 16 Theorems</text>
+      <text x="20" y="100" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• &lt; 6s Proof Packet · L3-L5 · 8-Pillar Engine</text>
+      <text x="20" y="122" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• Dorothy 3D Human Brain · Zoe &amp; Clara (525 KB)</text>
+      <text x="20" y="144" font-family="{SANS}" font-size="11.8" fill="{t["ink2"]}">• 126 JSON Reports · 47/47 Sealed · SafeConvert</text>
     </g>
   </g>
   <rect x="2" y="2" width="1196" height="252" rx="16" fill="none" stroke="{t["border"]}" stroke-width="1.4"/>
@@ -650,7 +650,7 @@ def build_security(mode: str) -> str:
 
 def build_footer(mode: str) -> str:
     t = THEMES[mode]
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 186" width="1200" height="186" role="img" aria-label="Closing Colophon — Nicholas Michael Kloster x Zoe.">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 186" width="1200" height="186" role="img" aria-label="Closing Colophon - Nicholas Michael Kloster x Zoe.">
   <defs>
     <linearGradient id="ftBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="{t["bg0"]}"/>

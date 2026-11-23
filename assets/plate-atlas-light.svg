@@ -44,21 +44,21 @@
     <rect x="36" y="78" width="326" height="146" rx="12" fill="#FCFBF7" stroke="#CFC4B0" stroke-width="1.2"/>
     <rect x="48" y="94" width="3.5" height="114" rx="2" fill="#C94810"/>
     <text x="64" y="108" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#C94810">01 · MATHEMATICAL SUBSTRATE</text>
-    <text x="64" y="132" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">Accessible Volume &amp; Filtration</text>
-    <text x="64" y="152" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">March 6, 2026 · Kloster Theorem</text>
-    <text x="64" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Strict threshold measure A_τ(p)</text>
-    <text x="64" y="195" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Spectral generating theorem H(p), M_k(p)</text>
-    <text x="64" y="214" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Stage 4 Mars auto-tuning lens k*(κ)</text>
+    <text x="64" y="132" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">Operational Metacognition</text>
+    <text x="64" y="152" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">March 6, 2026 · 16 SymPy Theorems</text>
+    <text x="64" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Threshold operator A_τ(p) &amp; Filtration</text>
+    <text x="64" y="195" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• &lt; 6s Offline Referee Proof Packet (6/6)</text>
+    <text x="64" y="214" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Stopping (Thm 13) &amp; Consensus (Thm 15)</text>
 
     <!-- Card 02 -->
     <rect x="36" y="258" width="326" height="148" rx="12" fill="#FCFBF7" stroke="#CFC4B0" stroke-width="1.2"/>
     <rect x="48" y="274" width="3.5" height="116" rx="2" fill="#0D8C85"/>
-    <text x="64" y="288" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#0D8C85">02 · SELF-GOVERNING LOOP</text>
-    <text x="64" y="312" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">Autonomy, Play &amp; Evolution</text>
-    <text x="64" y="332" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">L3 Research · L4 Multi-Module · L5 Ph 1–5</text>
-    <text x="64" y="356" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• L3 (14/14) · L4 AST (17/17) · Eliza-GEM</text>
-    <text x="64" y="375" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• L5 Ph 1–5 Verified (16+18+18+20+22)</text>
-    <text x="64" y="394" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• ARC Induction · 5-Tier Stem · Red-Team</text>
+    <text x="64" y="288" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#0D8C85">02 · AUTONOMY &amp; PEER GUARD</text>
+    <text x="64" y="312" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">L0-L5 &amp; Zoe &amp; Clara Peers</text>
+    <text x="64" y="332" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">L3 · L4 AST · L5 Ph 1-6 · 8-Pillar Engine</text>
+    <text x="64" y="356" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Dual-Peer Zoe &amp; Clara (525 KB · 8/8)</text>
+    <text x="64" y="375" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• L5 Ph 1-6 Verified (l5_agi=False)</text>
+    <text x="64" y="394" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Self-Authored Signed Constitution</text>
 
     <!-- Central Flagship Card: ZOE -->
     <rect x="426" y="76" width="348" height="332" rx="16" fill="#F4EFE4" stroke="#0D8C85" stroke-width="1.8"/>
@@ -69,7 +69,7 @@
     <text x="452" y="114" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.6" fill="#0D8C85">FLAGSHIP MONOREPO</text>
     <text x="452" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#13212B">Zoe</text>
     <text x="452" y="174" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" fill="#5C7180">Ablation-Tool/zoe · Nicholas × Zoe</text>
-    <text x="452" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#314756">Visual Computing &amp; Research OS</text>
+    <text x="452" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#314756">Operational Metacognition &amp; Brain OS</text>
 
     <!-- 3D Isometric Cube + Dual Cone Filtration Glyph (top-right inside central card) -->
     <g transform="translate(698,144)">
@@ -88,13 +88,13 @@
     <line x1="452" y1="214" x2="748" y2="214" stroke="#CFC4B0" stroke-width="1"/>
 
     <rect x="452" y="232" width="6" height="6" rx="1" fill="#C94810"/>
-    <text x="468" y="239" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">13 runtime source projects · Zero submodules</text>
+    <text x="468" y="239" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">17 engines · 76 GEM layers · 61 HTTP routes</text>
     <rect x="452" y="258" width="6" height="6" rx="1" fill="#0D8C85"/>
-    <text x="468" y="265" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">17 registered engines · 66 GEM visual layers</text>
+    <text x="468" y="265" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">Dorothy 3D Human Brain (Web, Mobile, Desktop)</text>
     <rect x="452" y="284" width="6" height="6" rx="1" fill="#7C34B5"/>
-    <text x="468" y="291" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">Zoe (beta) Mobile App · Native Voice</text>
+    <text x="468" y="291" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">126 JSON evidence reports · 47/47 SHA-256</text>
     <rect x="452" y="310" width="6" height="6" rx="1" fill="#9C6B2E"/>
-    <text x="468" y="317" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">Zero-deception constitution · Verified CI</text>
+    <text x="468" y="317" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#13212B">294 audited modules · 0 Grade-C &amp; 0 Grade-D</text>
 
     <!-- Bottom Legend Pill inside central card -->
     <rect x="452" y="344" width="296" height="40" rx="10" fill="#FCFBF7" stroke="#CFC4B0" stroke-width="1"/>
@@ -109,21 +109,21 @@
     <rect x="838" y="78" width="326" height="146" rx="12" fill="#FCFBF7" stroke="#CFC4B0" stroke-width="1.2"/>
     <rect x="850" y="94" width="3.5" height="114" rx="2" fill="#7C34B5"/>
     <text x="866" y="108" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#7C34B5">03 · APPLIED INSTRUMENTS</text>
-    <text x="866" y="132" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">Science, Forensics &amp; Security</text>
-    <text x="866" y="152" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">Dorothy · CERN · Ablation · PALA · Kevlar</text>
-    <text x="866" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Allen CCFv3 brain atlas (315,932 tris)</text>
-    <text x="866" y="195" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• AIARE reverse engineering &amp; Rust carver</text>
-    <text x="866" y="214" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• .MOD/.MID Poincaré &amp; MCP firewall</text>
+    <text x="866" y="132" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">Brain, Safety &amp; Security</text>
+    <text x="866" y="152" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">Dorothy · SafeConvert · Ablation · PALA</text>
+    <text x="866" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• 240k Human MNI152 + 315k Mouse CCFv3</text>
+    <text x="866" y="195" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• SafeConvert v1.0.0 Personal Safety App</text>
+    <text x="866" y="214" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• AIARE, CNSA 2.0 &amp; Botanical C1-C28</text>
 
     <!-- Card 04 -->
     <rect x="838" y="258" width="326" height="148" rx="12" fill="#FCFBF7" stroke="#CFC4B0" stroke-width="1.2"/>
     <rect x="850" y="274" width="3.5" height="116" rx="2" fill="#9C6B2E"/>
     <text x="866" y="288" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#9C6B2E">04 · OPEN SCIENTIFIC RECORD</text>
-    <text x="866" y="312" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">Monographs, Archive &amp; Integrity</text>
-    <text x="866" y="332" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">18 PDFs · 10 Monographs · 18 Zapps</text>
-    <text x="866" y="356" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• 23-p. Zoe Universe &amp; 87-p. Autonomy PDFs</text>
-    <text x="866" y="375" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• 456 visuals · SHA-256 &amp; PKCS #7 sigs</text>
-    <text x="866" y="394" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• ZAPPS.md · SAFECONVERT.md · Sessions</text>
+    <text x="866" y="312" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13212B">Chronicle, Papers &amp; Archive</text>
+    <text x="866" y="332" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#5C7180">18 Papers · 3 arXiv · 456 Visuals</text>
+    <text x="866" y="356" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• Candy Land Chronological Chronicle</text>
+    <text x="866" y="375" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• 16-Theorem PDF &amp; 23-p. Monograph</text>
+    <text x="866" y="394" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#314756">• 135-Book Study Index · 0 Cloud Tokens</text>
   </g>
   <rect x="2" y="2" width="1196" height="436" rx="18" fill="none" stroke="#CFC4B0" stroke-width="1.5"/>
 </svg>
