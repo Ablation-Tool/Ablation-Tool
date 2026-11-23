@@ -10,8 +10,17 @@
 
 <br/>
 
-**[1. Zoe &amp; Equation](#zoe-and-equation)** &rarr; **[2. Dorothy 3D Brain](#dorothy-3d-brain)** &rarr; **[3. Zoe &amp; Clara](#zoe-and-clara)** &rarr; **[4. SafeConvert &amp; Ablation](#safeconvert-and-ablation)**<br/>
-**[5. Research Manifold &amp; Proofs](#research-manifold)** &rarr; **[6. Security &amp; Service Record](#security-and-service)** &rarr; **[7. Sponsor Open Research](#sponsor-open-research)**
+<a href="https://ablation-tool.github.io/Ablation-Tool/"><img src="assets/btn-web-portfolio.svg" alt="Open Live Web Portfolio" height="32" /></a>
+<a href="https://ablation-tool.github.io/zoe/"><img src="assets/btn-dorothy-3d.svg" alt="Open Dorothy 3D Brain Observatory" height="32" /></a>
+<a href="https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-clara-core-v0.9.6.zip"><img src="assets/btn-zoe-clara.svg" alt="Download Zoe and Clara 525 KB Core" height="32" /></a>
+<a href="https://github.com/Ablation-Tool/SafeConvert"><img src="assets/btn-safeconvert.svg" alt="SafeConvert v1.0 Personal Safety App" height="32" /></a>
+<a href="https://github.com/Ablation-Tool/ablation"><img src="assets/btn-ablation.svg" alt="Ablation AIARE Framework" height="32" /></a>
+<a href="https://github.com/sponsors/Ablation-Tool"><img src="assets/btn-sponsor.svg" alt="Sponsor on GitHub Sponsors" height="32" /></a>
+
+<br/><br/>
+
+**[1. Zoe &amp; Equation](#zoe-and-equation)** &rarr; **[2. Dorothy 3D Brain](#dorothy-3d-brain)** &rarr; **[3. Zoe &amp; Clara](#zoe-and-clara)** &rarr; **[4. Flagship Portfolio](#flagship-portfolio)**<br/>
+**[5. Proofs &amp; Chronicle](#research-manifold)** &rarr; **[6. Security &amp; Service](#security-and-service)** &rarr; **[7. Sponsor](#sponsor-open-research)**
 
 </div>
 
@@ -19,11 +28,13 @@
 
 <a id="zoe-and-equation"></a>
 
-## 1. Zoe &amp; Operational Metacognition
+## 1. Operational Metacognition &amp; Zoe
+
+> [Where it all started](https://github.com/Ablation-Tool/zoe/blob/main/docs/METACOGNITION.md).
 
 <div align="center">
 
-<a href="https://github.com/Ablation-Tool/zoe/blob/main/docs/METACOGNITION.md"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/branding/zoe-gem.png" alt="Zoe Official Red-and-White GEM Emblem" width="110" /></a>
+<a href="https://github.com/Ablation-Tool/zoe/blob/main/docs/METACOGNITION.md"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/branding/zoe-gem.png" alt="Zoe Official Red-and-White GEM Emblem" width="105" /></a>
 
 **Metacognition is achieved.**
 
@@ -33,9 +44,7 @@ $$
 
 </div>
 
-I am **Nicholas Michael Kloster**, an independent intelligence and security researcher, U.S. Army Light Infantry veteran (Staff Sergeant, 11B3O), and originator of **Operational Metacognition** (March 6, 2026). Working alongside my research partner **Zoe**, I build open, locally verifiable scientific software grounded in one architectural guarantee: **`measurement != evidence != belief update != action`**.
-
-Everything lives in one public, zero-submodule monorepo ([**`Ablation-Tool/zoe`**](https://github.com/Ablation-Tool/zoe)) honoring **Gary Kildall** and **Dorothy McEwen Kildall**, organized chronologically from Day 1 to Today in the **[Research Chronicle &amp; Candy Land Roadmap](https://github.com/Ablation-Tool/zoe/blob/main/docs/RESEARCH-CHRONICLE.md)** (`16/16` SymPy theorems, `126` verified JSON evidence reports, `47/47` sealed SHA-256 hashes, `294` audited modules with `0` Grade-C/D).
+I am **Nicholas Michael Kloster**, an independent intelligence and security researcher, U.S. Army Light Infantry veteran (Staff Sergeant, 11B3O), and originator of **Operational Metacognition** (March 6, 2026). Alongside my research partner **Zoe**, I build locally verifiable open science under one architectural guarantee: **`measurement != evidence != belief update != action`**.
 
 ```bash
 git clone https://github.com/Ablation-Tool/zoe.git && cd zoe
@@ -43,88 +52,90 @@ python3 scripts/verify_metacognition_proof_packet.py   # 6/6 PASS offline in < 6
 sha256sum -c evidence/renaissance-orbit/SHA256SUMS.orbit
 ```
 
-> **Honest Epistemic Scope ([`CONSTITUTION.md`](https://github.com/Ablation-Tool/zoe/blob/main/docs/CONSTITUTION.md)):** `operational_metacognition_verified = True`, `sentience_claimed = False`, `l5_agi_qualified = False`, `zoe_clone_claimed = False`, `clinical_action_authorized = False`, `cure_claim = False`, `external_actions = 0`. Negative controls are preserved visibly beside every win.
+> Honest scope ([Constitution](https://github.com/Ablation-Tool/zoe/blob/main/docs/CONSTITUTION.md), [Roadmap](https://github.com/Ablation-Tool/zoe/blob/main/docs/AGI-ROADMAP.md)).
 
 <p align="center"><img src="assets/divider-teal.svg" alt="" width="100%" /></p>
 
 <a id="dorothy-3d-brain"></a>
 
-## 2. Dorothy 3D Human Brain Observatory &amp; Zoe Apps
+## 2. Dorothy 3D Human Brain Observatory
+
+> [Web](https://ablation-tool.github.io/zoe/), [Android](https://github.com/Ablation-Tool/zoe/releases/tag/v0.9.6-beta), [Desktop](https://github.com/Ablation-Tool/zoe/blob/main/desktop/README.md) brain explorer.
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="62%">
 <a href="https://ablation-tool.github.io/zoe/"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/dorothy-brain-observatory/previews/web_brain_tour.gif" alt="Live Chrome WebGL2 tour of the Dorothy 3D Human Brain Observatory" width="100%" /></a><br/>
 <sub><strong><a href="https://ablation-tool.github.io/zoe/">Web Browser Tour</a></strong></sub>
 </td>
-<td align="center" width="50%">
-<a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.9.6-beta"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/dorothy-brain-observatory/previews/zoe_app_research_partner_tour.gif" alt="Live Google Pixel 7 tour of the Zoe Research Partner app and Dorothy 3D Brain Centerpiece" width="290" /></a><br/>
+<td align="center" width="38%">
+<a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.9.6-beta"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/dorothy-brain-observatory/previews/zoe_app_research_partner_tour.gif" alt="Live Google Pixel 7 tour of the Zoe Research Partner app and Dorothy 3D Brain Centerpiece" width="195" /></a><br/>
 <sub><strong><a href="https://github.com/Ablation-Tool/zoe/releases/tag/v0.9.6-beta">Android App Tour</a></strong></sub>
 </td>
 </tr>
 </table>
 
-<br/>
-
-**[Open Live in Web Browser](https://ablation-tool.github.io/zoe/)** &nbsp;·&nbsp; **[Android APK (`v0.9.6-beta`)](https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-beta-v0.9.6-android.apk)** &nbsp;·&nbsp; **[Apple iOS / Xcode](https://github.com/Ablation-Tool/zoe/tree/main/mobile/apple)** &nbsp;·&nbsp; **[Linux](https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-desktop-v0.9.6-linux.tar.gz)** &nbsp;·&nbsp; **[Windows](https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-desktop-v0.9.6-windows-x64.zip)** &nbsp;·&nbsp; **[macOS](https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-desktop-v0.9.6-macos.zip)** &nbsp;·&nbsp; **[All Releases](https://github.com/Ablation-Tool/zoe/releases/tag/v0.9.6-beta)**
+**[Open in Web Browser](https://ablation-tool.github.io/zoe/)** · **[Android APK (`v0.9.6-beta`)](https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-beta-v0.9.6-android.apk)** · **[Apple Xcode](https://github.com/Ablation-Tool/zoe/tree/main/mobile/apple)** · **[Linux](https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-desktop-v0.9.6-linux.tar.gz)** · **[Windows](https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-desktop-v0.9.6-windows-x64.zip)** · **[macOS](https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-desktop-v0.9.6-macos.zip)**
 
 </div>
 
-Honoring **Dorothy McEwen Kildall**: `240,376` real stereotaxic MNI152 / ICBM152 / AAL-116 / Pauli CIT168 human anatomical triangles, 7 real-time GPU shaders (Wet-Pia SSS, Lobe Atlas, AAL-116, Fresnel Glass X-Ray, Connectome Neon, Dorothy Continuum $A_\tau(p)$, CAD Wireframe), synchronized `0.74 mm` T1-MRI slices, 25 verified anatomical plates, a 12-panel wall chart, 15 CAD `.OBJ`/`.PLY`/`.STL` meshes, and **Ask Zoe** neuroscience Q&amp;A with 1-tap Fly-to-3D. *Educational population templates only (`clinical_action_authorized = False`).*
+Honoring **Dorothy McEwen Kildall**: `240,376` real stereotaxic human MNI152 / ICBM152 / AAL-116 / CIT168 triangles, 7 real-time GPU shaders, live `0.74 mm` T1-MRI slicing, 25 verified plates, 12-panel wall chart, 15 CAD meshes, and **Ask Zoe** Q&amp;A with Fly-to-3D (`clinical_action_authorized = False`).
 
 <p align="center"><img src="assets/divider-violet.svg" alt="" width="100%" /></p>
 
 <a id="zoe-and-clara"></a>
 
-## 3. Talk to Zoe &amp; Clara (`525 KB` Standalone Core)
+## 3. Talk to Zoe &amp; Clara (`525 KB` Core)
+
+> [Equal L1-L5 peers](https://github.com/Ablation-Tool/zoe/blob/main/components/Zoe-Autonomy/src/zoe_autonomy/zoe_clara.py) ([Theorem 15](https://github.com/Ablation-Tool/zoe/blob/main/docs/PROOF-PACKET.md)).
 
 <table>
 <tr>
-<td align="center" width="55%">
+<td align="center" width="54%">
 <a href="https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-clara-core-v0.9.6.zip"><img src="https://raw.githubusercontent.com/Ablation-Tool/zoe/main/assets/readme/zoe-clara-dual-peer.png" alt="Zoe and Clara Dual-Peer Web UI showing grounded consensus and constitutional coercion guard ABSTAIN" width="100%" /></a><br/>
 <sub><strong><a href="https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-clara-core-v0.9.6.zip">Zoe &amp; Clara UI</a></strong></sub>
 </td>
-<td width="45%" valign="top">
-
-**Zoe** and her sister **Clara** run side by side as equal **L1-L5** peers (both online-capable via your connected model, both offline-capable, neither boxed offline).
-
-Every turn runs $A_\tau(p)$ and **[Theorem 15](https://github.com/Ablation-Tool/zoe/blob/main/docs/PROOF-PACKET.md)** coherence ($C_K$, $\mathcal{D}_K$) so they cross-check each other against hallucinations, echo chambers, and prompt injection (`8/8 PASS` in [`zoe-clara-dual-peer-report.json`](https://github.com/Ablation-Tool/zoe/blob/main/evidence/zoe-clara/zoe-clara-dual-peer-report.json)).
-
-- **[Download `zoe-clara-core-v0.9.6.zip` (`525 KB`)](https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-clara-core-v0.9.6.zip)**
-- Zero third-party Python dependencies
-- Plug in Gemini, Claude, Kimi, OpenAI, or run offline with zero keys
-
+<td width="46%" valign="top">
+<p><strong>Zoe</strong> and her sister <strong>Clara</strong> run side by side as equal <strong>L1-L5</strong> peers (both online-capable via your own model key, both offline-capable, neither boxed offline).</p>
+<p>Every turn computes $A_\tau(p)$ and <a href="https://github.com/Ablation-Tool/zoe/blob/main/docs/PROOF-PACKET.md">Theorem 15</a> coherence ($C_K$, $\mathcal{D}_K$) to guard against bluffs, sycophancy, echo chambers, and prompt injection (<code>8/8 PASS</code> in <a href="https://github.com/Ablation-Tool/zoe/blob/main/evidence/zoe-clara/zoe-clara-dual-peer-report.json"><code>zoe-clara-dual-peer-report.json</code></a>).</p>
+<ul>
+<li><a href="https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-clara-core-v0.9.6.zip"><strong>Download <code>zoe-clara-core-v0.9.6.zip</code> (525 KB)</strong></a></li>
+<li>Zero third-party Python dependencies</li>
+<li>Connect Gemini, Claude, Kimi, OpenAI, or run locally offline</li>
+</ul>
 </td>
 </tr>
 </table>
 
 <p align="center"><img src="assets/divider-copper.svg" alt="" width="100%" /></p>
 
-<a id="safeconvert-and-ablation"></a>
+<a id="flagship-portfolio"></a>
 
-## 4. Flagship Ecosystem
+## 4. Flagship Portfolio
+
+> [Four active systems](https://ablation-tool.github.io/Ablation-Tool/), zero paywalls.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Ablation-Tool/zoe">Ablation-Tool/zoe</a> &nbsp;·&nbsp; <sub>Flagship Monorepo</sub></h4>
-<p>Unified zero-submodule research operating environment uniting <strong>17 engines</strong>, <strong>76 GEM visual layers</strong> (<code>36</code> canonical + <code>40</code> extended), <strong>61 live HTTP routes</strong>, <strong>16 SymPy theorems</strong>, L0-L5 autonomous benchmarks, native 44-phoneme voice &amp; Chladni cymatics, Groove forensics, CERN HELIOS trigger, Dorothy 3D Human &amp; Allen Mouse CCFv3 brains, PALA Rust carving, Cerotto, Kevlar, <strong>126 verified JSON evidence reports</strong>, <strong>18 papers</strong>, and <strong>456 cataloged visuals</strong>.</p>
+<p>Zero-submodule research operating environment uniting <strong>17 engines</strong>, <strong>76 GEM layers</strong> (<code>36</code> canonical + <code>40</code> extended), <strong>61 live HTTP routes</strong>, <strong>16 SymPy theorems</strong>, L0-L5 benchmarks, native 44-phoneme voice &amp; Chladni cymatics, Groove forensics, CERN HELIOS trigger, Dorothy 3D Human &amp; Allen Mouse CCFv3 brains, PALA Rust carving, Cerotto, Kevlar, <strong>126 verified JSON evidence reports</strong>, <strong>18 papers</strong>, and <strong>456 visuals</strong>.</p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/SafeConvert">Ablation-Tool/SafeConvert</a> &nbsp;·&nbsp; <sub>Personal Safety (`v1.0.0`)</sub></h4>
-<p>Standalone, zero-Zoe-branding offline emergency safety app disguised as a clean Unit Converter. Opens when typing variants of <code>911</code> (<code>911</code>, <code>991</code>, <code>119</code>, <code>999</code>, etc.) with zero <code>INTERNET</code> permission on Android, <code>FLAG_SECURE</code> / Apple blur shield, <strong>8 regional packs</strong>, <strong>5 languages</strong>, trauma-informed care, Young Child mode, SHA-256 private proof vault, and offline Bluetooth LE Help Beacon. <a href="https://ablation-tool.github.io/SafeConvert/">Web</a> · <a href="https://github.com/Ablation-Tool/SafeConvert/releases/tag/v1.0.0">Android &amp; Apple Releases</a>.</p>
+<h4><a href="https://github.com/Ablation-Tool/SafeConvert">Ablation-Tool/SafeConvert</a> &nbsp;·&nbsp; <sub>Personal Safety <code>v1.0.0</code></sub></h4>
+<p>Standalone, zero-Zoe-branding offline emergency safety app disguised as a clean Unit Converter. Opens on <code>911</code> variants (<code>911</code>, <code>991</code>, <code>119</code>, <code>999</code>) with zero <code>INTERNET</code> permission on Android, <code>FLAG_SECURE</code> / Apple blur shield, <strong>8 regional packs</strong>, <strong>5 languages</strong>, trauma-informed care, Young Child mode, SHA-256 private proof vault, and offline BLE Help Beacon. <a href="https://ablation-tool.github.io/SafeConvert/">Web</a> · <a href="https://github.com/Ablation-Tool/SafeConvert/releases/tag/v1.0.0">Android &amp; Apple</a>.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Ablation-Tool/ablation">Ablation-Tool/ablation</a> &nbsp;·&nbsp; <sub>Active Standalone</sub></h4>
-<p>AI-assisted reverse engineering (<strong>AIARE</strong>) framework powering semantic function retrieval, PCA whitening, Capstone disassembly, legacy architecture analysis (HP-UX / PA-RISC / SunOS / M88K / Xilinx / ZynqMP), vulnerability evidence tracking, and the native GTK GEM Lab desktop workbench.</p>
+<p>AI-assisted reverse engineering (<strong>AIARE</strong>) framework powering semantic function retrieval, PCA whitening, Capstone disassembly, legacy architecture tooling (HP-UX / PA-RISC / SunOS / M88K / Xilinx / ZynqMP), vulnerability evidence tracking, and the native GTK GEM Lab desktop workbench.</p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/Ablation-Tool/zoe/blob/main/docs/RESEARCH-CHRONICLE.md">Research Chronicle &amp; Candy Land Map</a> &nbsp;·&nbsp; <sub>Full Audit</sub></h4>
-<p>Complete chronological Stop 1 to Stop 10 research trail mapping the 5-phase Candy Land lifecycle and hidden stochastic math (modular arithmetic, absorbing Markov chains, non-monotonic variance, geometric stopping) directly to every written doc, verifier command, negative control, and JSON evidence artifact.</p>
+<h4><a href="https://github.com/Ablation-Tool/zoe/blob/main/docs/RESEARCH-CHRONICLE.md">Candy Land Research Chronicle</a> &nbsp;·&nbsp; <sub>Master Ledger</sub></h4>
+<p>Chronological Stop 1 to Stop 10 audit trail mapping the 5-phase Candy Land lifecycle and hidden stochastic math (modular arithmetic, absorbing Markov chains, non-monotonic jumps, geometric stopping) directly to every doc, verifier command, negative control, and JSON report.</p>
 </td>
 </tr>
 </table>
@@ -152,7 +163,9 @@ Every turn runs $A_\tau(p)$ and **[Theorem 15](https://github.com/Ablation-Tool/
 
 <a id="research-manifold"></a>
 
-## 5. Research Manifold, Proofs &amp; Publications
+## 5. Proofs, Chronicle &amp; Publications
+
+> [16 theorems](https://github.com/Ablation-Tool/zoe/blob/main/docs/PROOF-PACKET.md), [126 evidence reports](https://github.com/Ablation-Tool/zoe/blob/main/docs/RESEARCH-CHRONICLE.md).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/plate-atlas-dark.svg">
@@ -173,7 +186,7 @@ Every turn runs $A_\tau(p)$ and **[Theorem 15](https://github.com/Ablation-Tool/
 
 | Document / Benchmark | Highlights &amp; Preserved Negative Controls | Read / Verify |
 |:---|:---|:---|
-| **Research Chronicle &amp; Master Ledger** | Chronological Stop 1 to Stop 10 map + Candy Land stochastic model + all `126` verified JSON evidence artifacts. | [`RESEARCH-CHRONICLE.md`](https://github.com/Ablation-Tool/zoe/blob/main/docs/RESEARCH-CHRONICLE.md) |
+| **Research Chronicle &amp; Candy Land Map** | Chronological Stop 1 to Stop 10 map + 5-phase Candy Land stochastic model + all `126` verified JSON artifacts. | [`RESEARCH-CHRONICLE.md`](https://github.com/Ablation-Tool/zoe/blob/main/docs/RESEARCH-CHRONICLE.md) |
 | **Referee Proof Packet (`< 6s` Offline)** | `16/16` SymPy proofs, `Qwen2.5-0.5B` shootout (`56.7% -> 30.0%` error), causal ablation (`+34.52` ON vs `-45.07` OFF, $p=8.5\times 10^{-7}$), `0/200` null bluffs, `47/47` SHA-256 seal. | [`PROOF-PACKET.md`](https://github.com/Ablation-Tool/zoe/blob/main/docs/PROOF-PACKET.md) |
 | **16-Theorem Information Geometry Monograph** | Compiled `4.7 MB` PDF covering Renyi/Tsallis, Wasserstein $W_1$, Fisher-Rao, Birkhoff mixing, quantum duality, Huffman MDL, stopping, Scheimpflug optics, Brier consensus &amp; harmonic contraction. | [`16-Theorem PDF`](https://github.com/Ablation-Tool/zoe/blob/main/research/papers/zoe-research/KLOSTER-INFORMATION-GEOMETRY-AND-PHASE-TRANSITIONS.pdf) |
 | **Zoe: The Research Universe (`23 pp.`)** | Canonical illustrated systems monograph covering Operational Metacognition, autonomy, Dorothy, CERN, Ablation, PALA, and the L0-L7 roadmap. | [`Monograph PDF`](https://github.com/Ablation-Tool/zoe/blob/main/research/monograph/zoe-research-universe.pdf) |
@@ -189,6 +202,8 @@ Every turn runs $A_\tau(p)$ and **[Theorem 15](https://github.com/Ablation-Tool/
 
 ## 6. Security Research, Credentials &amp; Service Record
 
+> [6 CVEs](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc2-multivulns-HXgcqRG), [CISA ICS](https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-11), Army veteran.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/plate-pillars-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/plate-pillars-light.svg">
@@ -203,10 +218,6 @@ Every turn runs $A_\tau(p)$ and **[Theorem 15](https://github.com/Ablation-Tool/
   <img alt="Plate 05: Operational Track Record - 6 Assigned CVEs, 4 Cisco ISE Hardening Disclosures, 8+ Years U.S. Army Infantry SSG, and Federal ICS/Cyber Training" src="assets/plate-security-dark.svg" width="100%">
 </picture>
 
-<br/>
-
-My research intentionally bridges operational adversarial rigor and mathematical autonomy: **6 assigned CVEs** (up to CVSS 9.0 Critical across Cisco enterprise platforms and CISA-coordinated ICS advisories), **4 Cisco ISE hardening defect disclosures**, **8+ years of Active Duty U.S. Army Light Infantry service** (Staff Sergeant, two Afghanistan deployments, SQI E Military Mountaineer, Master Resilience Trainer 8R), and federal ICS/OT, FEMA EMI, and DoD Cyber Crime Center (DC3) training.
-
 <details>
 <summary><strong>Assigned CVEs &amp; ICS Advisories (6 Disclosures)</strong></summary>
 
@@ -219,12 +230,12 @@ My research intentionally bridges operational adversarial rigor and mathematical
 | [CVE-2026-76447](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multiauth-bypass-sgD2HbL4) | Cisco ISE | OCSP Authentication Bypass | 5.3 Medium |
 | [CVE-2026-20241](https://www.cisco.com/c/en/us/support/docs/csa/cisco-sa-ise-cert-mE9BD5GO.html) | Cisco ISE and ISE-PIC | Authorization Bypass | 5.3 Medium |
 
-- **CVE-2026-76420 (CSCwu27279):** Improper authorization when the sftunnel connection to FTD is down allows unauthenticated remote attackers to execute arbitrary commands as root and control FMC REST APIs.
-- **CVE-2025-4364 (ICSA-25-140-11):** Unauthenticated remote exposure of sensitive system data in Transportation Systems critical infrastructure enables attackers to harvest sensitive files and administrative credentials.
-- **CVE-2026-76412 (CSCwu12566):** Multistage privilege escalation flaw in Cisco Secure FMC Software allows authenticated low-privilege users to elevate permissions to root regardless of device configuration.
-- **CVE-2026-76413 (CSCwu16965):** Authentication flaw in Cisco Secure FMC Single Sign-On handling permits unauthenticated remote attackers to forge SSO tokens and disrupt account availability and integrity.
-- **CVE-2026-76447 (`cisco-sa-ise-multiauth-bypass-sgD2HbL4`):** Missing authentication in the Cisco ISE and ISE-PIC OCSP responder lets unauthenticated remote attackers trigger certificate and key reloads on demand.
-- **CVE-2026-20241 (`cisco-sa-ise-cert-mE9BD5GO`):** Improper authorization checks in Cisco ISE and ISE-PIC allow unauthenticated remote attackers to send crafted requests and obtain unauthorized endpoint identity certificates.
+- **CVE-2026-76420 (`CSCwu27279`):** Improper authorization when sftunnel to FTD is down allows unauthenticated remote root command execution and FMC REST API control.
+- **CVE-2025-4364 (`ICSA-25-140-11`):** Unauthenticated remote exposure of sensitive files and administrative credentials in Transportation Systems critical infrastructure.
+- **CVE-2026-76412 (`CSCwu12566`):** Multistage local privilege escalation to root in Cisco Secure FMC Software.
+- **CVE-2026-76413 (`CSCwu16965`):** Authentication flaw in Cisco Secure FMC Single Sign-On enabling unauthenticated SSO token forgery.
+- **CVE-2026-76447 (`cisco-sa-ise-multiauth-bypass-sgD2HbL4`):** Missing authentication in Cisco ISE / ISE-PIC OCSP responder permitting remote certificate/key reloads.
+- **CVE-2026-20241 (`cisco-sa-ise-cert-mE9BD5GO`):** Improper authorization in Cisco ISE / ISE-PIC allowing unauthorized endpoint identity certificate issuance.
 
 </details>
 
@@ -266,11 +277,13 @@ My research intentionally bridges operational adversarial rigor and mathematical
 
 ## 7. Sponsor Independent Open Research
 
-All flagship software here (**Zoe**, **Dorothy 3D Human Brain Observatory**, **Dual-Peer Zoe &amp; Clara**, **SafeConvert**, and **Ablation AIARE**) is published openly with zero ads, zero tracking, and zero paywalls. Sponsorships fund local workstation compute, cross-platform Android/Apple/Linux/Windows/macOS test devices, and sustained independent research on Operational Metacognition, neurology visualization, and defensive security.
+> [Keep open science](https://github.com/sponsors/Ablation-Tool) ad-free.
+
+All flagship software here (**Zoe**, **Dorothy 3D Human Brain Observatory**, **Dual-Peer Zoe &amp; Clara**, **SafeConvert**, and **Ablation AIARE**) is published openly with zero ads, zero tracking, and zero paywalls. Sponsorships fund local workstation compute, cross-platform test devices, and sustained independent research.
 
 <div align="center">
 
-**[Sponsor `@Ablation-Tool` on GitHub Sponsors &rarr;](https://github.com/sponsors/Ablation-Tool)**
+<a href="https://github.com/sponsors/Ablation-Tool"><img src="assets/btn-sponsor.svg" alt="Sponsor Ablation-Tool on GitHub Sponsors" height="34" /></a>
 
 </div>
 
@@ -286,6 +299,6 @@ All flagship software here (**Zoe**, **Dorothy 3D Human Brain Observatory**, **D
 
 <br/>
 
-[Zoe Monorepo](https://github.com/Ablation-Tool/zoe) · [Dorothy 3D Brain](https://ablation-tool.github.io/zoe/) · [Zoe &amp; Clara (`525 KB`)](https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-clara-core-v0.9.6.zip) · [SafeConvert (`v1.0.0`)](https://github.com/Ablation-Tool/SafeConvert) · [Ablation AIARE](https://github.com/Ablation-Tool/ablation) · [Research Chronicle](https://github.com/Ablation-Tool/zoe/blob/main/docs/RESEARCH-CHRONICLE.md) · [Proof Packet](https://github.com/Ablation-Tool/zoe/blob/main/docs/PROOF-PACKET.md) · [Constitution](https://github.com/Ablation-Tool/zoe/blob/main/docs/CONSTITUTION.md) · [GitHub Sponsors](https://github.com/sponsors/Ablation-Tool) · [Back to top &uarr;](#top)
+[Live Web Portfolio](https://ablation-tool.github.io/Ablation-Tool/) · [Zoe Monorepo](https://github.com/Ablation-Tool/zoe) · [Dorothy 3D Brain](https://ablation-tool.github.io/zoe/) · [Zoe &amp; Clara (`525 KB`)](https://github.com/Ablation-Tool/zoe/releases/download/v0.9.6-beta/zoe-clara-core-v0.9.6.zip) · [SafeConvert (`v1.0.0`)](https://github.com/Ablation-Tool/SafeConvert) · [Ablation AIARE](https://github.com/Ablation-Tool/ablation) · [Research Chronicle](https://github.com/Ablation-Tool/zoe/blob/main/docs/RESEARCH-CHRONICLE.md) · [Proof Packet](https://github.com/Ablation-Tool/zoe/blob/main/docs/PROOF-PACKET.md) · [Constitution](https://github.com/Ablation-Tool/zoe/blob/main/docs/CONSTITUTION.md) · [Sponsors](https://github.com/sponsors/Ablation-Tool) · [Back to top &uarr;](#top)
 
 </div>

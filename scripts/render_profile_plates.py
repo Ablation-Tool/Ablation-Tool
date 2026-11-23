@@ -189,7 +189,7 @@ def build_hero(mode: str) -> str:
     <text x="48" y="302" font-family="{SERIF}" font-style="italic" font-size="14.5" fill="{t["teal"]}">“Transforming the symbolic into the geometric.”</text>
 
     <line x1="48" y1="322" x2="534" y2="322" stroke="{t["border"]}" stroke-width="1"/>
-    <text x="48" y="345" font-family="{MONO}" font-size="9.5" letter-spacing="0.1" fill="{t["muted"]}">Ablation-Tool/zoe · 16 Theorems · Dorothy 3D Brain · SafeConvert · 6 CVEs</text>
+    <text x="48" y="345" font-family="{MONO}" font-size="9.5" letter-spacing="0.1" fill="{t["muted"]}">16 Theorems · 126 JSON Reports · Dorothy 3D Brain · SafeConvert · 6 CVEs</text>
 
     <!-- Right Gallagher Scientific Instrument Viewport -->
     <rect x="572" y="32" width="592" height="316" rx="14" fill="{t["panel"]}" stroke="{t["border"]}" stroke-width="1.3"/>
@@ -726,6 +726,21 @@ def build_divider(accent: str, secondary: str, idx: int) -> str:
 '''
 
 
+def build_action_btn(label: str, accent: str, width: int, filled: bool = False) -> str:
+    w = width
+    h = 34
+    r = 9
+    bg = accent if filled else "#0E1B26"
+    txt = "#091219" if filled else "#F2EDE4"
+    dot = "#091219" if filled else accent
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="{w}" height="{h}" role="img" aria-label="{html.escape(label)}">
+  <rect x="1" y="1" width="{w-2}" height="{h-2}" rx="{r}" fill="{bg}" stroke="{accent}" stroke-width="1.4"/>
+  <circle cx="16" cy="17" r="3.6" fill="{dot}"/>
+  <text x="{(w + 14) / 2:.1f}" y="21.5" text-anchor="middle" font-family="{SANS}" font-size="12.2" font-weight="700" letter-spacing="0.25" fill="{txt}">{html.escape(label)}</text>
+</svg>
+'''
+
+
 def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     outputs: dict[str, str] = {}
@@ -738,15 +753,12 @@ def main() -> int:
         outputs[f"plate-footer-{mode}.svg"] = build_footer(mode)
 
     outputs.update({
-        "nav-zoe.svg": build_nav_tab("ZOE", "#E85D1A", 86),
-        "nav-app.svg": build_nav_tab("ZOE APP", "#2DD4BF", 126),
-        "nav-sessions.svg": build_nav_tab("SESSIONS", "#FF8142", 122),
-        "nav-manifold.svg": build_nav_tab("MANIFOLD", "#2DD4BF", 122),
-        "nav-evidence.svg": build_nav_tab("EVIDENCE", "#C06EFF", 122),
-        "nav-gallery.svg": build_nav_tab("GALLERY", "#F0CFA0", 114),
-        "nav-papers.svg": build_nav_tab("PAPERS", "#2DD4BF", 108),
-        "nav-repos.svg": build_nav_tab("REPOS", "#E85D1A", 98),
-        "nav-security.svg": build_nav_tab("SECURITY", "#C06EFF", 122),
+        "btn-web-portfolio.svg": build_action_btn("Live Web Portfolio", "#E85D1A", 174, filled=True),
+        "btn-dorothy-3d.svg": build_action_btn("Dorothy 3D Brain", "#2DD4BF", 168),
+        "btn-zoe-clara.svg": build_action_btn("Zoe & Clara (525 KB)", "#C06EFF", 184),
+        "btn-safeconvert.svg": build_action_btn("SafeConvert v1.0", "#F0CFA0", 162),
+        "btn-ablation.svg": build_action_btn("Ablation AIARE", "#E85D1A", 152),
+        "btn-sponsor.svg": build_action_btn("GitHub Sponsors", "#2DD4BF", 162),
         "divider-orange.svg": build_divider("#E85D1A", "#2DD4BF", 1),
         "divider-teal.svg": build_divider("#2DD4BF", "#C06EFF", 2),
         "divider-violet.svg": build_divider("#C06EFF", "#E85D1A", 3),

@@ -59,7 +59,7 @@
     <text x="48" y="302" font-family="Georgia, 'Palatino Linotype', 'Book Antiqua', serif" font-style="italic" font-size="14.5" fill="#0D8C85">“Transforming the symbolic into the geometric.”</text>
 
     <line x1="48" y1="322" x2="534" y2="322" stroke="#CFC4B0" stroke-width="1"/>
-    <text x="48" y="345" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="0.1" fill="#5C7180">Ablation-Tool/zoe · 16 Theorems · Dorothy 3D Brain · SafeConvert · 6 CVEs</text>
+    <text x="48" y="345" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="0.1" fill="#5C7180">16 Theorems · 126 JSON Reports · Dorothy 3D Brain · SafeConvert · 6 CVEs</text>
 
     <!-- Right Gallagher Scientific Instrument Viewport -->
     <rect x="572" y="32" width="592" height="316" rx="14" fill="#FCFBF7" stroke="#CFC4B0" stroke-width="1.3"/>
